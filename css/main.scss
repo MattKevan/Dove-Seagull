@@ -113,6 +113,28 @@ body {
   	background-color: #fff;
 }
 
+.site-navigation {
+	width: 0%;
+	float: left;
+	height: 100%;
+	display: none;
+
+	@media (min-width: $screen-md-min) {
+    	display: block;
+    	width: 20%;
+  	}
+}
+
+.site-content {
+	width: 100%;
+	float: left;
+	height: 100%;
+
+	@media (min-width: $screen-md-min) {
+    	width: 80%;
+  	}
+}
+
 a {color: #000;}
 
 a:hover {
@@ -120,12 +142,8 @@ a:hover {
 	text-decoration: underline;
 }
 
-h1 {
-	font-family: 'Knile Light', Helvetica, Arial, sans-serif;
-}
-
-h2, h3, h4 {
-	font-family: 'Knile Bold', Helvetica, Arial, sans-serif;
+h1, h2, h3, h4 {
+	font-family: 'Calendas Plus', Helvetica, Arial, sans-serif;
 	font-weight: normal;
 	color: #000;
 }
@@ -148,7 +166,7 @@ h2.title {
 h2 {margin-top: 0!important;}
 
 .lead {
-	font-family: 'Knile Light', Helvetica, Arial, sans-serif;
+	font-family: 'Calendas Plus', Helvetica, Arial, sans-serif;
 	border-style: solid;
     border-width: 0 0 5px 0;
     border-color: #e53780;
@@ -181,7 +199,7 @@ h2 {margin-top: 0!important;}
 	}
 }
 .page-meta {
-	font-family: 'Knile Light', Helvetica, Arial, sans-serif;
+	font-family: 'Calendas Plus', Helvetica, Arial, sans-serif;
 	font-size: 24px;
 }
 
@@ -193,7 +211,7 @@ h2 {margin-top: 0!important;}
 }
 
 .navbar-default .navbar-brand {
-	font-family: 'Knile Bold', Helvetica, Arial, sans-serif;
+	font-family: 'Open Sans', Helvetica, Arial, sans-serif;
 	font-size: 16px;
 	color: #000;
 }
@@ -291,7 +309,7 @@ h2 {margin-top: 0!important;}
 	h2 {margin-top: 0;}
 	h3 {margin: 15px 0 5px 0;}
 	p {padding: 0;}	
-	.intro {font-family: 'Knile', Helvetica, Arial, sans-serif;}
+	.intro {font-family: 'Calendas Plus', Helvetica, Arial, sans-serif;}
  	.teaser-inner {background-color:#fff;}
 }
 
@@ -328,13 +346,12 @@ h2 {margin-top: 0!important;}
 	}
 
 	h1 {
-		font-family: "Knile Bold", Georgia, "Times New Roman", Times, serif;
 		margin: 0 0 20px 0;		
 	}
 
 	h2.feature {
 		line-height: 1.2em;
-		font-family: "Knile Light", Georgia, "Times New Roman", Times, serif;
+		font-family: "Calendas Plus", Georgia, "Times New Roman", Times, serif;
 		font-size: 45px;
 		margin: 0 0 40px 0;
 
@@ -424,7 +441,9 @@ h2 {margin-top: 0!important;}
 		text-decoration: underline;
 	}
 }
-
+.artwork-grid {
+	img {width: 100%;}
+}
 // Listing card
 
 .card.listing {

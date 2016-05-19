@@ -5,16 +5,27 @@
 
   <body>
 
-    {% include header.html %}
+    <div class="page-wrapper">
+      <div class="row-fluid">
 
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </div>
+        <div class="site-navigation">
+          {% include header.html %}
+        </div>
 
-    {% include footer.html %}
+        <div class="site-content">
+          {{ content }}
+        </div>
+
+      </div><!--/row-->
+
+      <div class="footer row-fluid">
+
+        <div class="col-xs-12">
+          {% include footer.html %}
+        </div>
+
+      </div><!-- /footer row-->
+    </div><!--/page-wrapper-->
 
   </body>
-
 </html>

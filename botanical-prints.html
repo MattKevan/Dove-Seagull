@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+<h1 class="title">Botanical prints</h1>
+
+	<div class="card listing">
+		<div class="container-fluid">
+			
+			<h2 class="title">Featured work</h2>
+			<div class="row-fluid">
+			
+				{% for artwork in site.data.artwork %}
+				<div class="col-xs-12 col-sm-4 col-md-3 artwork-grid">
+			  
+			   		<img src="{{ artwork.image1 }}" />
+			      <h4>{{ artwork.title }}</h4>
+			    
+			  
+			</div>
+			{% endfor %}
+
+				<p class="more-link"><a href="/work">See more work </a></p>
+
+			</div>
+		</div>
+	</div>
+	</div>
+
