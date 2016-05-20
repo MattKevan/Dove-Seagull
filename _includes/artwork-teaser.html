@@ -1,0 +1,17 @@
+
+
+
+				{% for artwork in site.data.artwork %}
+					
+					{% if artwork.section_id == page.section %}
+					
+				<div class="col-xs-12 col-sm-4 col-md-4 artwork-grid">
+			  
+			   		<a href="{{ artwork.url }}" target="_blank"><img src="{{ artwork.thumb }}" /></a>
+			      <a href="{{ artwork.url }}" target="_blank"><h4>{{ artwork.title  | truncate: 50 }}</h4></a>
+			    <p class="artwprk-price">Price: £{{ artwork.price }}+</p>
+			  
+			</div>
+			    {% endif %}
+			
+			{% endfor %}

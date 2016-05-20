@@ -110,7 +110,7 @@
 body {
 	color: #000;
 	font-family: 'Open Sans', Helvetica, Arial, sans-serif;
-  	background-color: #fff;
+  	background-color: #9bd3d5;
 }
 
 .site-navigation {
@@ -118,10 +118,13 @@ body {
 	float: left;
 	height: 100%;
 	display: none;
+	
 
 	@media (min-width: $screen-md-min) {
     	display: block;
     	width: 20%;
+    	background-color: #9bd3d5;
+
   	}
 }
 
@@ -129,6 +132,7 @@ body {
 	width: 100%;
 	float: left;
 	height: 100%;
+	  	background-color: #fff;
 
 	@media (min-width: $screen-md-min) {
     	width: 80%;
@@ -311,6 +315,14 @@ h2 {margin-top: 0!important;}
 	p {padding: 0;}	
 	.intro {font-family: 'Calendas Plus', Helvetica, Arial, sans-serif;}
  	.teaser-inner {background-color:#fff;}
+}
+
+.banner.botanical {
+	background-image: url('../images/botanical/ferns.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+	height: 300px;
 }
 
 // Cards
