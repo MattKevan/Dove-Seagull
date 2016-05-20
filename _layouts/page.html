@@ -2,14 +2,15 @@
 layout: default
 ---
 
-<div class="container">
-	<div class="row">
-		<div class="col-xs-12 col-sm-10 col-sm-push-1 content">
-			<h1 class="title">{{ page.title }}</h1>
 
-			<p class="lead">{{ page.lead }}</p>
-			{{ content }}
-		
-		</div>
+<div class="page-banner" style="background-image: url('{{ page.banner-image }}');">
+	<div class="inner">
+		<h1 class="title">{{ page.title }}</h1>
+		<p class="lead">{{ page.lead }}</p>
 	</div>
 </div>
+
+{{ content }}
+
+
+

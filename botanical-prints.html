@@ -1,29 +1,23 @@
 ---
-layout: default
+layout: page
+title: Botanical prints
+lead: As a designer, I'm fascinated by what makes things work, and how best to communicate ideas.
+permalink: /botanical-prints/
+section: 19036676
+banner-image: /images/botanical/fern.jpg
 ---
 
-<h1 class="title">Botanical prints</h1>
+<div class="card listing">
+	<div class="container-fluid">
+		<div class="row-fluid">
 
-	<div class="card listing">
-		<div class="container-fluid">
-			
-			<h2 class="title">Featured work</h2>
-			<div class="row-fluid">
-			
-				{% for artwork in site.data.artwork %}
-				<div class="col-xs-12 col-sm-4 col-md-3 artwork-grid">
-			  
-			   		<img src="{{ artwork.image1 }}" />
-			      <h4>{{ artwork.title }}</h4>
-			    
-			  
-			</div>
+			{% for artwork in site.data.artwork %}
+				{% if artwork.section_id == page.section %}
+					{% include artwork-teaser.html %}
+				{% endif %}
 			{% endfor %}
 
-				<p class="more-link"><a href="/work">See more work </a></p>
-
-			</div>
 		</div>
 	</div>
-	</div>
+</div>
 
