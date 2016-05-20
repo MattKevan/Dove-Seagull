@@ -2,7 +2,8 @@
 layout: page
 title: Botanical prints
 lead: As a designer, I'm fascinated by what makes things work, and how best to communicate ideas.
-section-no: 19036676
+permalink: /shop/botanical-prints/
+section: 19036676
 banner-image: /images/botanical/fern.jpg
 ---
 
@@ -11,7 +12,7 @@ banner-image: /images/botanical/fern.jpg
 		<div class="row">
 
 			{% for artwork in site.data.artwork %}
-				{% if artwork.section_id == page.section-no %}
+				{% if artwork.section_id == page.section %}
 					{% include artwork-teaser.html %}
 				{% endif %}
 			{% endfor %}
