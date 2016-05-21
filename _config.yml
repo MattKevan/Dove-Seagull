@@ -23,7 +23,7 @@ gems:
 markdown: kramdown
 
 collections:
-  product:
+  section:
     output: true
     permalink: /shop/:path/
 
@@ -31,6 +31,6 @@ defaults:
   -
     scope:
       path: ""
-      type: "product"
+      type: section
     values:
-      layout: "product"
+      layout: page

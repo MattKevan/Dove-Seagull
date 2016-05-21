@@ -5,29 +5,69 @@ layout: default
 <div class="home">
 	<div class="card banner home">
 		<div class="inner">
-			<div class="col-xs-12 col-sm-8 col-sm-push-2">
+			<div class="col-xs-12">
 
-				<h1 class="title">The Dove & The Seagull</h1>
-				<h2 class="feature">Art prints and more</h2>
+				<h1 class="title">The Dove & the Seagull</h1>
+
+			</div>
+		</div>
+	</div>
+
+	<div class="card categories">
+		<div class="container">
+			<div class="row">
+
+				<div class="col-xs-12 col-sm-6 col-md-4 category category1">
+					<div class="inner">
+					<h3><a href="/shop/botanical-prints">Botanical prints</a></h3>
+					</div>
+				</div>
+
+				<div class="col-xs-12 col-sm-6 col-md-4 category category2">
+					<div class="inner">
+					<h3><a href="/shop/plant-study-prints">Plant study prints</a></h3>
+				</div>
+				</div>
+
+				<div class="col-xs-12 col-sm-6 col-md-4 category category3">
+					<div class="inner">
+					<h3><a href="/shop/wpa-posters">WPA posters</a></h3>
+				</div>
+				</div>
+
+				<div class="col-xs-12 col-sm-6 col-md-4 category category4">
+					<div class="inner">
+					<h3><a href="/shop/butterfly-prints">Butterfly prints</a></h3>
+				</div>
+				</div>
+
+				<div class="col-xs-12 col-sm-6 col-md-4 category category5">
+					<div class="inner">
+					<h3><a href="/shop/woodcut-prints">Woodcut prints</a></h3>
+				</div>
+				</div>
+
+				<div class="col-xs-12 col-sm-6 col-md-4 category category6">
+					<div class="inner">
+					<h3><a href="/shop/paul-nash-prints">Paul Nash prints</a></h3>
+				</div>
+				</div>
 
 			</div>
 		</div>
 	</div>
 
-	<div class="card listing">
-		<div class="container-fluid">
-		<h2 class="title">Featured work</h2>
-					<div class="row-fluid">
-			<div class="col-xs-12 col-sm-10 col-sm-push-1">
-
-			    {% for work in site.work limit: 3 %}
-					{% include work-teaser-list.html %}
-				{% endfor %}
-
-				<p class="more-link"><a href="/work">See more work </a></p>
-
+	<div class="card latest-prints">
+		<div class="container">
+			<h2 class="title">Latest prints</h3>
+			<div class="row">
+				
+			{% for listing in site.data.listings limit: 3%}
+					{% include artwork-teaser.html %}
+			{% endfor %}				
 			</div>
 		</div>
 	</div>
-	</div>
-</div>
+
+
+</div><!--/home-->

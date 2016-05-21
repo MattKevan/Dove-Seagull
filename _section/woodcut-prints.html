@@ -1,0 +1,22 @@
+---
+layout: page
+title: Woodcut prints
+lead: 
+permalink: /shop/woodcut-prints/
+section_id: 19068027
+---
+
+<div class="card listing">
+	<div class="container">
+		<div class="row">
+			
+			{% for artwork in site.data.artwork %}
+				{% if artwork.section_id == page.section %}
+					{% include artwork-teaser.html %}
+				{% endif %}
+			{% endfor %}
+
+		</div>
+	</div>
+</div>
+

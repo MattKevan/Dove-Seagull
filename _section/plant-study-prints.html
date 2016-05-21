@@ -1,0 +1,23 @@
+---
+layout: page
+title: Plant study prints
+lead: 
+permalink: /shop/plant-study-prints/
+section_id: 19118759
+banner-image: /images/botanical/ferns.jpg
+---
+
+<div class="card listing">
+	<div class="containe">
+		<div class="row">
+		
+			{% for artwork in site.data.artwork %}
+				{% if artwork.section_id == page.section %}
+					{% include artwork-teaser.html %}
+				{% endif %}
+			{% endfor %}
+
+		</div>
+	</div>
+</div>
+
