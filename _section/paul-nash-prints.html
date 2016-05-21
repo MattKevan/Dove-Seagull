@@ -9,9 +9,9 @@ section_id: 19099181
 <div class="card listing">
 	<div class="container">
 		<div class="row">
-
-			{% for artwork in site.data.artwork %}
-				{% if artwork.section_id == page.section %}
+		
+			{% for listing in site.data.listings %}
+				{% if listing.section_id == page.section_id %}
 					{% include artwork-teaser.html %}
 				{% endif %}
 			{% endfor %}

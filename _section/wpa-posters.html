@@ -6,22 +6,17 @@ permalink: /shop/wpa-posters/
 section_id: 19058808
 ---
 
-<div class="banner wpa">
-</div>
-
 	<div class="card listing">
-		<div class="container-fluid">
-			
-			<div class="row-fluid">
+		<div class="container">
+			<div class="row">
 				
-			{% for artwork in site.data.artwork %}
-				{% if artwork.section_id == page.section %}
+			{% for listing in site.data.listings %}
+				{% if listing.section_id == page.section_id %}
 					{% include artwork-teaser.html %}
 				{% endif %}
 			{% endfor %}
 
 			</div>
 		</div>
-	</div>
 	</div>
 

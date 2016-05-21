@@ -1,7 +1,7 @@
 <!-- Artwork grid -->
 <div class="col-xs-6 col-sm-4 col-md-4 artwork-grid">
 	<img src="{{ listing.image_570xN_url }}" data-toggle="modal" data-target="#{{ listing.listing_id }}" />
-	<h4 data-toggle="modal" data-target="#{{ listing.listing_id }}">{{ listing.title  | truncate: 50 }}</h4>
+	<h4 data-toggle="modal" data-target="#{{ listing.listing_id }}">{{ listing.title }}</h4>
 	<p class="artwork-price">Price: £{{ listing.price }}+</p>
     <a class="btn btn-default" href="{{ listing.url }}" role="button" target="_blank">Buy on Etsy</a>			  
 </div>
