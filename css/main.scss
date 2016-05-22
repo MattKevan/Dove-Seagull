@@ -79,6 +79,15 @@ h2 {margin-top: 0!important;}
 
 .crumb {margin-bottom: 30px;}
 
+.btn.btn-default {
+	
+	background:  #9bd3d5;
+	border: none;
+	color: #000;
+	font-family: 'Calendas Plus', Helvetica, Arial, sans-serif;
+	&:hover {text-decoration:underline;}
+
+}
 
 
 // Navigation
@@ -176,7 +185,7 @@ h2 {margin-top: 0!important;}
 }
 
 .overlay ul ul li {
-	font-size: .6em;
+	font-size: .6em;	
 }
 
 .category {
@@ -271,7 +280,23 @@ h2 {margin-top: 0!important;}
 .artwork-grid {
 	img {width: 100%;}
 	margin-bottom: 30px;
+
+	h4 {
+		&:hover {
+			text-decoration:underline;
+			color: #333;
+			cursor: pointer;
+			cursor: hand;
+		}
+	}
+	img {
+		&:hover {
+			cursor: pointer;
+			cursor: hand;			
+		}
+	}
 }
+
 
 .artwork-image  {
 	width: 100%;
