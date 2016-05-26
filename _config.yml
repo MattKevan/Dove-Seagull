@@ -8,15 +8,14 @@
 # Site settings
 title: The Dove & The Seagull
 email: m@kevan.tv
-description: High quality art prints
+description: High quality retro & vintage inspired art poster prints
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://127.0.0.1:4000" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://www.thedoveandtheseagull.com" # the base hostname & protocol for your site
 
 
 gems:
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 
 # Build settings
