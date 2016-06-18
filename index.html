@@ -18,53 +18,18 @@ layout: default
 		<div class="container">
 			<div class="row">
 
+
+			{% for collection in site.collection %}
+
 				<div class="col-xs-12 col-sm-6 col-md-4">
 					<div class="category category1">
 						<div class="inner">
-							<h3><a href="/shop/botanical-prints">Botanical prints</a></h3>
+							<h3><a href="{{ collection.url }}">{{ collection.title }}</a></h3>
 						</div>
 					</div>
 				</div>
+				{% endfor %}
 
-				<div class="col-xs-12 col-sm-6 col-md-4">
-					<div class="category category2">
-						<div class="inner">
-							<h3><a href="/shop/plant-study-prints">Plant study prints</a></h3>
-						</div>
-					</div>
-				</div>
-
-				<div class="col-xs-12 col-sm-6 col-md-4">
-					<div class="category category3">
-						<div class="inner">
-							<h3><a href="/shop/wpa-posters">WPA posters</a></h3>
-						</div>
-					</div>
-				</div>
-
-				<div class="col-xs-12 col-sm-6 col-md-4">
-					<div class="category category4">
-						<div class="inner">
-							<h3><a href="/shop/butterfly-prints">Butterfly prints</a></h3>
-						</div>
-					</div>
-				</div>
-
-				<div class="col-xs-12 col-sm-6 col-md-4">
-					<div class="category category5">
-						<div class="inner">
-							<h3><a href="/shop/woodcut-prints">Woodcut prints</a></h3>
-						</div>
-					</div>
-				</div>
-
-				<div class="col-xs-12 col-sm-6 col-md-4">
-					<div class="category category6">
-						<div class="inner">
-							<h3><a href="/shop/paul-nash-prints">Paul Nash prints</a></h3>
-						</div>
-					</div>
-				</div>
 
 			</div>
 		</div>
