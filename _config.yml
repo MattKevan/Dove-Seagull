@@ -10,12 +10,7 @@ title: The Dove & The Seagull
 email: m@kevan.tv
 description: High quality retro & vintage inspired art poster prints
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.thedoveandtheseagull.com" # the base hostname & protocol for your site
-
-
-gems:
-  - jekyll-sitemap
-  - jekyll-seo-tag
+url: "http://www.thedoveandtheseagull.com" # the base hostname & protocol for your sites
 
 
 # Build settings
