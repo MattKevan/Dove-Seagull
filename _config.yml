@@ -12,12 +12,10 @@ description: High quality retro & vintage inspired art poster prints
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.thedoveandtheseagull.com" # the base hostname & protocol for your site
 
-
 gems:
-  - jekyll-sitemap
   - jekyll-seo-tag
-
-
+  - jekyll-sitemap
+    
 # Build settings
 markdown: kramdown
 
