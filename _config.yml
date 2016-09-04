@@ -10,8 +10,8 @@ title: The Dove & The Seagull
 email: m@kevan.tv
 description: High quality retro & vintage inspired art poster prints
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.thedoveandtheseagull.com" # the base hostname & protocol for your sites
 
+url: "https://www.thedoveandtheseagull.com" # the base hostname & protocol for your sites
 
 # Build settings
 markdown: kramdown
@@ -20,11 +20,20 @@ collections:
   section:
     output: true
     permalink: /shop/:path/
+  collection:
+    output: true
+    permalink: /collections/:path/
 
 defaults:
   -
     scope:
       path: ""
       type: section
+    values:
+      layout: page
+  -
+    scope:
+      path: ""
+      type: collection
     values:
       layout: page

@@ -1,0 +1,25 @@
+---
+title: Collections
+layout: page
+lead: 
+permalink: "/collections/"
+
+---
+<div class="card listing">
+	<div class="container">
+		<div class="row">
+
+			
+			{% for collection in site.collection %}
+			<div class="col-xs-6 col-sm-4 col-md-4">
+				<img src="{{ collection.thumbnail-image }}" alt="{{ collection.title }}" />
+				<h3><a href="{{ collection.url }}">{{ collection.title }}</a></h3>
+
+			</div>
+				
+			{% endfor %}
+
+		</div>
+	</div>
+</div>
+
