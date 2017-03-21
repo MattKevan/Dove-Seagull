@@ -3,12 +3,17 @@ layout: default
 ---
 
 <div class="page-banner" style="background-image: url('{{ page.banner-image }}');">
-	<div class="inner">
+	<div class="container">
+	<div class="row">
+		<div class="col-sm-8">
 		<h1 class="title">{{ page.title }}</h1>
 		<p class="lead">{{ page.lead }}</p>
+		{{ content }}
+		</div>
+		</div>
 	</div>
 </div>
 
-{{ content }}
+
 
 {% include listing-grid.html %}
