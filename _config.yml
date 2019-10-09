@@ -20,9 +20,12 @@ collections:
   section:
     output: true
     permalink: /shop/:path/
-  collection:
+  collect:
     output: true
     permalink: /collections/:path/
+  artwork:
+    output: true
+    permalink: /artwork/:path/
 
 defaults:
   -
@@ -34,6 +37,12 @@ defaults:
   -
     scope:
       path: ""
-      type: collection
+      type: collect
     values:
       layout: page
+  -
+    scope:
+      path: ""
+      type: artwork
+    values:
+      layout: artwork

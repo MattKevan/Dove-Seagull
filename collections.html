@@ -10,10 +10,10 @@ permalink: "/collections/"
 		<div class="row">
 
 			
-			{% for collection in site.collection %}
+			{% for item in site.collect %}
 			<div class="col-xs-6 col-sm-4 col-md-4">
-				<img src="{{ collection.thumbnail-image }}" alt="{{ collection.title }}" />
-				<h3><a href="{{ collection.url }}">{{ collection.title }}</a></h3>
+				<img src="{{ item.thumbnail-image }}" alt="{{ item.title }}" />
+				<h3><a href="{{ item.url }}">{{ item.title }}</a></h3>
 
 			</div>
 				

@@ -1,0 +1,57 @@
+---
+layout: default
+---
+
+<div class="card product">
+	<div class="container">
+		<div class="row">
+
+			<div class="main-column col-xs-12 col-sm-8">
+				<div class="inner">
+					<div class="image"><img src="{{ page.image_fullxfull_url_0: }}" /></div>
+					{{ content }}
+				</div>
+			</div>
+
+			<div class="product-info col-xs-12 col-sm-4">
+				<div class="inner">
+
+				<h1>{{ page.title }}</h1>
+
+				<ul>
+					<li>Printed on high quality 180gsm watercolour paper</li>
+					<li>Dispatched within 3 days</li>
+					<li>30 day money-back guarantee</li>
+				</ul>
+				<label>Select size: </label>
+					<select class="div-toggle" data-target=".buy-buttons">
+						{% for printprice in site.data.printprices %}
+							 <option value="{{ printprice.size }}" data-show=".{{ printprice.size }}">{{ printprice.size }} inches</option>
+						{% endfor %}
+					</select>
+
+					<div class="buy-buttons">
+						{% for printprice in site.data.printprices %}
+							<div class="buy-option {{ printprice.size }} hide">
+								<p class="price">£{{ printprice.price }}</p>
+								<button
+								    class="snipcart-add-item"
+								    data-item-id="{{ page.listing_id }}-{{ printprice.size }}"
+								    data-item-name="{{ page.title }} - {{ printprice.size }} inches"
+								    data-item-price="{{ printprice.price }}"
+								    data-item-url="{{ page.url }}"
+								>
+								Add to cart
+								</button>
+							</div>
+						{% endfor %}
+					</div>
+				</div>
+			</div>
+
+		</div>
+	</div>
+</div>
+
+
+

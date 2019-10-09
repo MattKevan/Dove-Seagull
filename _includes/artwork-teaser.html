@@ -1,9 +1,11 @@
 <!-- Artwork grid -->
 <div class="col-xs-6 col-sm-4 col-md-4 artwork-grid">
-	<img src="{{ listing.image_570xN_url_0 }}" data-toggle="modal" data-target="#{{ listing.listing_id }}" />
-	<h4 data-toggle="modal" data-target="#{{ listing.listing_id }}">{{ listing.title }}</h4>
-	<p class="artwork-price">Price from £{{ listing.price }}</p>
-    <a class="btn btn-default" href="{{ listing.url }}" role="button" target="_blank">Buy on Etsy</a>			  
+	<div class="inner">
+	<a href="{{ listing.url }}"><img src="{{ listing.image_570xN_url_0 }}" /></a>
+	<h4><a href="{{ listing.url }}">{{ listing.title }}</a></h4>
+	<p class="italic">{{ listing.artist }}</p>
+	
+    			  </div>
 </div>
 
 <!-- Modal -->

@@ -6,7 +6,9 @@ layout: default
 	<div class="container">
 	<div class="row">
 		<div class="col-sm-8">
-		<h1 class="title">{{ page.title }}</h1>
+		<p><a href="{{ site.baseurl }}">Home</a> » <a href="{{ site.baseurl }}/collections">Collections</a> »</p>
+		<h1 class="title">{{ page.title }}{% if page.artist %} – <span class="italic"> {{ page.artist }}</span>{% endif %}</h1>
+		
 		<p class="lead">{{ page.lead }}</p>
 		{{ content }}
 		</div>
@@ -16,4 +18,17 @@ layout: default
 
 
 
-{% include listing-grid.html %}
+<div class="card listing">
+	<div class="container">
+		<div class="row">
+
+			{% for listing in site.artwork %}
+				{% if listing.collect == page.title %}
+					{% include artwork-teaser.html %}
+				{% endif %}
+			{% endfor %}
+
+		</div>
+	</div>
+</div>
+
