@@ -5,7 +5,7 @@ categories: []
 layout: collection
 lead: "Genesis was printed at the legendary Curwen Press and published by Nonesuch in 1924 in a limited edition of only 375 copies." 
 section_id: 19099181
-thumbnail-image: 
+thumb: /images/nash.jpg
 banner-image: 
 slug: paul-nash-prints
 tags: []

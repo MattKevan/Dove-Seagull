@@ -1,40 +1,10 @@
 <!-- Artwork grid -->
 <div class="col-xs-6 col-sm-4 col-md-4 artwork-grid">
-	<div class="inner">
-	<a href="{{ listing.url }}"><img src="{{ listing.image_570xN_url_0 }}" /></a>
-	<h4><a href="{{ listing.url }}">{{ listing.title }}</a></h4>
-	<p class="italic">{{ listing.artist }}</p>
-	
-    			  </div>
+	<a href="{{ listing.url }}">
+	<div class="item-inner" data-mh="col-text">
+		<img src="{{ listing.image_570xN_url_0 }}" />
+		<h4>{{ listing.title }}</h4>
+		<p class="artist">By {{ listing.artist }}</p>
+    </div></a>
 </div>
 
-<!-- Modal -->
-<div class="modal fade" id="{{listing.listing_id}}" tabindex="-1" role="dialog" aria-labelledby="listing">
-	<div class="modal-dialog modal-lg" role="document">
-		<div class="modal-content">
-
-			<div class="modal-header">
-				<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-			</div>
-
-			<div class="modal-body">
-				<div class="row">
-
-					<div class="col-xs-12 col-md-8">
-						<img src="{{ listing.image_fullxfull_url_0 }}" class="artwork-image"/>
-					</div>
-
-					<div class="col-xs-12 col-md-4">
-						<h3>{{ listing.title }}</h3>
-						<p>Printed on Hahnemuhle 350gsm Museum Etching paper with fade-resistant archival pigment inks for superb colour reproduction and clarity.</p>
-						<p>Available in 5x7", 8x10" and 11x14" sizes.</p>
-						<p class="artwprk-price">Price from £{{ listing.price }}</p>
-						<a class="btn btn-default" href="{{ listing.url }}" target="_blank" role="button">Buy on Etsy</a>
-					</div>
-					
-				</div>
-			</div><!--/modal-body-->
-
-		</div>
-	</div>
-</div>

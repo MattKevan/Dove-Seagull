@@ -3,10 +3,11 @@ layout: default
 ---
 
 <div class="page-banner" style="background-image: url('{{ page.banner-image }}');">
+	<div class="inner">
 	<div class="container">
 	<div class="row">
 		<div class="col-sm-8">
-		<p><a href="{{ site.baseurl }}">Home</a> » <a href="{{ site.baseurl }}/collections">Collections</a> »</p>
+		<p class="s"><a href="{{ site.baseurl }}">Home</a> » <a href="{{ site.baseurl }}/collections">Collections</a> »</p>
 		<h1 class="title">{{ page.title }}{% if page.artist %} – <span class="italic"> {{ page.artist }}</span>{% endif %}</h1>
 		
 		<p class="lead">{{ page.lead }}</p>
@@ -14,6 +15,7 @@ layout: default
 		</div>
 		</div>
 	</div>
+</div>
 </div>
 
 

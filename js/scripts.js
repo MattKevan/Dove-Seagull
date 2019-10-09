@@ -1,4 +1,5 @@
 $(document).ready(function() {
+    $('.item').matchHeight();
 
 // Owl Carousel
   $("#work-carousel").owlCarousel({

@@ -1,7 +1,7 @@
 ---
 title: Collections
 layout: page
-lead: 
+lead: Choose from iconic posters, timeless magazine covers and vintage travel posters in our impressive collection of vintage art prints.
 permalink: "/collections/"
 
 ---
@@ -11,10 +11,11 @@ permalink: "/collections/"
 
 			
 			{% for item in site.collect %}
-			<div class="col-xs-6 col-sm-4 col-md-4">
-				<img src="{{ item.thumbnail-image }}" alt="{{ item.title }}" />
-				<h3><a href="{{ item.url }}">{{ item.title }}</a></h3>
-
+			<div class="col-xs-6 col-sm-4 collection-item">
+				<a href="{{ item.url }}"><div class="item-inner mh-data="col-text">
+				<img class="collection-thumb" src="{{ item.thumb }}" alt="{{ item.title }}" />
+				<h4 class="c">{{ item.title }}</h4>
+			</div></a>
 			</div>
 				
 			{% endfor %}
