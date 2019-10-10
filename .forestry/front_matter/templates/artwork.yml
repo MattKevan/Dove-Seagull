@@ -1,0 +1,43 @@
+---
+label: Artwork
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: artist
+  label: artist
+- type: text
+  name: collect
+  label: collect
+- type: textarea
+  name: link
+  label: link
+- type: number
+  name: section_id
+  label: section_id
+- type: number
+  name: price
+  label: price
+- type: list
+  name: tags
+  label: tags
+- type: file
+  name: image_75x75_url_0
+  label: image_75x75_url_0
+- type: file
+  name: image_570xN_url_0
+  label: image_570xN_url_0
+- type: file
+  name: image_fullxfull_url_0
+  label: image_fullxfull_url_0
+- type: file
+  name: image_75x75_url_1
+  label: image_75x75_url_1
+- type: file
+  name: image_570xN_url_1
+  label: image_570xN_url_1
+- type: file
+  name: image_fullxfull_url_1
+  label: image_fullxfull_url_1
