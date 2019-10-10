@@ -1,8 +1,8 @@
 ---
 title: Papillons
-artist: E A Séguy
+artist: EA Séguy
 layout: collection
-lead: Eugene Alain Seguy was one of the leading French designers at the beginning of the 20th century, working in both the Art Deco and Art Nouveau styles.
+lead: Emile-Allain Séguy was one of the leading French designers at the beginning of the 20th century, working in both the Art Deco and Art Nouveau styles.
 thumb: /images/papillons-thumb.jpg
 
 ---

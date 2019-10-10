@@ -1,6 +1,6 @@
 ---
-title: Papillons, Plate 15
-artist: E A Séguy
+title: Papillons - plate 15
+artist: EA Séguy
 collect: Papillons
 link: https://www.etsy.com/listing/385152492/papillons-by-a-e-seguy-plate-15-nature?utm_source=thedoveandtheseagull&utm_medium=api&utm_campaign=api
 section_id: 19013728

@@ -26,6 +26,9 @@ collections:
   artwork:
     output: true
     permalink: /artwork/:path/
+  artist:
+    output: true
+    permalink: /artists/:path/
 
 defaults:
   -
@@ -46,3 +49,9 @@ defaults:
       type: artwork
     values:
       layout: artwork
+  -
+    scope:
+      path: ""
+      type: artist
+    values:
+      layout: page

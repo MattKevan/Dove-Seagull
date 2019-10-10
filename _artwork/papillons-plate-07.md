@@ -1,6 +1,6 @@
 ---
-title: Papillons, Plate 7
-artist: E A Séguy
+title: Papillons – plate 7
+artist: EA Séguy
 collect: Papillons
 link: https://www.etsy.com/listing/398386027/papillons-by-a-e-seguy-plate-7-nature?utm_source=thedoveandtheseagull&utm_medium=api&utm_campaign=api
 section_id: 19013728

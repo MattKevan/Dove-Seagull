@@ -7,14 +7,6 @@
 @import "bootstrap";
 
 @font-face {
-    font-family: 'HK Grotesk Bold';
-    src: url('fonts/hkgrotesk-bold-webfont.woff2') format('woff2'),
-         url('fonts/hkgrotesk-bold-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
     font-family: 'Calendas Plus';
     src: url('fonts/calendas-plus/calendas-plus-webfont.woff2') format('woff2'),
          url('fonts/calendas-plus/calendas-plus-webfont.woff') format('woff');
@@ -104,6 +96,9 @@ img.collection-thumb {
 }
 .collection-item {
 	margin-bottom: 30px;
+	img {
+		width: 100%;
+	}
 }
 // Navigation
 .navbar {
@@ -113,7 +108,7 @@ img.collection-thumb {
 }
 
 .navbar-default .navbar-brand {
-	font-family: 'HK Grotesk Bold', Helvetica, Arial, sans-serif;
+	font-family: 'Calendas Plus', Helvetica, Arial, sans-serif;
 	font-size: 16px;
 	color: #000;
 	padding: 10px 0px;
@@ -122,8 +117,20 @@ img.collection-thumb {
         padding-left: 15px!important;
     }
 }
-
-
+.artist-profile {
+	margin-bottom: 15px;
+}
+.artist-image {
+	width: 60px;
+	border-radius: 50%;
+	float: left;
+	margin: 0 15px 0 0;
+}
+.artist-name {
+	font-size: 1.4em;
+	font-family: 'Calendas Plus Italic', Helvetica, Arial, sans-serif;
+	padding: 15px 0;
+}
 // Menu overlay
 
 .menu-button {
