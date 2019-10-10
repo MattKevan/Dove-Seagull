@@ -42,7 +42,13 @@ p{
 }
 .c {text-align: center;}
 a {color: #000;}
-
+.quote {
+	font-size: 1.2em;
+	text-align: center;
+	color: #666;
+	line-height: 1.6em;
+	font-family: 'Calendas Plus Italic', Helvetica, Arial, sans-serif;
+}
 a:hover {
 	color: #333;
 	text-decoration: none;
