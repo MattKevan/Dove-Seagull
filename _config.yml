@@ -44,7 +44,7 @@ defaults:
       path: ""
       type: collect
     values:
-      layout: page
+      layout: collection
   -
     scope:
       path: ""
