@@ -14,7 +14,7 @@ permalink: "/collections/"
 			<div class="col-xs-6 col-sm-4 collection-item">
 				<a href="{{ item.url }}">
 					<div class="item-inner" data-mh="col-text">
-						<img src="{{ item.thumb }}" alt="{{ item.title }}" />
+						<img src="{{ site.cloudinary_url }}/{{ site.thumbnail }}{{item.image}}" alt="{{ item.title }}" />
 						<h4>{{ item.title }}</h4>
 					</div>
 				</a>

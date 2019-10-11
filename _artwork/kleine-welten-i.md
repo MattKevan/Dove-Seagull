@@ -13,5 +13,4 @@ image_fullxfull_url_0: ''
 image_75x75_url_1: ''
 image_570xN_url_1: ''
 image_fullxfull_url_1: ''
-
 ---

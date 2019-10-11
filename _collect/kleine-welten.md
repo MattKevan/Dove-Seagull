@@ -11,9 +11,7 @@ lead: " Published in 1922, shortly after Vasily Kandinsky began teaching at the 
   hermetic units."
 image: "/v1527715242/Kandinsky_-_Kleine_Welten_I_8x10.jpg"
 categories: []
-layout: ''
 tags: []
 thumb: "/v1527715242/Kandinsky_-_Kleine_Welten_I_8x10.jpg"
 artist: Wassily Kandinsky
-
 ---

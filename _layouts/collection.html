@@ -12,7 +12,7 @@ layout: default
 					<div class="artist-profile clearfix">
 						{% assign artist_collection = site.artist | where:"title", page.artist %}
 							{% for item in artist_collection %}
-								<a href="{{ item.url }}"><img src="{{item.thumb}}" / class="artist-image">
+								<a href="{{ item.url }}"><img src="{{ site.cloudinary_url }}/{{page.image}}" class="artist-image" />
 								<p class="artist-name">By {{item.title }}</p></a>
 						{% endfor %}
 					</div>
