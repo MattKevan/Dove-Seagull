@@ -4,17 +4,14 @@ auto_deploy: false
 admin_path: "/admin/"
 webhook_url: 
 sections:
-- type: jekyll-posts
-  label: Posts
-  create: all
-- type: directory
-  path: _artist
-  label: Artists
-  create: all
-  match: "**/*"
 - type: directory
   path: _artwork
   label: Artwork
+  create: all
+  match: "**/*"
+- type: directory
+  path: _artist
+  label: Artists
   create: all
   match: "**/*"
 - type: directory
@@ -22,6 +19,9 @@ sections:
   label: Collections
   create: all
   match: "**/*"
+- type: jekyll-posts
+  label: Posts
+  create: all
 - type: jekyll-pages
   label: Pages
   create: all
