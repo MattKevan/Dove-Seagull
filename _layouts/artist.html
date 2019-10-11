@@ -46,7 +46,7 @@ layout: default
 	<h3>Artwork</h3>
 </div>
 			{% assign artist_artwork = site.artwork | where:"artist", page.title %}
-			{% for listing in artist_artwork %}
+			{% for item in artist_artwork %}
 							
 					{% include artwork-teaser.html %}
 

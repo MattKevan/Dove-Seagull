@@ -1,10 +1,10 @@
 <!-- Artwork grid -->
 <div class="col-xs-6 col-sm-4 col-md-4 artwork-grid">
-	<a href="{{ listing.url }}">
+	<a href="{{ item.url }}">
 	<div class="item-inner" data-mh="col-text">
-		<img src="{{ listing.image_570xN_url_0 }}" />
-		<h4>{{ listing.title }}</h4>
-		<p class="artist">By {{ listing.artist }}</p>
+		<img src="{{ site.cloudinary_url }}/{{ site.thumbnail }}{{item.image}}" alt="{{ item.title }}" />
+		<h4>{{ item.title }}</h4>
+		<p class="artist">By {{ item.artist }}</p>
     </div></a>
 </div>
 

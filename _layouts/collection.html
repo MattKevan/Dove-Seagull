@@ -30,11 +30,9 @@ layout: default
 <div class="card listing">
 	<div class="container">
 		<div class="row">
-
-			{% for listing in site.artwork %}
-				{% if listing.collect == page.title %}
-					{% include artwork-teaser.html %}
-				{% endif %}
+			{% assign art = site.artwork | where:"collect", page.title %}
+			{% for item in art %}
+				{% include artwork-teaser.html %}
 			{% endfor %}
 
 		</div>
