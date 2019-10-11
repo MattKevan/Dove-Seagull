@@ -1,12 +1,19 @@
 ---
 label: Collection
-hide_body: true
+hide_body: false
+display_field: title
 fields:
 - type: text
   name: title
   label: Title
-- type: text
-  name: lead
+- name: lead
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
   label: Lead
 - name: artist
   type: select
