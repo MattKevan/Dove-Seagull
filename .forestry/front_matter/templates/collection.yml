@@ -42,4 +42,5 @@ fields:
   name: thumb
   label: thumb
 pages:
+- _collect/genesis.md
 - _collect/kleine-welten.md
