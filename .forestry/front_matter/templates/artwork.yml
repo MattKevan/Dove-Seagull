@@ -1,25 +1,47 @@
 ---
 label: Artwork
-hide_body: true
+hide_body: false
+display_field: title
 fields:
 - type: text
   name: title
   label: Title
-- type: text
-  name: artist
-  label: artist
-- type: text
-  name: collect
-  label: collect
+- name: artist
+  type: select
+  default: ''
+  config:
+    required: false
+    options: []
+    source:
+      type: documents
+      section: data
+      file: _data/tags.yml
+      path: artists
+  label: Artist
+- name: collect
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: documents
+      section: data
+      file: _data/tags.yml
+      path: collections
+  label: Collection
 - type: textarea
   name: link
-  label: link
-- type: number
-  name: section_id
-  label: section_id
-- type: number
-  name: price
-  label: price
+  label: Link
+- name: thumbnail
+  type: file
+  config:
+    maxSize: 250
+  label: Thumbnail
+- name: image
+  type: image_gallery
+  config: {}
+  label: Image
 - type: list
   name: tags
   label: tags
@@ -41,3 +63,5 @@ fields:
 - type: file
   name: image_fullxfull_url_1
   label: image_fullxfull_url_1
+pages:
+- _artwork/kleine-welten-i.md
