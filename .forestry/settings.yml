@@ -30,10 +30,10 @@ sections:
   label: Section
   create: all
   match: "**/*"
-upload_dir: forestryio/images
-public_path: "{{ site.baseurl }}/forestryio/images"
-front_matter_path: "/forestryio/images"
-use_front_matter_path: true
+upload_dir: ''
+public_path: ''
+front_matter_path: ''
+use_front_matter_path: 
 file_template: ":filename:"
 instant_preview: 
 build:
