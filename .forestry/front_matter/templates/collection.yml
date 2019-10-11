@@ -8,6 +8,18 @@ fields:
 - type: text
   name: lead
   label: Lead
+- name: artist
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: documents
+      section: data
+      file: _data/tags.yml
+      path: artists
+  label: Artist
 - name: image
   type: file
   config:
@@ -16,9 +28,6 @@ fields:
 - type: list
   name: categories
   label: categories
-- type: text
-  name: layout
-  label: layout
 - type: list
   name: tags
   label: tags
