@@ -26,9 +26,9 @@ sections:
   label: Pages
   create: all
 - type: directory
-  path: _section
-  label: Section
-  create: all
+  path: _data
+  label: Data
+  create: documents
   match: "**/*"
 upload_dir: ''
 public_path: ''
