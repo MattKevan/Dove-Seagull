@@ -62,3 +62,5 @@ fields:
 - type: file
   name: image_fullxfull_url_1
   label: image_fullxfull_url_1
+pages:
+- _artwork/kleine-welten-i.md
