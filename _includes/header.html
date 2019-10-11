@@ -1,35 +1,23 @@
 <nav class="navbar navbar-default">
   <div class="container">
-    <!-- Brand and toggle get grouped for better mobile display -->
-    <div class="navigation">
-      <button type="button" class="menu-button"  id="show" aria-expanded="false">
-        <span class="sr-only">Toggle navigation</span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
+    <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
       <a class="navbar-brand" href="{{ site.baseurl }}/"><img src="/images/site/logo.png" alt="The Dove & the Seagull" /></a>
     </div>
 
-    <!-- Collect the nav links, forms, and other content for toggling -->
-    <div class="overlay">
-      <div class="inner container">
-
-  <button type="button" class="overlay-close">Close</button>
-      <ul class="navigation">
-        <li><a href="/">Home</a></li>
-        <li><!--<a href="/shop">Shop</a>-->
-<ul> 
-            {% for collection in site.collection %}
-              <li> <a href="{{ collection.url }}">{{ collection.title }}</a></li>
-            {% endfor %} 
-          </ul>
-
-        </li>
-          
-        <!--<li><a href="/about">About</a></li>-->
+     <div id="navbar" class="navbar-collapse collapse" aria-expanded="false" style="height: 1px;">
+        <ul class="nav navbar-nav navbar-right">
+          <li><a href="{{ site.baseurl }}/collections">Collections</a></li>
+       
+      
       </ul>
-      </div>
-    </div><!-- /overlay -->
-  </div><!-- /inner -->
+
+  
+    </div>
+  </div>
 </nav>
