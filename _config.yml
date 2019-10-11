@@ -16,6 +16,8 @@ url: "https://www.thedoveandtheseagull.com" # the base hostname & protocol for y
 # Build settings
 markdown: kramdown
 
+cloudinary_url: http://res.cloudinary.com/dl4abuxel/image/upload
+
 collections:
   section:
     output: true
