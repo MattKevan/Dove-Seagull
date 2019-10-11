@@ -33,14 +33,10 @@ fields:
 - type: textarea
   name: link
   label: Link
-- name: thumbnail
+- name: image
   type: file
   config:
     maxSize: 250
-  label: Thumbnail
-- name: image
-  type: image_gallery
-  config: {}
   label: Image
 - type: list
   name: tags
