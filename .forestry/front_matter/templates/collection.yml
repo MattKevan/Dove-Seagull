@@ -4,16 +4,21 @@ hide_body: true
 fields:
 - type: text
   name: title
-  label: title
+  label: Title
+- type: text
+  name: lead
+  label: Lead
+- name: image
+  type: file
+  config:
+    maxSize: 250
+  label: Image
 - type: list
   name: categories
   label: categories
 - type: text
   name: layout
   label: layout
-- type: text
-  name: lead
-  label: lead
 - type: list
   name: tags
   label: tags
