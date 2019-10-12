@@ -1,0 +1,25 @@
+---
+label: Artist
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: surname
+  label: surname
+- type: list
+  name: categories
+  label: categories
+- type: textarea
+  name: lead
+  label: lead
+- type: list
+  name: tags
+  label: tags
+- type: file
+  name: thumb
+  label: thumb
+- type: text
+  name: layout
+  label: layout
