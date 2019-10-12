@@ -11,13 +11,7 @@ permalink: "/artists/"
 
 			
 			{% for item in site.artist %}
-			<div class="col-xs-6 col-sm-3 collection-item">
-				<a href="{{ item.url }}"><div class="item-inner" data-mh="col-text">
-				<img class="collection-thumb" src="{{ item.thumb }}" alt="{{ item.title }}" />
-				<h4 class="c">{{ item.title }}</h4>
-			</div></a>
-			</div>
-				
+				{% include grid-artist.html %}
 			{% endfor %}
 
 		</div>
