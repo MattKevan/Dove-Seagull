@@ -7,7 +7,8 @@ lead: From 1935 to 1936, as part of the New Deal Works Progress Administration, 
   and health and educational programs.
 section_id: 19058808
 tags: []
-thumb: /images/wpa.jpg
+thumb: ''
+image: "/v1527767060/See_America_8x10.jpg"
+artist: ''
 
 ---
-

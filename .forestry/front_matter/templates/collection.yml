@@ -42,6 +42,7 @@ fields:
   name: thumb
   label: thumb
 pages:
+- _collect/wpa-posters.md
 - _collect/urformen-der-kunst.md
 - _collect/genesis.md
 - _collect/kleine-welten.md
