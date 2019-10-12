@@ -29,5 +29,6 @@ fields:
   name: layout
   label: layout
 pages:
+- _artist/wassily-kandinsky.md
 - _artist/paul-nash.md
 - _artist/karl-blossfeldt.md
