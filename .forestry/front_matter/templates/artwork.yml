@@ -33,14 +33,10 @@ fields:
 - type: textarea
   name: link
   label: Link
-- name: thumbnail
+- name: image
   type: file
   config:
     maxSize: 250
-  label: Thumbnail
-- name: image
-  type: image_gallery
-  config: {}
   label: Image
 - type: list
   name: tags
@@ -64,6 +60,7 @@ fields:
   name: image_fullxfull_url_1
   label: image_fullxfull_url_1
 pages:
+- _artwork/genesis-plate-03.md
 - _artwork/genesis-plate-02.md
 - _artwork/genesis-plate-01.md
 - _artwork/kleine-welten-i.md
