@@ -62,4 +62,4 @@ defaults:
       path: ""
       type: artist
     values:
-      layout: page
+      layout: artist
