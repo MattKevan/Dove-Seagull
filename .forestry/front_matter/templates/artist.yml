@@ -8,6 +8,11 @@ fields:
 - type: text
   name: surname
   label: surname
+- name: image
+  type: file
+  config:
+    maxSize: 250
+  label: Image
 - type: list
   name: categories
   label: categories
