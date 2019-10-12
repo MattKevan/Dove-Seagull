@@ -1,0 +1,13 @@
+---
+- id: A5
+  price: 6.99
+- id: A4
+  price: 15.99
+- id: A3
+  price: 25.99
+- id: 5x7
+  price: 6.99
+- id: 8x10
+  price: 15.99
+- id: 11x14
+  price: 25.99

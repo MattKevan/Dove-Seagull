@@ -1,7 +1,7 @@
 ---
 layout: artwork
-title: Papillons, Plate 1
-artist: E A Séguy
+title: Papillons – plate 1
+artist: EA Séguy
 collect: Papillons
 link: https://www.etsy.com/listing/398385733/papillons-by-a-e-seguy-plate-1-nature?utm_source=thedoveandtheseagull&utm_medium=api&utm_campaign=api
 tags: ["Poster", "Poster print", "Wall art", "Vintage", "Watercolour", "Nature", "Botanical art", "Wildlife", "Nature print", "Butterfly print", "Butterfly art", "Butterfly poster", "High quality print"]

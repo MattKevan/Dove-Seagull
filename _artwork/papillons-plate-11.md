@@ -1,6 +1,6 @@
 ---
-title: Papillons, Plate 11
-artist: E A Séguy
+title: Papillons - plate 11
+artist: EA Séguy
 collect: Papillons
 link: https://www.etsy.com/listing/398386243/papillons-by-a-e-seguy-plate-11-nature?utm_source=thedoveandtheseagull&utm_medium=api&utm_campaign=api
 section_id: 19013728

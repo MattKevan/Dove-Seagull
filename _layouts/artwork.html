@@ -1,17 +1,18 @@
 ---
 layout: default
 ---
-
 <div class="card artwork">
 	<div class="container">
 		<div class="row">
 
 			<div class="main-column col-xs-12 col-sm-8">
 				<div class="inner">
-					<div class="image"><img src="{{ page.image_fullxfull_url_0: }}" /></div>
+					<div class="image"><img src="{{ site.cloudinary_url }}/{{ site.8x10_frame_large }}{{ page.image }}" /></div>
 					{{ content }}
 				</div>
 			</div>
+
+
 
 			<div class="product-info col-xs-12 col-sm-4">
 				<div class="inner">
@@ -25,26 +26,20 @@ layout: default
 				</ul>
 				<label>Select size: </label>
 					<select class="div-toggle" data-target=".buy-buttons">
-						{% for printprice in site.data.printprices %}
-							 <option value="{{ printprice.size }}" data-show=".{{ printprice.size }}">{{ printprice.size }} inches</option>
+						{% for item in site.data.artwork_prices %}
+							 <option value="{{ item.id }}" data-show=".{{ item.id }}">{{ item.id }}</option>
 						{% endfor %}
 					</select>
-
+					<p class="btn btn-default"><a href ="{{ page.link }}" target="_blank">Buy on Etsy</a></p>
 					<div class="buy-buttons">
-						{% for printprice in site.data.printprices %}
-							<div class="buy-option {{ printprice.size }} hide">
-								<p class="price">£{{ printprice.price }}</p>
-								<button
-								    class="snipcart-add-item"
-								    data-item-id="{{ page.listing_id }}-{{ printprice.size }}"
-								    data-item-name="{{ page.title }} - {{ printprice.size }} inches"
-								    data-item-price="{{ printprice.price }}"
-								    data-item-url="{{ page.url }}"
-								>
-								Add to cart
-								</button>
+						{% for item in site.data.artwork_prices %}
+							<div class="buy-option {{ item.id }} hide">
+								<p class="price">£{{ item.price }}</p>
+								
 							</div>
+
 						{% endfor %}
+
 					</div>
 				</div>
 			</div>
@@ -52,6 +47,30 @@ layout: default
 		</div>
 	</div>
 </div>
+<div class="card info">
+	<div class="container">
+		<div class="row">
+<div class="col-xs-12 col-sm-8">
+				<h3>About this print</h3>
+				<p>Matt 250gsm conservation digital paper. A very versatile high quality paper made in Germany from acid and chlorine free wood pulp. The paper is manufactured on a Fourdrinier Machine, a process first perfected by and patented by the Fourdrinier brothers in 1803.</p>
 
+			</div>
 
+		</div>
+		<div class="row">
+			<div class="col-xs-6 col-sm-3">
+				<p class="quote">Thank you for the 3 beautiful prints! The colors are so vivid!! I just picked them up from the frame shop today and WOW!! They look simply stunning!!!</p>
+			</div>
+			<div class="col-xs-6 col-sm-3">
+				<p class="quote">Thank you for the 3 beautiful prints! The colors are so vivid!! I just picked them up from the frame shop today and WOW!! They look simply stunning!!!</p>
+			</div>
+						<div class="col-xs-6 col-sm-3">
+				<p class="quote">Thank you for the 3 beautiful prints! The colors are so vivid!! I just picked them up from the frame shop today and WOW!! They look simply stunning!!!</p>
+			</div>
+						<div class="col-xs-6 col-sm-3">
+				<p class="quote">Thank you for the 3 beautiful prints! The colors are so vivid!! I just picked them up from the frame shop today and WOW!! They look simply stunning!!!</p>
+			</div>
+		</div>
+	</div>
+</div>
 

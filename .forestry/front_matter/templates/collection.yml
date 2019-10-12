@@ -1,0 +1,46 @@
+---
+label: Collection
+hide_body: false
+display_field: title
+fields:
+- type: text
+  name: title
+  label: Title
+- name: lead
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Lead
+- name: artist
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: documents
+      section: data
+      file: _data/tags.yml
+      path: artists
+  label: Artist
+- name: image
+  type: file
+  config:
+    maxSize: 250
+  label: Image
+- type: list
+  name: categories
+  label: categories
+- type: list
+  name: tags
+  label: tags
+- type: file
+  name: thumb
+  label: thumb
+pages:
+- _collect/genesis.md
+- _collect/kleine-welten.md

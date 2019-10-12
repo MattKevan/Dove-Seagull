@@ -1,0 +1,57 @@
+---
+layout: default
+---
+
+<div class="page-banner" style="background-image: url('{{ page.banner-image }}');">
+	<div class="inner">
+	<div class="container">
+	<div class="row">
+		<div class="col-xs-12 col-md-10">
+		<p class="s"><a href="{{ site.baseurl }}">Home</a> » <a href="{{ site.baseurl }}/artists">Artists</a> »</p>
+		<h1 class="title">{{ page.title }}{% if page.artist %} – <span class="italic"> {{ page.artist }}</span>{% endif %}</h1>
+		
+		<p class="lead">{{ page.lead }}</p>
+		{{ content }}
+		</div>
+		</div>
+	</div>
+</div>
+</div>
+
+
+<div class="card listing">
+	<div class="container">
+		<div class="row">
+<div class="col-xs-12">
+	<h3>Collections</h3>
+</div>
+			{% assign artist_collection = site.collect | where:"artist", page.title %}
+			{% for item in artist_collection %}
+				<div class="col-xs-12 col-sm-6 col-md-4 collection-item">
+				<a href="{{ item.url }}"><div class="item-inner mh-data="col-text">
+				<img class="collection-thumb" src="{{ item.thumb }}" alt="{{ item.title }}" />
+				<h4 class="c">{{ item.title }}</h4>
+			</div></a>
+			</div>
+			{% endfor %}
+
+		</div>
+	</div>
+</div>
+
+<div class="card listing">
+	<div class="container">
+		<div class="row">
+<div class="col-xs-12">
+	<h3>Artwork</h3>
+</div>
+			{% assign artist_artwork = site.artwork | where:"artist", page.title %}
+			{% for item in artist_artwork %}
+							
+					{% include artwork-teaser.html %}
+
+			{% endfor %}
+
+		</div>
+	</div>
+</div>

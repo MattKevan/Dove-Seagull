@@ -1,6 +1,6 @@
 ---
-title: Papillons, Plate 9 
-artist: E A Séguy
+title: Papillons – plate 9 
+artist: EA Séguy
 collect: Papillons
 link: https://www.etsy.com/listing/384886950/papillons-by-a-e-seguy-plate-9-nature?utm_source=thedoveandtheseagull&utm_medium=api&utm_campaign=api
 tags: ["Poster", "Poster print", "Wall art", "Vintage", "Watercolour", "Nature", "Botanical art", "Wildlife", "Nature print", "Butterfly print", "Butterfly art", "Butterfly poster", "High quality print"]
