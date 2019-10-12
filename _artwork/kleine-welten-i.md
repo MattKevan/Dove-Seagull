@@ -2,7 +2,7 @@
 collect: Kleine Welten
 title: Kleine Welten I
 artist: Vasily Kandinsky
-link: https://www.etsy.com/uk/listing/514208348/small-worlds-i-kleine-welten-i-by-vasily
+link: 'https://www.etsy.com/uk/listing/514208348/small-worlds-i-kleine-welten-i-by-vasily '
 thumbnail: "/v1527715242/Kandinsky_-_Kleine_Welten_I_8x10.jpg"
 image:
 - "/v1527715242/Kandinsky_-_Kleine_Welten_I_8x10.jpg"
