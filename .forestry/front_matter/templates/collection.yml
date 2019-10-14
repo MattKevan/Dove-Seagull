@@ -42,8 +42,8 @@ fields:
   name: thumb
   label: thumb
 pages:
-- _collect/woodcut-prints.md
 - _collect/new-and-rare-beautiful-leaved-plants.md
+- _collect/woodcut-prints.md
 - _collect/vintage-butterflies.md
 - _collect/usda-pomological.md
 - _collect/papillons.md
