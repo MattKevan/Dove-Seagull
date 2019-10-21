@@ -7,8 +7,10 @@ sections:
 - type: directory
   path: _artwork
   label: Artwork
-  create: all
+  create: documents
   match: "**/*"
+  templates:
+  - artwork
 - type: directory
   path: _artist
   label: Artists

@@ -42,12 +42,12 @@ fields:
   name: thumb
   label: thumb
 pages:
-- _collect/new-and-rare-beautiful-leaved-plants.md
 - _collect/woodcut-prints.md
-- _collect/vintage-butterflies.md
+- _collect/wpa-posters.md
+- _collect/kleine-welten.md
+- _collect/genesis.md
+- _collect/urformen-der-kunst.md
 - _collect/usda-pomological.md
 - _collect/papillons.md
-- _collect/wpa-posters.md
-- _collect/urformen-der-kunst.md
-- _collect/genesis.md
-- _collect/kleine-welten.md
+- _collect/vintage-butterflies.md
+- _collect/new-and-rare-beautiful-leaved-plants.md
