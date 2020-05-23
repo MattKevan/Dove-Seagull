@@ -40,8 +40,8 @@ layout: default
 			<h2 class="title">Latest prints</h2>
 			<div class="row">
 				
-			{% for listing in site.data.EtsyListingsDownload %}
-					{{ listing.TITLE }}
+			{% for listing in site.artwork %}
+					<p><a href="{{listing.url}}">{{ listing.title }}</a></p>
 			{% endfor %}				
 
       </div>
