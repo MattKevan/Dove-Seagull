@@ -23,7 +23,7 @@ a4_frame_small: c_scale,q_auto,w_800/c_mpad,g_center,h_1212,w_880/g_center,l_A_f
 8x10_frame_large: c_scale,q_auto,w_800/c_mpad,g_center,h_1080,w_880/g_center,l_8x10_frame
 8x10_frame_small: c_scale,q_auto,w_800/c_mpad,g_center,h_1080,w_880/g_center,l_8x10_frame/c_scale,w_400
 thumbnail_square: c_scale,w_400/c_crop,g_face:center,h_400,w_400
-
+excerpt_separator: ---
 collections:
   section:
     output: true
