@@ -1,9 +1,8 @@
 ---
-title: Butterflies & moths
+title: Retro posters
 layout: page
 lead: 
-permalink: "/butterflies-moths/"
-section: 19013728
+section: 19058808
 
 ---
 <div class="card listing">

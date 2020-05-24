@@ -1,7 +1,10 @@
 ---
 title: The Dove & The Seagull
 layout: default
-
+featured: 
+ - 291707577
+ - 791348506
+ - 528044733
 ---
 <div class="home">
 	<div class="card banner home">
@@ -19,12 +22,12 @@ layout: default
 			<div class="row">
 
 
-			{% for collection in site.collection %}
+			{% for item in site.section %}
 
 				<div class="col-xs-12 col-sm-6 col-md-4">
 					<div class="category category1">
 						<div class="inner">
-							<h3><a href="{{ collection.url }}">{{ collection.title }}</a></h3>
+							<h3><a href="{{ item.url }}">{{ item.title }}</a></h3>
 						</div>
 					</div>
 				</div>
@@ -37,13 +40,18 @@ layout: default
 
 	<div class="card latest-prints">
 		<div class="container">
-			<h2 class="title">Latest prints</h2>
+			<h2 class="title">Featured artwork</h2>
 			<div class="row">
-				
-			{% for listing in site.artwork %}
-					<p><a href="{{listing.url}}">{{ listing.title }}</a></p>
-			{% endfor %}				
+				{% for feat in page.featured %}
+					{% for item in site.artwork %}
 
+					{% if feat == item.listing_id %}
+						{% include artwork-teaser.html %}
+
+					{% endif%}
+					{% endfor %}
+					{% endfor %}
+			
       </div>
     </div>
     </div>

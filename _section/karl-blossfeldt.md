@@ -1,9 +1,8 @@
 ---
-title: Abstract & fine art
+title: Karl Blossfeldt
 layout: page
 lead: 
-permalink: "/art/"
-section: 19099181
+section: 28031226
 
 ---
 <div class="card listing">
