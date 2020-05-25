@@ -19,11 +19,6 @@ sass:
   sass_dir: _sass
   style: compressed
 
-gems:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-autoprefixer
-  
 cloudinary_url: https://res.cloudinary.com/dl4abuxel/image/upload
 thumbnail: c_scale,w_400
 a4_frame_large: c_scale,q_auto,w_800/c_mpad,g_center,h_1212,w_880/g_center,l_A_frame
