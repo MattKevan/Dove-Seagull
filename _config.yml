@@ -15,7 +15,15 @@ url: "https://www.thedoveandtheseagull.com" # the base hostname & protocol for y
 
 # Build settings
 markdown: kramdown
+sass:
+  sass_dir: _sass
+  style: compressed
 
+gems:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-autoprefixer
+  
 cloudinary_url: https://res.cloudinary.com/dl4abuxel/image/upload
 thumbnail: c_scale,w_400
 a4_frame_large: c_scale,q_auto,w_800/c_mpad,g_center,h_1212,w_880/g_center,l_A_frame
@@ -25,9 +33,9 @@ a4_frame_small: c_scale,q_auto,w_800/c_mpad,g_center,h_1212,w_880/g_center,l_A_f
 thumbnail_square: c_scale,w_400/c_crop,g_face:center,h_400,w_400
 excerpt_separator: ---
 collections:
-  section:
+  categories:
     output: true
-    permalink: /shop/:path/
+    permalink: /categories/:path/
   collect:
     output: true
     permalink: /collections/:path/
@@ -42,9 +50,9 @@ defaults:
   -
     scope:
       path: ""
-      type: section
+      type: categories
     values:
-      layout: page
+      layout: category
   -
     scope:
       path: ""
