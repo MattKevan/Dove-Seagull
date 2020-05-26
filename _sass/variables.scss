@@ -1,3 +1,26 @@
-@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,300;0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300;400;700&family=IBM+Plex+Serif:wght@300;400&display=swap');
 
-$font-family-sans-serif:   'IBM Plex Sans', Helvetica, Arial, sans-serif;
+@font-face {
+    font-family: 'Calendas Plus';
+    src: url('fonts/calendas-plus/calendas-plus-webfont.woff2') format('woff2'),
+         url('fonts/calendas-plus/calendas-plus-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Calendas Plus Italic';
+    src: url('fonts/calendas-plus-italic/calendas_plus_italic-webfont.woff2') format('woff2'),
+         url('fonts/calendas-plus-italic/calendas_plus_italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+$font-family-sans-serif:	'IBM Plex Sans', Helvetica, Arial, sans-serif;
+$headings-font-family:      'IBM Plex Serif', serif;
+
+$headings-font-weight:		300 !default;
+$font-weight-base:          400;
+$line-height-base:          1.5 !default;
+
+$primary:       			#000 !default;

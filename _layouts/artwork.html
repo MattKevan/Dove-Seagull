@@ -1,53 +1,80 @@
 ---
 layout: default
 ---
-<div class="card artwork">
-	<div class="container">
-		<div class="row">
 
-			<div class="main-column col-xs-12 col-sm-8">
-				<div class="inner">
-					<div class="image"><img src="{{ page.image_fullxfull_url_0 }}" /></div>
-					<div class="lead">{{ page.excerpt }}</div>
-				{% include artwork-info.html %}
+<div class="row">
 
+	<div class="product col-xs-12 col-sm-8">
 
-
-				</div>
-			</div>
-
-
-
-			<div class="product-info col-xs-12 col-sm-4">
-				<div class="inner ">
-
-				<h1>{{ page.title }}</h1>
-
-				<ul>
-					<li>Printed on high quality 180gsm watercolour paper</li>
-					<li>Dispatched within 3 days</li>
-					<li>30 day money-back guarantee</li>
-				</ul>
-				<label>Select size: </label>
-					<select class="div-toggle" data-target=".buy-buttons">
-						{% for item in site.data.artwork_prices %}
-							 <option value="{{ item.id }}" data-show=".{{ item.id }}">{{ item.id }}</option>
-						{% endfor %}
-					</select>
-					<p class="btn btn-default"><a href ="{{ page.link }}" target="_blank">Buy on Etsy</a></p>
-					<div class="buy-buttons">
-						{% for item in site.data.artwork_prices %}
-							<div class="buy-option {{ item.id }} hide">
-								<p class="price">£{{ item.price }}</p>
-								
-							</div>
-
-						{% endfor %}
-
-					</div>
-				</div>
-			</div>
-
+		<div class="image"><img src="{{ page.image_fullxfull_url_0 }}" /></div>
+		<hr>
+		<div class="excerpt">{{ page.excerpt }}</div>
+		<div class="detail">
+			{% include artwork-info.html %}
 		</div>
+		<hr>
+		{% include product-reviews.html %}
+		
+		<hr>
+		
+		<div class="tags">
+			<p class="s">
+				{% for tag in page.tags %}
+					<span class="tag">{{ tag }}</span>
+				{% endfor %}
+			</p>
+		</div>
+
 	</div>
+
+	<div class="product-info col-xs-12 col-sm-4">
+		{% for item in site.categories %}
+			{% if item.section == page.section_id %}
+				<p class="crumb s"><a href="/">Home</a> » <a href="{{ item.url }}">{{ item.title }}</a> » </p>
+				{% endif %}
+		{% endfor %}
+
+		<h1>{{ page.title }}</h1>
+				<div class="buy-buttons">
+			{% for item in site.data.artwork_prices %}
+				<div class="buy-option {{ item.id }} hide">
+					<p class="price">£{{ item.price }}</p>
+				</div>
+			{% endfor %}
+		</div>
+		<hr>
+		{% include product-proposition.html %}
+		<hr>
+
+		<div class="form-group">
+		<label>Select size: </label>
+		<select class="div-toggle form-control" data-target=".buy-buttons">
+			{% for item in site.data.artwork_prices %}
+				 <option value="{{ item.id }}" data-show=".{{ item.id }}">{{ item.id }}</option>
+			{% endfor %}
+		</select>
+		</div>
+
+
+		<p><a href ="{{ page.etsy_url }}" target="_blank" class="btn btn-primary btn-lg btn-block">Buy on Etsy</a></p>
+
+
+	</div>
+
+</div>
+
+<hr>
+
+<div class="row related-products">
+	<div class="col-12">
+		<h3>Related products</h3>
+	</div>
+		
+	{% for item in site.artwork %}
+		{% if item.section_id == page.section_id %}
+			{% if item.listing_id != page.listing_id %}
+				{% include product-teaser.html %}
+			{% endif %}
+		{% endif %}
+	{% endfor %}
 </div>

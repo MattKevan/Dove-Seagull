@@ -1,24 +1,21 @@
 ---
 title: The Dove & The Seagull
-layout: default
+layout: page
 featured: 
  - 291707577
  - 791348506
  - 528044733
 ---
-<div class="home">
-	<div class="card banner home">
-		<div class="inner">
+<div class="row">
 			<div class="col-xs-12">
 
 				<h1 class="title">Beautiful prints that  turn your house into  a home</h1>
 
 			</div>
 		</div>
-	</div>
 
-	<div class="card categories">
-		<div class="container">
+
+
 			<div class="row">
 
 
@@ -35,23 +32,26 @@ featured:
 
 
 			</div>
-		</div>
-	</div>
 
-	<div class="card latest-prints">
-		<div class="container">
+
+
+<div class="row">
+	<div class="col-xs-12">
 			<h2 class="title">Featured artwork</h2>
-			<div class="row">
+		</div>
+		</div>
+				<div class="row">
+
 				{% for feat in page.featured %}
 					{% for item in site.artwork %}
 
 					{% if feat == item.listing_id %}
-						{% include artwork-teaser.html %}
+						{% include product-teaser.html %}
 
 					{% endif%}
 					{% endfor %}
 					{% endfor %}
 			
-      </div>
-    </div>
+     
+
     </div>

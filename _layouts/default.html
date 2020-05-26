@@ -7,11 +7,18 @@
 
     {% include header.html %}
 
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
+     {% if page.cover %}
+        <div class="page-cover" style="background-image: url(/images/{{ page.cover }});">
+          <div class="overlay">
+          </div>
+        </div>
+      {% endif %}
+
+      <div class="page-wrapper {{page.layout}}">
+        <div class="container">
+          {{ content }}
+        </div>
       </div>
-    </div>
 
     {% include footer.html %}
 

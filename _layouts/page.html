@@ -2,21 +2,22 @@
 layout: default
 ---
 
-<div class="page-banner" style="background-image: url('{{ page.banner-image }}');">
-	<div class="inner">
-		<div class="container">
-			<div class="row">
-				<div class="col-xs-12">
-					<p class="s"><a href="{{ site.baseurl }}">Home</a> » </p>
-					<h1 class="title">{{ page.title }}</h1>
-					
-					<p class="lead">{{ page.lead }}</p>
-				</div>
-			</div>
-		</div>
+{% if page.cover %}
+
+{% else %}
+
+<div class="row page-top">
+	<div class="col-xs-12 col-md-8">
+			<p class="s"><a href="{{ site.baseurl }}/">Home</a> » <a href="{{ site.baseurl }}/categories">Categories</a> »</p>
+			<h1 class="title">{{ page.title }}</h1>
+			<p class="lead">{{ page.description }}</p>
+			
 	</div>
 </div>
 
+
+<hr>
+{% endif %}
 {{ content }}
 
 
