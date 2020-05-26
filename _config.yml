@@ -17,7 +17,6 @@ url: "https://www.thedoveandtheseagull.com" # the base hostname & protocol for y
 markdown: kramdown
 sass:
   sass_dir: _sass
-  style: compressed
 
 cloudinary_url: https://res.cloudinary.com/dl4abuxel/image/upload
 thumbnail: c_scale,w_400
