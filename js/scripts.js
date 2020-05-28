@@ -1,24 +1,16 @@
 $(document).ready(function() {
     $('.item').matchHeight();
 
-// Owl Carousel
-  $("#work-carousel").owlCarousel({
-  	 items : 1,
-  	 singleItem:true,
-  	 autoPlay: false,
-  	 pagination: true,
-  	 navigation: true,
-  });
+   $('.related-prodsucts-pager').rpmPagination({ 
+        domElement: '.related-prsoducts-paged',
+        //limit: 9
+        //refresh: true
 
-$(document).on('change', '.div-toggle', function() {
-  var target = $(this).data('target');
-  var show = $("option:selected", this).data('show');
-  $(target).children().addClass('hide');
-  $(show).removeClass('hide');
-});
-$(document).ready(function(){
-  $('.div-toggle').trigger('change');
-});
+    });
+    $('.listingz-pager').rpmPagination({ 
+        domElement: '.listing-pzaged',
+        limit: 12
 
+    });
 
 });

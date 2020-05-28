@@ -1,14 +1,12 @@
 ---
-title: Genesis
-artist: Paul Nash
+title: Paul Nash – Genesis
+tag: Paul Nash
 categories: []
 layout: collection
-lead: Genesis was printed at the legendary Curwen Press and published by Nonesuch
+description: Genesis was printed at the legendary Curwen Press and published by Nonesuch
   in 1924 in a limited edition of only 375 copies.
-section_id: 19099181
 thumb: ''
 banner-image: 
-slug: paul-nash-prints
 tags: []
 image: "/v1527767934/Paul_Nash_Genesis_4.jpg"
 

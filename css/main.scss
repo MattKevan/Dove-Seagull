@@ -20,7 +20,7 @@ hr {
 }
 
 .page-wrapper {
-    padding: 60px 0;
+    padding: 40px 0;
 }
 
 .page-cover { 
@@ -37,6 +37,12 @@ hr {
         margin: 0;
         padding: 0;
     }
+}
+
+.teaser {
+    margin-bottom: 40px;
+    img {width: 100%;}
+    h4 {margin-top: 10px;}
 }
 
 .product-teaser {
@@ -57,16 +63,19 @@ hr {
     a {color: #555;}
     margin-bottom: 8px;
 }
+
 .product {
-    .image {
-        img {width: 100%;}
-    }
     .excerpt{
         p:first-child {
             font-size: $lead-font-size;
             font-weight: $lead-font-weight;
         }
     }
+
+    .image {
+        img {width: 100%;}
+    }
+  
 }
 .review {
     margin-bottom: 30px;
@@ -76,7 +85,7 @@ hr {
         color: #666;
     }
 }
-.product-info {
+.product-purchase {
     h1 {font-size: 2em;}
     .hide {display: none;}
     .price {

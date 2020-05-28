@@ -2,38 +2,28 @@
 layout: default
 ---
 
-<div class="page-banner" style="background-image: url('{{ page.banner-image }}');">
-	<div class="inner">
-			<div class="row">
-				<div class="col-xs-12 col-md-8">
-					<p class="s"><a href="{{ site.baseurl }}/">Home</a> » <a href="{{ site.baseurl }}/collections">Collections</a> »</p>
-					<h1 class="title">{{ page.title }}</h1>
-					<div class="artist-profile clearfix">
-						{% assign artist_collection = site.artist | where:"title", page.artist %}
-							{% for item in artist_collection %}
-								<a href="{{ item.url }}"><img src="{{ site.cloudinary_url }}/{{page.image}}" class="artist-image" />
-								<p class="artist-name">By {{item.title }}</p></a>
-						{% endfor %}
-					</div>
-					<p class="lead">{{ page.lead }}</p>
-					
-					{{ content }}
-				</div>
-			</div>
-		</div>
-</div>
-
-
-
-<div class="card listing">
-	<div class="container">
-		<div class="row">
-			{% assign art = site.artwork | where:"collect", page.title %}
-			{% for item in art %}
-				{% include artwork-teaser.html %}
-			{% endfor %}
-
-		</div>
+<div class="row page-top">
+	<div class="col-xs-12 col-md-8">
+			<p class="s"><a href="{{ site.baseurl }}/">Home</a> » <a href="{{ site.baseurl }}/collections">Collections</a> »</p>
+			<h1 class="title">{{ page.title }}</h1>
+			<p class="lead">{{ page.description }}</p>
+			{{ content }}
+			
 	</div>
 </div>
+
+
+<hr>
+
+
+<div class="row">
+	{% for item in site.artwork %}
+		{% for tag in item.tags %}
+			{% if tag == page.tag %}
+				{% include product-teaser.html %}
+			{% endif %}
+		{% endfor %}
+	{% endfor %}
+</div>
+
 

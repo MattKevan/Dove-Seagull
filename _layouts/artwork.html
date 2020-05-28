@@ -4,61 +4,39 @@ layout: default
 
 <div class="row">
 
-	<div class="product col-xs-12 col-sm-8">
+	<div class="product col-12 col-md-8">
 
 		<div class="image"><img src="{{ page.image_fullxfull_url_0 }}" /></div>
 		<hr>
-		<div class="excerpt">{{ page.excerpt }}</div>
-		<div class="detail">
-			{% include artwork-info.html %}
-		</div>
-		<hr>
-		{% include product-reviews.html %}
-		
-		<hr>
-		
-		<div class="tags">
-			<p class="s">
-				{% for tag in page.tags %}
-					<span class="tag">{{ tag }}</span>
-				{% endfor %}
-			</p>
+
+		<div class="product-purchase d-md-none">
+			{% include product-purchase.html %}
 		</div>
 
-	</div>
+		<div class="product-info">
+			<div class="excerpt">{{ page.excerpt }}</div>
+			<div class="detail">
+				{% include artwork-info.html %}
+			</div>
+			<hr>
+			{% include product-reviews.html %}
+			
+			<hr>
+			
+			<div class="tags">
+				<p class="s">
+					{% for tag in page.tags %}
+						<span class="tag">{{ tag }}</span>
+					{% endfor %}
+				</p>
+			</div>
 
-	<div class="product-info col-xs-12 col-sm-4">
-		{% for item in site.categories %}
-			{% if item.section == page.section_id %}
-				<p class="crumb s"><a href="/">Home</a> » <a href="{{ item.url }}">{{ item.title }}</a> » </p>
-				{% endif %}
-		{% endfor %}
-
-		<h1>{{ page.title }}</h1>
-				<div class="buy-buttons">
-			{% for item in site.data.artwork_prices %}
-				<div class="buy-option {{ item.id }} hide">
-					<p class="price">£{{ item.price }}</p>
-				</div>
-			{% endfor %}
-		</div>
-		<hr>
-		{% include product-proposition.html %}
-		<hr>
-
-		<div class="form-group">
-		<label>Select size: </label>
-		<select class="div-toggle form-control" data-target=".buy-buttons">
-			{% for item in site.data.artwork_prices %}
-				 <option value="{{ item.id }}" data-show=".{{ item.id }}">{{ item.id }}</option>
-			{% endfor %}
-		</select>
 		</div>
 
+	</div><!--/product-->
 
-		<p><a href ="{{ page.etsy_url }}" target="_blank" class="btn btn-primary btn-lg btn-block">Buy on Etsy</a></p>
-
-
+	<div class="product-purchase col-md-4 d-none d-md-block">
+		{% include product-purchase.html %}
 	</div>
 
 </div>
@@ -69,12 +47,16 @@ layout: default
 	<div class="col-12">
 		<h3>Related products</h3>
 	</div>
-		
+
 	{% for item in site.artwork %}
 		{% if item.section_id == page.section_id %}
 			{% if item.listing_id != page.listing_id %}
+				<div class="related-products-paged col-6 col-md-4 product-teaser">
 				{% include product-teaser.html %}
+			</div>
 			{% endif %}
 		{% endif %}
 	{% endfor %}
 </div>
+<ul class="pagination justify-content-center related-products-pager"></ul>
+

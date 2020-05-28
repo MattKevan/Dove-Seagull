@@ -1,0 +1,18 @@
+---
+title: Categories
+layout: page
+description: Choose from travel posters, modernist art, nature photograpy and more in our extensive collection of vintage art prints.
+permalink: "/categories/"
+
+---
+
+		<div class="row">
+
+			
+			{% for item in site.categories %}
+				{% include grid-teaser.html %}
+			{% endfor %}
+
+		</div>
+
+

@@ -18,8 +18,10 @@ layout: default
 <div class="row">
 	{% assign art = site.artwork | where:"section_id", page.section %}
 	{% for item in art %}
+	<div class="listing-paged col-6 col-md-4 product-teaser">
 		{% include product-teaser.html %}
+		</div>
 	{% endfor %}
 </div>
-
+<ul class="pagination justify-content-center listing-pager"></ul>
 

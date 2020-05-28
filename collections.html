@@ -1,20 +1,17 @@
 ---
 title: Collections
 layout: page
-lead: Choose from travel posters, modernist art, nature photograpy and more in our extensive collection of vintage art prints.
+description: Choose from travel posters, modernist art, nature photograpy and more in our extensive collection of vintage art prints.
 permalink: "/collections/"
 
 ---
-<div class="card listing">
-	<div class="container">
-		<div class="row">
 
-			
-			{% for item in site.collect %}
-				{% include grid-teaser.html %}
-			{% endfor %}
+<div class="row">
 
-		</div>
-	</div>
+	
+	{% for item in site.collect %}
+		{% include grid-teaser.html %}
+	{% endfor %}
+
 </div>
 
