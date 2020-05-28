@@ -20,7 +20,9 @@ layout: default
 	{% for item in site.artwork %}
 		{% for tag in item.tags %}
 			{% if tag == page.tag %}
+				<div class="col-6 col-md-4">
 				{% include product-teaser.html %}
+				</div>
 			{% endif %}
 		{% endfor %}
 	{% endfor %}
