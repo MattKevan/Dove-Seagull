@@ -1,9 +1,9 @@
 $(document).ready(function() {
-    $('.item').matchHeight();
+    //$('.item').matchHeight();
 
    $('.related-products-pager').rpmPagination({ 
         domElement: '.related-products-paged',
-        //limit: 9
+        limit: 9
         //refresh: true
 
     });

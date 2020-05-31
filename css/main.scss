@@ -113,3 +113,12 @@ hr {
     margin: 0 2px 5px 0;
     color: #555;
 }
+.product-grid {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.item {
+    width: 33.33%;
+    display: flex; 
+  }
