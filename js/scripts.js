@@ -1,14 +1,14 @@
 $(document).ready(function() {
     $('.item').matchHeight();
 
-   $('.related-prodsucts-pager').rpmPagination({ 
-        domElement: '.related-prsoducts-paged',
+   $('.related-products-pager').rpmPagination({ 
+        domElement: '.related-products-paged',
         //limit: 9
         //refresh: true
 
     });
-    $('.listingz-pager').rpmPagination({ 
-        domElement: '.listing-pzaged',
+    $('.listing-pager').rpmPagination({ 
+        domElement: '.listing-paged',
         limit: 12
 
     });
