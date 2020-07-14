@@ -8,6 +8,9 @@
 @import "variables";
 @import "bootstrap/bootstrap";
 
+
+
+
 hr {
     margin-top: 2rem;
     margin-bottom: 3rem;
@@ -18,6 +21,11 @@ hr {
 .lead {
     //font-family: 'IBM Plex Serif', serif;
 }
+h1 {
+    font-family: 'Salome', serif;
+}
+
+h2,h3,h4 {font-weight: bold;}
 
 .page-wrapper {
     padding: 40px 0;
@@ -86,7 +94,7 @@ hr {
     }
 }
 .product-purchase {
-    h1 {font-size: 2em;}
+    h1 {font-size: 2.5em;}
     .hide {display: none;}
     .price {
         font-size: 1.6em;
