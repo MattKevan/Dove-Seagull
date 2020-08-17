@@ -1,18 +1,17 @@
 ---
-layout: artwork
-title: Let the waters bring forth abundantly Genesis print 
-full-title: Let the waters bring forth abundantly Genesis print | Paul Nash |  Woodcut engraving, art, Bible, high quality print, black & white
+title: 'Let the waters bring forth abundantly Genesis print '
+full-title: 'Let the waters bring forth abundantly Genesis print | Paul Nash |  Woodcut engraving, art, Bible, high quality print, black & white'
 listing_id: 292891769
-etsy_url: https://www.etsy.com/listing/292891769/let-the-waters-bring-forth-abundantly?utm_source=ds&utm_medium=api&utm_campaign=api
+etsy_url: https://www.etsy.com/listing/292891769/let-the-waters-bring-forth-abundantly?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 19099181
 price: 10.60
 tags: ["Poster", "Poster print", "Wall art", "Vintage", "Woodcut", "Genesis", "Black and white", "Bible", "Paul Nash", "Engraving", "Creation", "Modern art", "High quality print"]
-image_75x75_url_0: https://i.etsystatic.com/12853550/d/il/21bc93/2343276325/il_75x75.2343276325_cj08.jpg?version=0
-image_570xN_url_0: https://i.etsystatic.com/12853550/r/il/21bc93/2343276325/il_570xN.2343276325_cj08.jpg
-image_fullxfull_url_0: https://i.etsystatic.com/12853550/r/il/21bc93/2343276325/il_fullxfull.2343276325_cj08.jpg
-image_75x75_url_1: https://i.etsystatic.com/12853550/d/il/60e223/971242478/il_75x75.971242478_lt2t.jpg?version=0
-image_570xN_url_1: https://i.etsystatic.com/12853550/r/il/60e223/971242478/il_570xN.971242478_lt2t.jpg
-image_fullxfull_url_1: https://i.etsystatic.com/12853550/r/il/60e223/971242478/il_fullxfull.971242478_lt2t.jpg
+image_thumbnail_0: 292891769_thumbnail_0.jpg
+image_medium_0: 292891769_medium_0.jpg
+image_full_0: 292891769_full_0.jpg
+image_thumbnail_1: 292891769_thumbnail_1.jpg
+image_medium_1: 292891769_medium_1.jpg
+image_full_1: 292891769_full_1.jpg
 ---
 This is the eighth in an amazing series of woodcut prints by Paul Nash, illustrating the first chapter of Genesis.
 

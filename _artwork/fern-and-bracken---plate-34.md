@@ -1,18 +1,17 @@
 ---
-layout: artwork
-title: Fern and bracken - Plate 34 
-full-title: Fern and bracken - Plate 34 | Urformen der Kunst | Karl Blossfeldt | Botanical print, wall art, room decor, black & white, sepia, vintage
+title: 'Fern and bracken - Plate 34 '
+full-title: 'Fern and bracken - Plate 34 | Urformen der Kunst | Karl Blossfeldt | Botanical print, wall art, room decor, black & white, sepia, vintage'
 listing_id: 480963851
-etsy_url: https://www.etsy.com/listing/480963851/fern-and-bracken-plate-34-urformen-der?utm_source=ds&utm_medium=api&utm_campaign=api
+etsy_url: https://www.etsy.com/listing/480963851/fern-and-bracken-plate-34-urformen-der?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 28031226
 price: 10.60
-tags: ["Poster", "Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Black and white", "Sepia", "Minimal", "High quality print", "Botanical print"]
-image_75x75_url_0: https://i.etsystatic.com/12853550/d/il/4b9e85/2297314858/il_75x75.2297314858_l4nf.jpg?version=0
-image_570xN_url_0: https://i.etsystatic.com/12853550/r/il/4b9e85/2297314858/il_570xN.2297314858_l4nf.jpg
-image_fullxfull_url_0: https://i.etsystatic.com/12853550/r/il/4b9e85/2297314858/il_fullxfull.2297314858_l4nf.jpg
-image_75x75_url_1: https://i.etsystatic.com/12853550/d/il/68174e/1095716847/il_75x75.1095716847_qrnm.jpg?version=0
-image_570xN_url_1: https://i.etsystatic.com/12853550/r/il/68174e/1095716847/il_570xN.1095716847_qrnm.jpg
-image_fullxfull_url_1: https://i.etsystatic.com/12853550/r/il/68174e/1095716847/il_fullxfull.1095716847_qrnm.jpg
+tags: ["Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Black and white", "Sepia", "Minimal", "High quality print", "Botanical print", "Urformen der Kunst"]
+image_thumbnail_0: 480963851_thumbnail_0.jpg
+image_medium_0: 480963851_medium_0.jpg
+image_full_0: 480963851_full_0.jpg
+image_thumbnail_1: 480963851_thumbnail_1.jpg
+image_medium_1: 480963851_medium_1.jpg
+image_full_1: 480963851_full_1.jpg
 ---
 Polypodium Vulgare. Common Polypody, Adder&#39;s Fern. Young frond enlarged 7 times.
 Ribes Nigrum. Common Blackcurrant. Enlarged 5 times.

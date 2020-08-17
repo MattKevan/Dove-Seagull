@@ -1,18 +1,17 @@
 ---
-layout: artwork
-title: Yarrow Leaf - Plate 37 
-full-title: Yarrow Leaf - Plate 37 | Urformen der Kunst | Karl Blossfeldt |   Botanical print, wall art, room decor, black & white, sepia, vintage
+title: 'Yarrow Leaf - Plate 37 '
+full-title: 'Yarrow Leaf - Plate 37 | Urformen der Kunst | Karl Blossfeldt |   Botanical print, wall art, room decor, black & white, sepia, vintage'
 listing_id: 279824912
-etsy_url: https://www.etsy.com/listing/279824912/yarrow-leaf-plate-37-urformen-der-kunst?utm_source=ds&utm_medium=api&utm_campaign=api
+etsy_url: https://www.etsy.com/listing/279824912/yarrow-leaf-plate-37-urformen-der-kunst?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 28031226
 price: 10.60
-tags: ["Poster", "Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Black and white", "Sepia", "Minimal", "Leaf", "High quality print"]
-image_75x75_url_0: https://i.etsystatic.com/12853550/d/il/427bc5/2344300557/il_75x75.2344300557_94kq.jpg?version=0
-image_570xN_url_0: https://i.etsystatic.com/12853550/r/il/427bc5/2344300557/il_570xN.2344300557_94kq.jpg
-image_fullxfull_url_0: https://i.etsystatic.com/12853550/r/il/427bc5/2344300557/il_fullxfull.2344300557_94kq.jpg
-image_75x75_url_1: https://i.etsystatic.com/12853550/d/il/6b81ee/1049154766/il_75x75.1049154766_da1c.jpg?version=0
-image_570xN_url_1: https://i.etsystatic.com/12853550/r/il/6b81ee/1049154766/il_570xN.1049154766_da1c.jpg
-image_fullxfull_url_1: https://i.etsystatic.com/12853550/r/il/6b81ee/1049154766/il_fullxfull.1049154766_da1c.jpg
+tags: ["Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Black and white", "Sepia", "Minimal", "Leaf", "High quality print", "Urformen der Kunst"]
+image_thumbnail_0: 279824912_thumbnail_0.jpg
+image_medium_0: 279824912_medium_0.jpg
+image_full_0: 279824912_full_0.jpg
+image_thumbnail_1: 279824912_thumbnail_1.jpg
+image_medium_1: 279824912_medium_1.jpg
+image_full_1: 279824912_full_1.jpg
 ---
 Yarrow (Achillea Umbellata). Leaf enlarged 30 times.
 

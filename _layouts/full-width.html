@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+     {% if page.cover %}
+        <div class="page-cover" style="background-image: url(/images/{{ page.cover }});">
+          <div class="overlay">
+          </div>
+        </div>
+      {% endif %}
+
+      <div class="page-wrapper {{page.layout}}" id="wrapper_id">
+       
+          {{ content }}
+       
+      </div>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>

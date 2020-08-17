@@ -1,18 +1,17 @@
 ---
-layout: artwork
-title: Let the earth bring forth grass Genesis Bible print 
-full-title: Let the earth bring forth grass Genesis Bible print | Paul Nash | Woodcut engraving, art, bible, high quality print, black & white
+title: 'Let the earth bring forth grass Genesis Bible print '
+full-title: 'Let the earth bring forth grass Genesis Bible print | Paul Nash | Woodcut engraving, art, bible, high quality print, black & white'
 listing_id: 292890697
-etsy_url: https://www.etsy.com/listing/292890697/let-the-earth-bring-forth-grass-genesis?utm_source=ds&utm_medium=api&utm_campaign=api
+etsy_url: https://www.etsy.com/listing/292890697/let-the-earth-bring-forth-grass-genesis?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 19099181
 price: 10.60
 tags: ["Poster", "Poster print", "Wall art", "Vintage", "Woodcut", "Genesis", "Black and white", "Bible", "Paul Nash", "Engraving", "Creation", "Modern art", "High quality print"]
-image_75x75_url_0: https://i.etsystatic.com/12853550/d/il/acdcfe/2295668006/il_75x75.2295668006_5id6.jpg?version=0
-image_570xN_url_0: https://i.etsystatic.com/12853550/r/il/acdcfe/2295668006/il_570xN.2295668006_5id6.jpg
-image_fullxfull_url_0: https://i.etsystatic.com/12853550/r/il/acdcfe/2295668006/il_fullxfull.2295668006_5id6.jpg
-image_75x75_url_1: https://i.etsystatic.com/12853550/d/il/4eb3e5/971237732/il_75x75.971237732_l3w1.jpg?version=0
-image_570xN_url_1: https://i.etsystatic.com/12853550/r/il/4eb3e5/971237732/il_570xN.971237732_l3w1.jpg
-image_fullxfull_url_1: https://i.etsystatic.com/12853550/r/il/4eb3e5/971237732/il_fullxfull.971237732_l3w1.jpg
+image_thumbnail_0: 292890697_thumbnail_0.jpg
+image_medium_0: 292890697_medium_0.jpg
+image_full_0: 292890697_full_0.jpg
+image_thumbnail_1: 292890697_thumbnail_1.jpg
+image_medium_1: 292890697_medium_1.jpg
+image_full_1: 292890697_full_1.jpg
 ---
 This is the fifth in an amazing series of woodcut prints by Paul Nash, illustrating the first chapter of Genesis.
 

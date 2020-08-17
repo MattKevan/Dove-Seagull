@@ -1,15 +1,14 @@
 ---
-layout: artwork
-title: Winter Horsetail - Plate 8 
-full-title: Winter Horsetail - Plate 8 | Urformen der Kunst | Karl Blossfeldt | Botanical print, wall art, room decor, black & white, sepia, vintage
+title: 'Winter Horsetail - Plate 8 '
+full-title: 'Winter Horsetail - Plate 8 | Urformen der Kunst | Karl Blossfeldt | Botanical print, wall art, room decor, black & white, sepia, vintage'
 listing_id: 480029043
-etsy_url: https://www.etsy.com/listing/480029043/winter-horsetail-plate-8-urformen-der?utm_source=ds&utm_medium=api&utm_campaign=api
+etsy_url: https://www.etsy.com/listing/480029043/winter-horsetail-plate-8-urformen-der?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 28031226
 price: 10.60
-tags: ["Poster", "Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Black and white", "Sepia", "Minimal", "Fern", "High quality print"]
-image_75x75_url_0: https://i.etsystatic.com/12853550/d/il/b87f12/2297330356/il_75x75.2297330356_6z1a.jpg?version=0
-image_570xN_url_0: https://i.etsystatic.com/12853550/r/il/b87f12/2297330356/il_570xN.2297330356_6z1a.jpg
-image_fullxfull_url_0: https://i.etsystatic.com/12853550/r/il/b87f12/2297330356/il_fullxfull.2297330356_6z1a.jpg
+tags: ["Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Black and white", "Sepia", "Minimal", "Fern", "High quality print", "Urformen der Kunst"]
+image_thumbnail_0: 480029043_thumbnail_0.jpg
+image_medium_0: 480029043_medium_0.jpg
+image_full_0: 480029043_full_0.jpg
 ---
 Equisetum Hiemale. Winter Horsetail: enlarged 10 times.
 Rhamnus Purshiana. Californian Bear-berry: enlarged 25 times.

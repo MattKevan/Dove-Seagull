@@ -1,18 +1,17 @@
 ---
-layout: artwork
-title: Leaf botanical print 
-full-title: Leaf botanical print | Art Forms in Nature by Karl Blossfeldt - Plate 40 Compass Plant | Wall art, room decor, black & white, sepia, vintage
+title: 'Leaf botanical print '
+full-title: 'Leaf botanical print | Art Forms in Nature by Karl Blossfeldt - Plate 40 Compass Plant | Wall art, room decor, black & white, sepia, vintage'
 listing_id: 275929650
-etsy_url: https://www.etsy.com/listing/275929650/leaf-botanical-print-art-forms-in-nature?utm_source=ds&utm_medium=api&utm_campaign=api
+etsy_url: https://www.etsy.com/listing/275929650/leaf-botanical-print-art-forms-in-nature?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 28031226
 price: 10.60
-tags: ["Poster", "Poster print", "Giclee print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Leaf", "Black and white", "Sepia", "Minimal"]
-image_75x75_url_0: https://i.etsystatic.com/12853550/d/il/547399/2296646728/il_75x75.2296646728_lrph.jpg?version=0
-image_570xN_url_0: https://i.etsystatic.com/12853550/r/il/547399/2296646728/il_570xN.2296646728_lrph.jpg
-image_fullxfull_url_0: https://i.etsystatic.com/12853550/r/il/547399/2296646728/il_fullxfull.2296646728_lrph.jpg
-image_75x75_url_1: https://i.etsystatic.com/12853550/d/il/84bbfe/1049155722/il_75x75.1049155722_6ns1.jpg?version=0
-image_570xN_url_1: https://i.etsystatic.com/12853550/r/il/84bbfe/1049155722/il_570xN.1049155722_6ns1.jpg
-image_fullxfull_url_1: https://i.etsystatic.com/12853550/r/il/84bbfe/1049155722/il_fullxfull.1049155722_6ns1.jpg
+tags: ["Poster print", "Giclee print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Leaf", "Black and white", "Sepia", "Minimal", "Urformen der Kunst"]
+image_thumbnail_0: 275929650_thumbnail_0.jpg
+image_medium_0: 275929650_medium_0.jpg
+image_full_0: 275929650_full_0.jpg
+image_thumbnail_1: 275929650_thumbnail_1.jpg
+image_medium_1: 275929650_medium_1.jpg
+image_full_1: 275929650_full_1.jpg
 ---
 Compass Plant (Silphium Laciniatum). Leaves enlarged six times.
 

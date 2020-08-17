@@ -1,18 +1,17 @@
 ---
-layout: artwork
-title: Indian Balsam - Plate 19 
-full-title: Indian Balsam - Plate 19 | Urformen der Kunst | Karl Blossfeldt | Botanical print, wall art, room decor, black & white, sepia, vintage
+title: 'Indian Balsam - Plate 19 '
+full-title: 'Indian Balsam - Plate 19 | Urformen der Kunst | Karl Blossfeldt | Botanical print, wall art, room decor, black & white, sepia, vintage'
 listing_id: 480282887
-etsy_url: https://www.etsy.com/listing/480282887/indian-balsam-plate-19-urformen-der?utm_source=ds&utm_medium=api&utm_campaign=api
+etsy_url: https://www.etsy.com/listing/480282887/indian-balsam-plate-19-urformen-der?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 28031226
 price: 10.60
-tags: ["Poster", "Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Black and white", "Sepia", "Minimal", "Fern", "High quality print"]
-image_75x75_url_0: https://i.etsystatic.com/12853550/d/il/cc988e/2344261455/il_75x75.2344261455_b6gy.jpg?version=0
-image_570xN_url_0: https://i.etsystatic.com/12853550/r/il/cc988e/2344261455/il_570xN.2344261455_b6gy.jpg
-image_fullxfull_url_0: https://i.etsystatic.com/12853550/r/il/cc988e/2344261455/il_fullxfull.2344261455_b6gy.jpg
-image_75x75_url_1: https://i.etsystatic.com/12853550/d/il/aaab3b/1047293756/il_75x75.1047293756_8gsq.jpg?version=0
-image_570xN_url_1: https://i.etsystatic.com/12853550/r/il/aaab3b/1047293756/il_570xN.1047293756_8gsq.jpg
-image_fullxfull_url_1: https://i.etsystatic.com/12853550/r/il/aaab3b/1047293756/il_fullxfull.1047293756_8gsq.jpg
+tags: ["Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Black and white", "Sepia", "Minimal", "Fern", "High quality print", "Urformen der Kunst"]
+image_thumbnail_0: 480282887_thumbnail_0.jpg
+image_medium_0: 480282887_medium_0.jpg
+image_full_0: 480282887_full_0.jpg
+image_thumbnail_1: 480282887_thumbnail_1.jpg
+image_medium_1: 480282887_medium_1.jpg
+image_full_1: 480282887_full_1.jpg
 ---
 Impatiens glanduligera. Hardy Indian Balsam. Stem with ramifications: natural size.
 

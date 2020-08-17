@@ -1,18 +1,17 @@
 ---
-layout: artwork
-title: Three butterflies vintage illustration 
-full-title: Three butterflies vintage illustration | Nature prints, insects, botany, wall art, room decor, botanical print | High quality giclee print
+title: 'Three butterflies vintage illustration '
+full-title: 'Three butterflies vintage illustration | Nature prints, insects, botany, wall art, room decor, botanical print | High quality giclee print'
 listing_id: 791231164
-etsy_url: https://www.etsy.com/listing/791231164/three-butterflies-vintage-illustration?utm_source=ds&utm_medium=api&utm_campaign=api
+etsy_url: https://www.etsy.com/listing/791231164/three-butterflies-vintage-illustration?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 19013728
 price: 10.60
 tags: ["Poster", "Poster print", "Giclee print", "Wall art", "Vintage", "Watercolour", "Nature", "Botanical art", "Wildlife", "Nature print", "Butterfly print", "Butterfly art"]
-image_75x75_url_0: https://i.etsystatic.com/12853550/d/il/2bdfe7/2344986053/il_75x75.2344986053_dodo.jpg?version=0
-image_570xN_url_0: https://i.etsystatic.com/12853550/r/il/2bdfe7/2344986053/il_570xN.2344986053_dodo.jpg
-image_fullxfull_url_0: https://i.etsystatic.com/12853550/r/il/2bdfe7/2344986053/il_fullxfull.2344986053_dodo.jpg
-image_75x75_url_1: https://i.etsystatic.com/12853550/d/il/9e48b9/2344985965/il_75x75.2344985965_jedw.jpg?version=0
-image_570xN_url_1: https://i.etsystatic.com/12853550/r/il/9e48b9/2344985965/il_570xN.2344985965_jedw.jpg
-image_fullxfull_url_1: https://i.etsystatic.com/12853550/r/il/9e48b9/2344985965/il_fullxfull.2344985965_jedw.jpg
+image_thumbnail_0: 791231164_thumbnail_0.jpg
+image_medium_0: 791231164_medium_0.jpg
+image_full_0: 791231164_full_0.jpg
+image_thumbnail_1: 791231164_thumbnail_1.jpg
+image_medium_1: 791231164_medium_1.jpg
+image_full_1: 791231164_full_1.jpg
 ---
 This is a new giclee print of butterflies adapted from an vintage botanical book. These fantastic prints would liven up any kitchen or other room in your house. 
 

@@ -32,45 +32,6 @@
     font-style: normal;
 }
 
-@font-face {
-    font-family: 'Salome';
-    src: url('fonts/salome_italic-webfont.eot');
-    src: url('fonts/salome_italic-webfont.eot?#iefix') format('embedded-opentype'),
-         url('fonts/salome_italic-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-@font-face {
-    font-family: 'Archia';
-    src: url('fonts/archia-light-webfont.eot');
-    src: url('fonts/archia-light-webfont.eot?#iefix') format('embedded-opentype'),
-         url('fonts/archia-light-webfont.woff') format('woff');
-    font-weight: light;
-    font-style: normal;
-
-}
-@font-face {
-    font-family: 'Archia';
-    src: url('fonts/archia-regular-webfont.eot');
-    src: url('fonts/archia-regular-webfont.eot?#iefix') format('embedded-opentype'),
-         url('fonts/archia-regular-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-@font-face {
-    font-family: 'Archia';
-    src: url('fonts/archia-bold-webfont.eot');
-    src: url('fonts/archia-bold-webfont.eot?#iefix') format('embedded-opentype'),
-         url('fonts/archia-bold-webfont.woff') format('woff');
-    font-weight: bold;
-    font-style: normal;
-
-}
-
 $font-family-sans-serif:	'HK Grotesk', Helvetica, Arial, sans-serif;
 //$headings-font-family:      'Salome', serif;
 
@@ -78,4 +39,6 @@ $font-family-sans-serif:	'HK Grotesk', Helvetica, Arial, sans-serif;
 $font-weight-base:          normal;
 $line-height-base:          1.6 !default;
 
-$primary:       			#000 !default;
+//$primary:       			#000 !default;
+
+$link-color: #444 !default;

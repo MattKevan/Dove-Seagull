@@ -1,18 +1,17 @@
 ---
-layout: artwork
-title: Let there be light - and there was light Bible print 
-full-title: Let there be light - and there was light Bible print | Paul Nash | Genesis, woodcut, high quality print, black & white
+title: 'Let there be light - and there was light Bible print '
+full-title: 'Let there be light - and there was light Bible print | Paul Nash | Genesis, woodcut, high quality print, black & white'
 listing_id: 279374938
-etsy_url: https://www.etsy.com/listing/279374938/let-there-be-light-and-there-was-light?utm_source=ds&utm_medium=api&utm_campaign=api
+etsy_url: https://www.etsy.com/listing/279374938/let-there-be-light-and-there-was-light?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 19099181
 price: 10.60
 tags: ["Poster", "Poster print", "Wall art", "Vintage", "Woodcut", "Genesis", "Black and white", "Bible", "Paul Nash", "Engraving", "Creation", "Modern art", "High quality print"]
-image_75x75_url_0: https://i.etsystatic.com/12853550/d/il/9312a7/2343276647/il_75x75.2343276647_c2ch.jpg?version=0
-image_570xN_url_0: https://i.etsystatic.com/12853550/r/il/9312a7/2343276647/il_570xN.2343276647_c2ch.jpg
-image_fullxfull_url_0: https://i.etsystatic.com/12853550/r/il/9312a7/2343276647/il_fullxfull.2343276647_c2ch.jpg
-image_75x75_url_1: https://i.etsystatic.com/12853550/d/il/be9fcc/971229602/il_75x75.971229602_335y.jpg?version=0
-image_570xN_url_1: https://i.etsystatic.com/12853550/r/il/be9fcc/971229602/il_570xN.971229602_335y.jpg
-image_fullxfull_url_1: https://i.etsystatic.com/12853550/r/il/be9fcc/971229602/il_fullxfull.971229602_335y.jpg
+image_thumbnail_0: 279374938_thumbnail_0.jpg
+image_medium_0: 279374938_medium_0.jpg
+image_full_0: 279374938_full_0.jpg
+image_thumbnail_1: 279374938_thumbnail_1.jpg
+image_medium_1: 279374938_medium_1.jpg
+image_full_1: 279374938_full_1.jpg
 ---
 This is the second in an amazing series of woodcut prints by Paul Nash, illustrating the first chapter of Genesis.
 

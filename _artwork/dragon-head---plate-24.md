@@ -1,18 +1,17 @@
 ---
-layout: artwork
-title: Dragon Head - Plate 24 
-full-title: Dragon Head - Plate 24 | Urformen der Kunst | Karl Blossfeldt |   Botanical print, wall art, room decor, black & white, sepia, vintage
+title: 'Dragon Head - Plate 24 '
+full-title: 'Dragon Head - Plate 24 | Urformen der Kunst | Karl Blossfeldt |   Botanical print, wall art, room decor, black & white, sepia, vintage'
 listing_id: 467253908
-etsy_url: https://www.etsy.com/listing/467253908/dragon-head-plate-24-urformen-der-kunst?utm_source=ds&utm_medium=api&utm_campaign=api
+etsy_url: https://www.etsy.com/listing/467253908/dragon-head-plate-24-urformen-der-kunst?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 28031226
 price: 10.60
-tags: ["Poster", "Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Black and white", "Sepia", "Minimal", "High quality print", "Botanical print"]
-image_75x75_url_0: https://i.etsystatic.com/12853550/d/il/c9f39a/2344284473/il_75x75.2344284473_2k9y.jpg?version=0
-image_570xN_url_0: https://i.etsystatic.com/12853550/r/il/c9f39a/2344284473/il_570xN.2344284473_2k9y.jpg
-image_fullxfull_url_0: https://i.etsystatic.com/12853550/r/il/c9f39a/2344284473/il_fullxfull.2344284473_2k9y.jpg
-image_75x75_url_1: https://i.etsystatic.com/12853550/d/il/ed7e63/1095111905/il_75x75.1095111905_esyi.jpg?version=0
-image_570xN_url_1: https://i.etsystatic.com/12853550/r/il/ed7e63/1095111905/il_570xN.1095111905_esyi.jpg
-image_fullxfull_url_1: https://i.etsystatic.com/12853550/r/il/ed7e63/1095111905/il_fullxfull.1095111905_esyi.jpg
+tags: ["Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Black and white", "Sepia", "Minimal", "High quality print", "Botanical print", "Urformen der Kunst"]
+image_thumbnail_0: 467253908_thumbnail_0.jpg
+image_medium_0: 467253908_medium_0.jpg
+image_full_0: 467253908_full_0.jpg
+image_thumbnail_1: 467253908_thumbnail_1.jpg
+image_medium_1: 467253908_medium_1.jpg
+image_full_1: 467253908_full_1.jpg
 ---
 Physostegia Virginiana. Virginian False Dragon-head. Stem, with leaves, enlarged 15 times
 

@@ -1,18 +1,17 @@
 ---
-layout: artwork
-title: Silver Fir - Plate 21 
-full-title: Silver Fir - Plate 21 | Urformen der Kunst | Karl Blossfeldt |    Botanical print, wall art, room decor, black & white, sepia, vintage
+title: 'Silver Fir - Plate 21 '
+full-title: 'Silver Fir - Plate 21 | Urformen der Kunst | Karl Blossfeldt |    Botanical print, wall art, room decor, black & white, sepia, vintage'
 listing_id: 467253482
-etsy_url: https://www.etsy.com/listing/467253482/silver-fir-plate-21-urformen-der-kunst?utm_source=ds&utm_medium=api&utm_campaign=api
+etsy_url: https://www.etsy.com/listing/467253482/silver-fir-plate-21-urformen-der-kunst?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 28031226
 price: 10.60
-tags: ["Poster", "Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Black and white", "Sepia", "Minimal", "High quality print", "Botanical print"]
-image_75x75_url_0: https://i.etsystatic.com/12853550/d/il/c375e1/2344926743/il_75x75.2344926743_8acp.jpg?version=0
-image_570xN_url_0: https://i.etsystatic.com/12853550/r/il/c375e1/2344926743/il_570xN.2344926743_8acp.jpg
-image_fullxfull_url_0: https://i.etsystatic.com/12853550/r/il/c375e1/2344926743/il_fullxfull.2344926743_8acp.jpg
-image_75x75_url_1: https://i.etsystatic.com/12853550/d/il/5eacd3/1048547448/il_75x75.1048547448_kwdy.jpg?version=0
-image_570xN_url_1: https://i.etsystatic.com/12853550/r/il/5eacd3/1048547448/il_570xN.1048547448_kwdy.jpg
-image_fullxfull_url_1: https://i.etsystatic.com/12853550/r/il/5eacd3/1048547448/il_fullxfull.1048547448_kwdy.jpg
+tags: ["Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Black and white", "Sepia", "Minimal", "High quality print", "Botanical print", "Urformen der Kunst"]
+image_thumbnail_0: 467253482_thumbnail_0.jpg
+image_medium_0: 467253482_medium_0.jpg
+image_full_0: 467253482_full_0.jpg
+image_thumbnail_1: 467253482_thumbnail_1.jpg
+image_medium_1: 467253482_medium_1.jpg
+image_full_1: 467253482_full_1.jpg
 ---
 Picea excelsa. Silver Fir, or red variety. Young shoots, with the needles removed, enlarged 10 times.
 

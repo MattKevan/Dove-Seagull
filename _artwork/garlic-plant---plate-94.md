@@ -1,15 +1,14 @@
 ---
-layout: artwork
-title: Garlic Plant - Plate 94 
-full-title: Garlic Plant - Plate 94 | Urformen der Kunst | Karl Blossfeldt | Botanical print, wall art, room decor, black & white, sepia, vintage
+title: 'Garlic Plant - Plate 94 '
+full-title: 'Garlic Plant - Plate 94 | Urformen der Kunst | Karl Blossfeldt | Botanical print, wall art, room decor, black & white, sepia, vintage'
 listing_id: 466790902
-etsy_url: https://www.etsy.com/listing/466790902/garlic-plant-plate-94-urformen-der-kunst?utm_source=ds&utm_medium=api&utm_campaign=api
+etsy_url: https://www.etsy.com/listing/466790902/garlic-plant-plate-94-urformen-der-kunst?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 28031226
 price: 10.60
-tags: ["Poster", "Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Black and white", "Sepia", "Minimal", "Fern", "High quality print"]
-image_75x75_url_0: https://i.etsystatic.com/12853550/d/il/d5b947/2344343195/il_75x75.2344343195_9ede.jpg?version=0
-image_570xN_url_0: https://i.etsystatic.com/12853550/r/il/d5b947/2344343195/il_570xN.2344343195_9ede.jpg
-image_fullxfull_url_0: https://i.etsystatic.com/12853550/r/il/d5b947/2344343195/il_fullxfull.2344343195_9ede.jpg
+tags: ["Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Black and white", "Sepia", "Minimal", "Fern", "High quality print", "Urformen der Kunst"]
+image_thumbnail_0: 466790902_thumbnail_0.jpg
+image_medium_0: 466790902_medium_0.jpg
+image_full_0: 466790902_full_0.jpg
 ---
 Allium Ostrowskianum. Umbel of a Garlic-plant enlarged 6 times.
 

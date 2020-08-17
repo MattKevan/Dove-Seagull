@@ -1,18 +1,17 @@
 ---
-layout: artwork
-title: Botanical butterfly poster 6 
-full-title: Botanical butterfly poster 6 | Nature prints, insect, botany, wall art, room decor, vintage print, watercolour | High quality print
+title: 'Botanical butterfly poster 6 '
+full-title: 'Botanical butterfly poster 6 | Nature prints, insect, botany, wall art, room decor, vintage print, watercolour | High quality print'
 listing_id: 280459848
-etsy_url: https://www.etsy.com/listing/280459848/botanical-butterfly-poster-6-nature?utm_source=ds&utm_medium=api&utm_campaign=api
+etsy_url: https://www.etsy.com/listing/280459848/botanical-butterfly-poster-6-nature?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 19013728
 price: 10.60
 tags: ["Poster", "Poster print", "Wall art", "Vintage", "Watercolour", "Nature", "Botanical art", "Wildlife", "Nature print", "Butterfly print", "Butterfly art", "Butterfly poster"]
-image_75x75_url_0: https://i.etsystatic.com/12853550/d/il/7cba43/2343259259/il_75x75.2343259259_jws6.jpg?version=0
-image_570xN_url_0: https://i.etsystatic.com/12853550/r/il/7cba43/2343259259/il_570xN.2343259259_jws6.jpg
-image_fullxfull_url_0: https://i.etsystatic.com/12853550/r/il/7cba43/2343259259/il_fullxfull.2343259259_jws6.jpg
-image_75x75_url_1: https://i.etsystatic.com/12853550/d/il/b9549f/2343259311/il_75x75.2343259311_dm7v.jpg?version=0
-image_570xN_url_1: https://i.etsystatic.com/12853550/r/il/b9549f/2343259311/il_570xN.2343259311_dm7v.jpg
-image_fullxfull_url_1: https://i.etsystatic.com/12853550/r/il/b9549f/2343259311/il_fullxfull.2343259311_dm7v.jpg
+image_thumbnail_0: 280459848_thumbnail_0.jpg
+image_medium_0: 280459848_medium_0.jpg
+image_full_0: 280459848_full_0.jpg
+image_thumbnail_1: 280459848_thumbnail_1.jpg
+image_medium_1: 280459848_medium_1.jpg
+image_full_1: 280459848_full_1.jpg
 ---
 This is a new print of butterflies adapted from an vintage botanical book. These fantastic prints would liven up any kitchen or other room in your house. 
 

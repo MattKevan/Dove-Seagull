@@ -1,18 +1,17 @@
 ---
-layout: artwork
-title: Papillons by EA Seguy - plate 16 
-full-title: Papillons by EA Seguy - plate 16 | Nature prints, butterfly prints, botany, wall art, room decor, vintage print | High quality print
+title: 'Papillons by EA Seguy - plate 16 '
+full-title: 'Papillons by EA Seguy - plate 16 | Nature prints, butterfly prints, botany, wall art, room decor, vintage print | High quality print'
 listing_id: 385277914
-etsy_url: https://www.etsy.com/listing/385277914/papillons-by-ea-seguy-plate-16-nature?utm_source=ds&utm_medium=api&utm_campaign=api
+etsy_url: https://www.etsy.com/listing/385277914/papillons-by-ea-seguy-plate-16-nature?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 19013728
 price: 10.60
 tags: ["Poster", "Poster print", "Wall art", "Vintage", "Watercolour", "Nature", "Botanical art", "Wildlife", "Nature print", "Butterfly print", "Butterfly art", "Butterfly poster", "High quality print"]
-image_75x75_url_0: https://i.etsystatic.com/12853550/d/il/94e537/2344961863/il_75x75.2344961863_kwxz.jpg?version=0
-image_570xN_url_0: https://i.etsystatic.com/12853550/r/il/94e537/2344961863/il_570xN.2344961863_kwxz.jpg
-image_fullxfull_url_0: https://i.etsystatic.com/12853550/r/il/94e537/2344961863/il_fullxfull.2344961863_kwxz.jpg
-image_75x75_url_1: https://i.etsystatic.com/12853550/d/il/64193f/2342046879/il_75x75.2342046879_qn3i.jpg?version=0
-image_570xN_url_1: https://i.etsystatic.com/12853550/r/il/64193f/2342046879/il_570xN.2342046879_qn3i.jpg
-image_fullxfull_url_1: https://i.etsystatic.com/12853550/r/il/64193f/2342046879/il_fullxfull.2342046879_qn3i.jpg
+image_thumbnail_0: 385277914_thumbnail_0.jpg
+image_medium_0: 385277914_medium_0.jpg
+image_full_0: 385277914_full_0.jpg
+image_thumbnail_1: 385277914_thumbnail_1.jpg
+image_medium_1: 385277914_medium_1.jpg
+image_full_1: 385277914_full_1.jpg
 ---
 This is the sixteenth plate from a collection of 20 stunning butterfly prints by E A Seguy.
 

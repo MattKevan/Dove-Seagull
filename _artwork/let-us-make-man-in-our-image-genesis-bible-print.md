@@ -1,18 +1,17 @@
 ---
-layout: artwork
-title: Let us make man in our image Genesis Bible print  
-full-title: Let us make man in our image Genesis Bible print  |  Paul Nash |  Woodcut engraving, art, Bible, high quality print, black & white
+title: 'Let us make man in our image Genesis Bible print  '
+full-title: 'Let us make man in our image Genesis Bible print  |  Paul Nash |  Woodcut engraving, art, Bible, high quality print, black & white'
 listing_id: 292895159
-etsy_url: https://www.etsy.com/listing/292895159/let-us-make-man-in-our-image-genesis?utm_source=ds&utm_medium=api&utm_campaign=api
+etsy_url: https://www.etsy.com/listing/292895159/let-us-make-man-in-our-image-genesis?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 19099181
 price: 10.60
 tags: ["Poster", "Poster print", "Wall art", "Vintage", "Woodcut", "Genesis", "Black and white", "Bible", "Paul Nash", "Engraving", "Creation", "Modern art", "High quality print"]
-image_75x75_url_0: https://i.etsystatic.com/12853550/d/il/243b82/2295667588/il_75x75.2295667588_cyrz.jpg?version=0
-image_570xN_url_0: https://i.etsystatic.com/12853550/r/il/243b82/2295667588/il_570xN.2295667588_cyrz.jpg
-image_fullxfull_url_0: https://i.etsystatic.com/12853550/r/il/243b82/2295667588/il_fullxfull.2295667588_cyrz.jpg
-image_75x75_url_1: https://i.etsystatic.com/12853550/d/il/61ffcc/1017794627/il_75x75.1017794627_r3mg.jpg?version=0
-image_570xN_url_1: https://i.etsystatic.com/12853550/r/il/61ffcc/1017794627/il_570xN.1017794627_r3mg.jpg
-image_fullxfull_url_1: https://i.etsystatic.com/12853550/r/il/61ffcc/1017794627/il_fullxfull.1017794627_r3mg.jpg
+image_thumbnail_0: 292895159_thumbnail_0.jpg
+image_medium_0: 292895159_medium_0.jpg
+image_full_0: 292895159_full_0.jpg
+image_thumbnail_1: 292895159_thumbnail_1.jpg
+image_medium_1: 292895159_medium_1.jpg
+image_full_1: 292895159_full_1.jpg
 ---
 This is the eighth in an amazing series of woodcut prints by Paul Nash, illustrating the first chapter of Genesis.
 

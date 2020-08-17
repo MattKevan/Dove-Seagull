@@ -7,7 +7,7 @@ lead: The U.S. Department of Agriculture's Pomological Watercolor Collection is 
   1886 and 1942 by around five dozen artists.
 tags: []
 thumb: ''
-image: "/v1570906490/Cherries_8x10_p32eqo.png"
+image: "fruits.jpg"
 artist: ''
 
 ---

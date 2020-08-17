@@ -1,18 +1,17 @@
 ---
-layout: artwork
-title: Upright Birth-Wort Plate 25 
-full-title: Upright Birth-Wort Plate 25 | Urformen der Kunst | Karl Blossfeldt | Botanical print, wall art, room decor, black & white, sepia, vintage
+title: 'Upright Birth-Wort Plate 25 '
+full-title: 'Upright Birth-Wort Plate 25 | Urformen der Kunst | Karl Blossfeldt | Botanical print, wall art, room decor, black & white, sepia, vintage'
 listing_id: 467254022
-etsy_url: https://www.etsy.com/listing/467254022/upright-birth-wort-plate-25-urformen-der?utm_source=ds&utm_medium=api&utm_campaign=api
+etsy_url: https://www.etsy.com/listing/467254022/upright-birth-wort-plate-25-urformen-der?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 28031226
 price: 10.60
-tags: ["Poster", "Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Black and white", "Sepia", "Minimal", "High quality print", "Botanical print"]
-image_75x75_url_0: https://i.etsystatic.com/12853550/d/il/7fcd1d/2296695910/il_75x75.2296695910_3shk.jpg?version=0
-image_570xN_url_0: https://i.etsystatic.com/12853550/r/il/7fcd1d/2296695910/il_570xN.2296695910_3shk.jpg
-image_fullxfull_url_0: https://i.etsystatic.com/12853550/r/il/7fcd1d/2296695910/il_fullxfull.2296695910_3shk.jpg
-image_75x75_url_1: https://i.etsystatic.com/12853550/d/il/087a15/1095112337/il_75x75.1095112337_gtq5.jpg?version=0
-image_570xN_url_1: https://i.etsystatic.com/12853550/r/il/087a15/1095112337/il_570xN.1095112337_gtq5.jpg
-image_fullxfull_url_1: https://i.etsystatic.com/12853550/r/il/087a15/1095112337/il_fullxfull.1095112337_gtq5.jpg
+tags: ["Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Black and white", "Sepia", "Minimal", "High quality print", "Botanical print", "Urformen der Kunst"]
+image_thumbnail_0: 467254022_thumbnail_0.jpg
+image_medium_0: 467254022_medium_0.jpg
+image_full_0: 467254022_full_0.jpg
+image_thumbnail_1: 467254022_thumbnail_1.jpg
+image_medium_1: 467254022_medium_1.jpg
+image_full_1: 467254022_full_1.jpg
 ---
 Aristolochia clematitis. Upright Birth-wort. Flowers enlarged 7 times.
 

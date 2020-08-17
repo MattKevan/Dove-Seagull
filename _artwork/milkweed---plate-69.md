@@ -1,19 +1,18 @@
 ---
-layout: artwork
-title: Milkweed - Plate 69 
-full-title: Milkweed - Plate 69 | From Urformen Der Kunst by Karl Blossfeldt | Vintage botanical photographic print
+title: 'Milkweed - Plate 69 '
+full-title: 'Milkweed - Plate 69 | From Urformen Der Kunst by Karl Blossfeldt | Vintage botanical photographic print'
 listing_id: 279830848
-etsy_url: https://www.etsy.com/listing/279830848/milkweed-plate-69-from-urformen-der?utm_source=ds&utm_medium=api&utm_campaign=api
+etsy_url: https://www.etsy.com/listing/279830848/milkweed-plate-69-from-urformen-der?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 28031226
 price: 10.60
-tags: ["Poster", "Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Black and white", "Sepia", "Minimal", "Flower", "High quality print"]
-image_75x75_url_0: https://i.etsystatic.com/12853550/d/il/a7e63f/2296707338/il_75x75.2296707338_e20w.jpg?version=0
-image_570xN_url_0: https://i.etsystatic.com/12853550/r/il/a7e63f/2296707338/il_570xN.2296707338_e20w.jpg
-image_fullxfull_url_0: https://i.etsystatic.com/12853550/r/il/a7e63f/2296707338/il_fullxfull.2296707338_e20w.jpg
+tags: ["Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Black and white", "Sepia", "Minimal", "Flower", "High quality print", "Urformen der Kunst"]
+image_thumbnail_0: 279830848_thumbnail_0.jpg
+image_medium_0: 279830848_medium_0.jpg
+image_full_0: 279830848_full_0.jpg
 ---
 Milkweed (Asclepias Speciosa). Flower enlarged 10 times. Plate 69.
 
-This is a high-quality print from Karl Blossfeldt&#39;s groundbreaking work &#39;Urformen der Kunst&#39; first published in 1928. A 1929 English edition was published as &#39;Art Forms in Nature&#39;. The complete work contains 120 rotary gravure plates, prefaced with an introductory text and list of subjects.
+This is a print from Karl Blossfeldt&#39;s groundbreaking work &#39;Urformen der Kunst&#39; first published in 1928. A 1929 English edition was published as &#39;Art Forms in Nature&#39;. The complete work contains 120 rotary gravure plates, prefaced with an introductory text and list of subjects.
 
 Karl Blossfeldt was a German teacher, sculptor and photographer celebrated by early modernists and the Surrealists for his pioneering close-up photography of plants and flora. Using a homemade camera and lens, he was able to magnify a subject 30 times, capturing the fine detail of his specimens.
 

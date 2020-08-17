@@ -1,18 +1,17 @@
 ---
-layout: artwork
-title: Vintage butterflies illustration 
-full-title: Vintage butterflies illustration | Nature prints, insects, botany, wall art, room decor, botanical print | High quality giclee print
+title: 'Vintage butterflies illustration '
+full-title: 'Vintage butterflies illustration | Nature prints, insects, botany, wall art, room decor, botanical print | High quality giclee print'
 listing_id: 805108045
-etsy_url: https://www.etsy.com/listing/805108045/vintage-butterflies-illustration-nature?utm_source=ds&utm_medium=api&utm_campaign=api
+etsy_url: https://www.etsy.com/listing/805108045/vintage-butterflies-illustration-nature?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 19013728
 price: 10.60
 tags: ["Poster", "Poster print", "Giclee print", "Wall art", "Vintage", "Watercolour", "Nature", "Botanical art", "Wildlife", "Nature print", "Butterfly print", "Butterfly art"]
-image_75x75_url_0: https://i.etsystatic.com/12853550/d/il/c6feb7/2344985067/il_75x75.2344985067_su0t.jpg?version=0
-image_570xN_url_0: https://i.etsystatic.com/12853550/r/il/c6feb7/2344985067/il_570xN.2344985067_su0t.jpg
-image_fullxfull_url_0: https://i.etsystatic.com/12853550/r/il/c6feb7/2344985067/il_fullxfull.2344985067_su0t.jpg
-image_75x75_url_1: https://i.etsystatic.com/12853550/d/il/1835e9/2297377724/il_75x75.2297377724_slnp.jpg?version=0
-image_570xN_url_1: https://i.etsystatic.com/12853550/r/il/1835e9/2297377724/il_570xN.2297377724_slnp.jpg
-image_fullxfull_url_1: https://i.etsystatic.com/12853550/r/il/1835e9/2297377724/il_fullxfull.2297377724_slnp.jpg
+image_thumbnail_0: 805108045_thumbnail_0.jpg
+image_medium_0: 805108045_medium_0.jpg
+image_full_0: 805108045_full_0.jpg
+image_thumbnail_1: 805108045_thumbnail_1.jpg
+image_medium_1: 805108045_medium_1.jpg
+image_full_1: 805108045_full_1.jpg
 ---
 This is a new giclee print of butterflies adapted from an vintage botanical book. These fantastic prints would liven up any kitchen or other room in your house. 
 

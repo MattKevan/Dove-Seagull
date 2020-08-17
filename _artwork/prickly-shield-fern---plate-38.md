@@ -1,18 +1,17 @@
 ---
-layout: artwork
-title: Prickly Shield Fern - Plate 38 
-full-title: Prickly Shield Fern - Plate 38 | Urformen der Kunst | Karl Blossfeldt | Botanical print, wall art, room decor, black & white, sepia, vintage
+title: 'Prickly Shield Fern - Plate 38 '
+full-title: 'Prickly Shield Fern - Plate 38 | Urformen der Kunst | Karl Blossfeldt | Botanical print, wall art, room decor, black & white, sepia, vintage'
 listing_id: 278319798
-etsy_url: https://www.etsy.com/listing/278319798/prickly-shield-fern-plate-38-urformen?utm_source=ds&utm_medium=api&utm_campaign=api
+etsy_url: https://www.etsy.com/listing/278319798/prickly-shield-fern-plate-38-urformen?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 28031226
 price: 10.60
-tags: ["Poster", "Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Black and white", "Sepia", "Minimal", "Fern", "High quality print"]
-image_75x75_url_0: https://i.etsystatic.com/12853550/d/il/226ba3/2344280593/il_75x75.2344280593_ihvz.jpg?version=0
-image_570xN_url_0: https://i.etsystatic.com/12853550/r/il/226ba3/2344280593/il_570xN.2344280593_ihvz.jpg
-image_fullxfull_url_0: https://i.etsystatic.com/12853550/r/il/226ba3/2344280593/il_fullxfull.2344280593_ihvz.jpg
-image_75x75_url_1: https://i.etsystatic.com/12853550/d/il/10647d/1049155064/il_75x75.1049155064_iyd9.jpg?version=0
-image_570xN_url_1: https://i.etsystatic.com/12853550/r/il/10647d/1049155064/il_570xN.1049155064_iyd9.jpg
-image_fullxfull_url_1: https://i.etsystatic.com/12853550/r/il/10647d/1049155064/il_fullxfull.1049155064_iyd9.jpg
+tags: ["Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Black and white", "Sepia", "Minimal", "Fern", "High quality print", "Urformen der Kunst"]
+image_thumbnail_0: 278319798_thumbnail_0.jpg
+image_medium_0: 278319798_medium_0.jpg
+image_full_0: 278319798_full_0.jpg
+image_thumbnail_1: 278319798_thumbnail_1.jpg
+image_medium_1: 278319798_medium_1.jpg
+image_full_1: 278319798_full_1.jpg
 ---
 Prickly Shield-fern (Polystichum munitum). Leaf enlarged six times. Plate 38.
 

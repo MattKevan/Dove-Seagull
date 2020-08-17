@@ -1,19 +1,18 @@
 ---
-layout: artwork
-title: American Maiden-Hair Fern - Plate 55 
-full-title: American Maiden-Hair Fern - Plate 55 | From Urformen Der Kunst by Karl Blossfeldt | Vintage botanical photographic print
+title: 'American Maiden-Hair Fern - Plate 55 '
+full-title: 'American Maiden-Hair Fern - Plate 55 | From Urformen Der Kunst by Karl Blossfeldt | Vintage botanical photographic print'
 listing_id: 291707577
-etsy_url: https://www.etsy.com/listing/291707577/american-maiden-hair-fern-plate-55-from?utm_source=ds&utm_medium=api&utm_campaign=api
+etsy_url: https://www.etsy.com/listing/291707577/american-maiden-hair-fern-plate-55-from?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 28031226
 price: 10.60
-tags: ["Poster", "Poster print", "Giclee print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Black and white", "Sepia", "Minimal", "Plant"]
-image_75x75_url_0: https://i.etsystatic.com/12853550/d/il/13d395/2296632946/il_75x75.2296632946_5xij.jpg?version=0
-image_570xN_url_0: https://i.etsystatic.com/12853550/r/il/13d395/2296632946/il_570xN.2296632946_5xij.jpg
-image_fullxfull_url_0: https://i.etsystatic.com/12853550/r/il/13d395/2296632946/il_fullxfull.2296632946_5xij.jpg
+tags: ["Poster print", "Giclee print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Black and white", "Sepia", "Minimal", "Plant", "Urformen der Kunst"]
+image_thumbnail_0: 291707577_thumbnail_0.jpg
+image_medium_0: 291707577_medium_0.jpg
+image_full_0: 291707577_full_0.jpg
 ---
 American Maiden-Hair Fern (Adiantum Pedatum). Young fronds enlarged eight times. Plate 55.
 
-This is a high-quality giclee print from Karl Blossfeldt&#39;s groundbreaking work &#39;Urformen der Kunst&#39; first published in 1928. A 1929 English edition was published as &#39;Art Forms in Nature&#39;. The complete work contains 120 rotary gravure plates, prefaced with an introductory text and list of subjects.
+This is a print from Karl Blossfeldt&#39;s groundbreaking work &#39;Urformen der Kunst&#39; first published in 1928. A 1929 English edition was published as &#39;Art Forms in Nature&#39;. The complete work contains 120 rotary gravure plates, prefaced with an introductory text and list of subjects.
 
 Karl Blossfeldt was a German teacher, sculptor and photographer celebrated by early modernists and the Surrealists for his pioneering close-up photography of plants and flora. Using a homemade camera and lens, he was able to magnify a subject 30 times, capturing the fine detail of his specimens.
 

@@ -1,15 +1,14 @@
 ---
-layout: artwork
-title: Saxifrage - plate 47 
-full-title: Saxifrage - plate 47 | Art Forms in Nature by Karl Blossfeldt | Botanical, wall art, room decor, black & white, sepia, photograph, print
+title: 'Saxifrage - plate 47 '
+full-title: 'Saxifrage - plate 47 | Art Forms in Nature by Karl Blossfeldt | Botanical, wall art, room decor, black & white, sepia, photograph, print'
 listing_id: 293345049
-etsy_url: https://www.etsy.com/listing/293345049/saxifrage-plate-47-art-forms-in-nature?utm_source=ds&utm_medium=api&utm_campaign=api
+etsy_url: https://www.etsy.com/listing/293345049/saxifrage-plate-47-art-forms-in-nature?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 28031226
 price: 10.60
-tags: ["Poster", "Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Black and white", "Sepia", "Minimal", "Leaf", "High quality print"]
-image_75x75_url_0: https://i.etsystatic.com/12853550/d/il/ebd840/2344268387/il_75x75.2344268387_cx0l.jpg?version=0
-image_570xN_url_0: https://i.etsystatic.com/12853550/r/il/ebd840/2344268387/il_570xN.2344268387_cx0l.jpg
-image_fullxfull_url_0: https://i.etsystatic.com/12853550/r/il/ebd840/2344268387/il_fullxfull.2344268387_cx0l.jpg
+tags: ["Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Black and white", "Sepia", "Minimal", "Leaf", "High quality print", "Urformen der Kunst"]
+image_thumbnail_0: 293345049_thumbnail_0.jpg
+image_medium_0: 293345049_medium_0.jpg
+image_full_0: 293345049_full_0.jpg
 ---
 Willkomm&#39;s Saxifrage (Saxifraga Willkommniana). Leaf enlarged eight times. Plate 47.
 

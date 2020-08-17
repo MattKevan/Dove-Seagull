@@ -1,18 +1,17 @@
 ---
-layout: artwork
-title: Flowering Ash - Plate 9 
-full-title: Flowering Ash - Plate 9 | Urformen der Kunst | Karl Blossfeldt |  Botanical print, wall art, room decor, black & white, sepia, vintage
+title: 'Flowering Ash - Plate 9 '
+full-title: 'Flowering Ash - Plate 9 | Urformen der Kunst | Karl Blossfeldt |  Botanical print, wall art, room decor, black & white, sepia, vintage'
 listing_id: 480029115
-etsy_url: https://www.etsy.com/listing/480029115/flowering-ash-plate-9-urformen-der-kunst?utm_source=ds&utm_medium=api&utm_campaign=api
+etsy_url: https://www.etsy.com/listing/480029115/flowering-ash-plate-9-urformen-der-kunst?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 28031226
 price: 10.60
-tags: ["Poster", "Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Black and white", "Sepia", "Minimal", "Fern", "High quality print"]
-image_75x75_url_0: https://i.etsystatic.com/12853550/d/il/6d4ba4/2297316072/il_75x75.2297316072_759q.jpg?version=0
-image_570xN_url_0: https://i.etsystatic.com/12853550/r/il/6d4ba4/2297316072/il_570xN.2297316072_759q.jpg
-image_fullxfull_url_0: https://i.etsystatic.com/12853550/r/il/6d4ba4/2297316072/il_fullxfull.2297316072_759q.jpg
-image_75x75_url_1: https://i.etsystatic.com/12853550/d/il/3c752a/1093228715/il_75x75.1093228715_hmc2.jpg?version=0
-image_570xN_url_1: https://i.etsystatic.com/12853550/r/il/3c752a/1093228715/il_570xN.1093228715_hmc2.jpg
-image_fullxfull_url_1: https://i.etsystatic.com/12853550/r/il/3c752a/1093228715/il_fullxfull.1093228715_hmc2.jpg
+tags: ["Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Black and white", "Sepia", "Minimal", "Fern", "High quality print", "Urformen der Kunst"]
+image_thumbnail_0: 480029115_thumbnail_0.jpg
+image_medium_0: 480029115_medium_0.jpg
+image_full_0: 480029115_full_0.jpg
+image_thumbnail_1: 480029115_thumbnail_1.jpg
+image_medium_1: 480029115_medium_1.jpg
+image_full_1: 480029115_full_1.jpg
 ---
 Callicarpa dichotoma: enlarged 7 times. 
 Fraxinus ornus. Flowering Ash: enlarged 6 times. 

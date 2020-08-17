@@ -1,15 +1,14 @@
 ---
-layout: artwork
-title: Pumpkin Stems - Plate 26 
-full-title: Pumpkin Stems - Plate 26 | Urformen der Kunst | Karl Blossfeldt |  Botanical print, wall art, room decor, black & white, sepia, vintage
+title: 'Pumpkin Stems - Plate 26 '
+full-title: 'Pumpkin Stems - Plate 26 | Urformen der Kunst | Karl Blossfeldt |  Botanical print, wall art, room decor, black & white, sepia, vintage'
 listing_id: 467254084
-etsy_url: https://www.etsy.com/listing/467254084/pumpkin-stems-plate-26-urformen-der?utm_source=ds&utm_medium=api&utm_campaign=api
+etsy_url: https://www.etsy.com/listing/467254084/pumpkin-stems-plate-26-urformen-der?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 28031226
 price: 10.60
-tags: ["Poster", "Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Black and white", "Sepia", "Minimal", "High quality print", "Botanical print"]
-image_75x75_url_0: https://i.etsystatic.com/12853550/d/il/60eccb/2344304281/il_75x75.2344304281_dslu.jpg?version=0
-image_570xN_url_0: https://i.etsystatic.com/12853550/r/il/60eccb/2344304281/il_570xN.2344304281_dslu.jpg
-image_fullxfull_url_0: https://i.etsystatic.com/12853550/r/il/60eccb/2344304281/il_fullxfull.2344304281_dslu.jpg
+tags: ["Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Black and white", "Sepia", "Minimal", "High quality print", "Botanical print", "Urformen der Kunst"]
+image_thumbnail_0: 467254084_thumbnail_0.jpg
+image_medium_0: 467254084_medium_0.jpg
+image_full_0: 467254084_full_0.jpg
 ---
 Cucurbita. Stems of a Pumpkin enlarged 3 times.
 

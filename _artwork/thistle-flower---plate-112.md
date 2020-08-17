@@ -1,15 +1,14 @@
 ---
-layout: artwork
-title: Thistle flower - Plate 112 
-full-title: Thistle flower - Plate 112 | From Urformen Der Kunst by Karl Blossfeldt | Vintage botanical photographic print
+title: 'Thistle flower - Plate 112 '
+full-title: 'Thistle flower - Plate 112 | From Urformen Der Kunst by Karl Blossfeldt | Vintage botanical photographic print'
 listing_id: 480028515
-etsy_url: https://www.etsy.com/listing/480028515/thistle-flower-plate-112-from-urformen?utm_source=ds&utm_medium=api&utm_campaign=api
+etsy_url: https://www.etsy.com/listing/480028515/thistle-flower-plate-112-from-urformen?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 28031226
 price: 10.60
-tags: ["Poster", "Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Black and white", "Sepia", "Minimal", "Fern", "High quality print"]
-image_75x75_url_0: https://i.etsystatic.com/12853550/d/il/aa0f59/2297321058/il_75x75.2297321058_5p82.jpg?version=0
-image_570xN_url_0: https://i.etsystatic.com/12853550/r/il/aa0f59/2297321058/il_570xN.2297321058_5p82.jpg
-image_fullxfull_url_0: https://i.etsystatic.com/12853550/r/il/aa0f59/2297321058/il_fullxfull.2297321058_5p82.jpg
+tags: ["Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Black and white", "Sepia", "Minimal", "Fern", "High quality print", "Urformen der Kunst"]
+image_thumbnail_0: 480028515_thumbnail_0.jpg
+image_medium_0: 480028515_medium_0.jpg
+image_full_0: 480028515_full_0.jpg
 ---
 Centaurea Macrocephala, flower enlarged 5 times.
 

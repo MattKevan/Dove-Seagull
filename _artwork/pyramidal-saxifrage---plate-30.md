@@ -1,21 +1,20 @@
 ---
-layout: artwork
-title: Pyramidal Saxifrage - Plate 30 
-full-title: Pyramidal Saxifrage - Plate 30 | Urformen der Kunst | Karl Blossfeldt | Botanical print, wall art, room decor, black & white, photograph
+title: 'Pyramidal Saxifrage - Plate 30 '
+full-title: 'Pyramidal Saxifrage - Plate 30 | Urformen der Kunst | Karl Blossfeldt | Botanical print, wall art, room decor, black & white, photograph'
 listing_id: 278319866
-etsy_url: https://www.etsy.com/listing/278319866/pyramidal-saxifrage-plate-30-urformen?utm_source=ds&utm_medium=api&utm_campaign=api
+etsy_url: https://www.etsy.com/listing/278319866/pyramidal-saxifrage-plate-30-urformen?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 28031226
 price: 10.60
-tags: ["Poster", "Poster print", "Giclee print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Black and white", "Sepia", "Minimal", "Plant"]
-image_75x75_url_0: https://i.etsystatic.com/12853550/d/il/4279ed/2344294187/il_75x75.2344294187_3vx9.jpg?version=0
-image_570xN_url_0: https://i.etsystatic.com/12853550/r/il/4279ed/2344294187/il_570xN.2344294187_3vx9.jpg
-image_fullxfull_url_0: https://i.etsystatic.com/12853550/r/il/4279ed/2344294187/il_fullxfull.2344294187_3vx9.jpg
-image_75x75_url_1: https://i.etsystatic.com/12853550/d/il/f9834b/1092155417/il_75x75.1092155417_p4fe.jpg?version=0
-image_570xN_url_1: https://i.etsystatic.com/12853550/r/il/f9834b/1092155417/il_570xN.1092155417_p4fe.jpg
-image_fullxfull_url_1: https://i.etsystatic.com/12853550/r/il/f9834b/1092155417/il_fullxfull.1092155417_p4fe.jpg
-image_75x75_url_2: https://i.etsystatic.com/12853550/d/il/9bee8c/1048550726/il_75x75.1048550726_e9hu.jpg?version=0
-image_570xN_url_2: https://i.etsystatic.com/12853550/r/il/9bee8c/1048550726/il_570xN.1048550726_e9hu.jpg
-image_fullxfull_url_2: https://i.etsystatic.com/12853550/r/il/9bee8c/1048550726/il_fullxfull.1048550726_e9hu.jpg
+tags: ["Poster print", "Giclee print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Black and white", "Sepia", "Minimal", "Plant", "Urformen der Kunst"]
+image_thumbnail_0: 278319866_thumbnail_0.jpg
+image_medium_0: 278319866_medium_0.jpg
+image_full_0: 278319866_full_0.jpg
+image_thumbnail_1: 278319866_thumbnail_1.jpg
+image_medium_1: 278319866_medium_1.jpg
+image_full_1: 278319866_full_1.jpg
+image_thumbnail_2: 278319866_thumbnail_2.jpg
+image_medium_2: 278319866_medium_2.jpg
+image_full_2: 278319866_full_2.jpg
 ---
 Margined Pyramidal Saxifrage (Saxifraga Aizoon). Leaf enlarged eight times. Plate 30.
 

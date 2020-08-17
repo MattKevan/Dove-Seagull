@@ -1,21 +1,20 @@
 ---
-layout: artwork
-title: Small Worlds II (Kleine Welten 
-full-title: Small Worlds II (Kleine Welten |I) by Vasily Kandinsky | Abstract modern art | Fine art print | Bauhaus | Modernist art
+title: 'Small Worlds II (Kleine Welten '
+full-title: 'Small Worlds II (Kleine Welten |I) by Vasily Kandinsky | Abstract modern art | Fine art print | Bauhaus | Modernist art'
 listing_id: 514237722
-etsy_url: https://www.etsy.com/listing/514237722/small-worlds-ii-kleine-welten-i-by?utm_source=ds&utm_medium=api&utm_campaign=api
+etsy_url: https://www.etsy.com/listing/514237722/small-worlds-ii-kleine-welten-i-by?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 19099181
 price: 18.60
 tags: ["Kandinsky", "Abstract", "Modern art", "Abstract art", "Colourful", "Bauhaus", "Art print", "Wall art", "Modernism", "Woodcut", "Fine art", "Vintage"]
-image_75x75_url_0: https://i.etsystatic.com/12853550/d/il/4fdca6/2343674587/il_75x75.2343674587_fqbe.jpg?version=0
-image_570xN_url_0: https://i.etsystatic.com/12853550/r/il/4fdca6/2343674587/il_570xN.2343674587_fqbe.jpg
-image_fullxfull_url_0: https://i.etsystatic.com/12853550/r/il/4fdca6/2343674587/il_fullxfull.2343674587_fqbe.jpg
-image_75x75_url_1: https://i.etsystatic.com/12853550/d/il/2019e2/1191143802/il_75x75.1191143802_jnx0.jpg?version=0
-image_570xN_url_1: https://i.etsystatic.com/12853550/r/il/2019e2/1191143802/il_570xN.1191143802_jnx0.jpg
-image_fullxfull_url_1: https://i.etsystatic.com/12853550/r/il/2019e2/1191143802/il_fullxfull.1191143802_jnx0.jpg
-image_75x75_url_2: https://i.etsystatic.com/12853550/d/il/66b5c7/1238361959/il_75x75.1238361959_bmze.jpg?version=0
-image_570xN_url_2: https://i.etsystatic.com/12853550/r/il/66b5c7/1238361959/il_570xN.1238361959_bmze.jpg
-image_fullxfull_url_2: https://i.etsystatic.com/12853550/r/il/66b5c7/1238361959/il_fullxfull.1238361959_bmze.jpg
+image_thumbnail_0: 514237722_thumbnail_0.jpg
+image_medium_0: 514237722_medium_0.jpg
+image_full_0: 514237722_full_0.jpg
+image_thumbnail_1: 514237722_thumbnail_1.jpg
+image_medium_1: 514237722_medium_1.jpg
+image_full_1: 514237722_full_1.jpg
+image_thumbnail_2: 514237722_thumbnail_2.jpg
+image_medium_2: 514237722_medium_2.jpg
+image_full_2: 514237722_full_2.jpg
 ---
 This is the second in the &#39;Kleine Welten (Small Worlds)&#39; series of 12 prints, published in 1922, shortly after Kandinsky started teaching at the Bauhaus. The series comprises of four woodcut prints, four etchings and four lithographs, each piece tailored to the medium&#39;s unique characteristics.
 

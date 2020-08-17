@@ -1,15 +1,14 @@
 ---
-layout: artwork
-title: Delphinium Larkspur – Plate 45 
-full-title: Delphinium Larkspur – Plate 45 | Art Forms in Nature by Karl Blossfeldt | Botanical, wall art, room decor, black & white, sepia, print
+title: 'Delphinium Larkspur – Plate 45 '
+full-title: 'Delphinium Larkspur – Plate 45 | Art Forms in Nature by Karl Blossfeldt | Botanical, wall art, room decor, black & white, sepia, print'
 listing_id: 278195488
-etsy_url: https://www.etsy.com/listing/278195488/delphinium-larkspur-plate-45-o-art-forms?utm_source=ds&utm_medium=api&utm_campaign=api
+etsy_url: https://www.etsy.com/listing/278195488/delphinium-larkspur-plate-45-o-art-forms?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 28031226
 price: 10.60
-tags: ["Poster", "Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Leaf", "Black and white", "Sepia", "Minimal", "High quality print"]
-image_75x75_url_0: https://i.etsystatic.com/12853550/d/il/78d964/2296650354/il_75x75.2296650354_cslv.jpg?version=0
-image_570xN_url_0: https://i.etsystatic.com/12853550/r/il/78d964/2296650354/il_570xN.2296650354_cslv.jpg
-image_fullxfull_url_0: https://i.etsystatic.com/12853550/r/il/78d964/2296650354/il_fullxfull.2296650354_cslv.jpg
+tags: ["Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Leaf", "Black and white", "Sepia", "Minimal", "High quality print", "Urformen der Kunst"]
+image_thumbnail_0: 278195488_thumbnail_0.jpg
+image_medium_0: 278195488_medium_0.jpg
+image_full_0: 278195488_full_0.jpg
 ---
 Delphinium. Larkspur. Leaves enlarged six times. Plate 45.
 

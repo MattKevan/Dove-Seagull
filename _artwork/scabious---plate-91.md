@@ -1,15 +1,14 @@
 ---
-layout: artwork
-title: Scabious - Plate 91 
-full-title: Scabious - Plate 91 | Urformen der Kunst Karl Blossfeldt | Botanical print, wall art, room decor, black & white, sepia, vintage
+title: 'Scabious - Plate 91 '
+full-title: 'Scabious - Plate 91 | Urformen der Kunst Karl Blossfeldt | Botanical print, wall art, room decor, black & white, sepia, vintage'
 listing_id: 466537452
-etsy_url: https://www.etsy.com/listing/466537452/scabious-plate-91-urformen-der-kunst?utm_source=ds&utm_medium=api&utm_campaign=api
+etsy_url: https://www.etsy.com/listing/466537452/scabious-plate-91-urformen-der-kunst?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 28031226
 price: 10.60
-tags: ["Poster", "Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Black and white", "Sepia", "Minimal", "Fern", "High quality print"]
-image_75x75_url_0: https://i.etsystatic.com/12853550/d/il/2eec49/2344356117/il_75x75.2344356117_oxsg.jpg?version=0
-image_570xN_url_0: https://i.etsystatic.com/12853550/r/il/2eec49/2344356117/il_570xN.2344356117_oxsg.jpg
-image_fullxfull_url_0: https://i.etsystatic.com/12853550/r/il/2eec49/2344356117/il_fullxfull.2344356117_oxsg.jpg
+tags: ["Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Black and white", "Sepia", "Minimal", "Fern", "High quality print", "Urformen der Kunst"]
+image_thumbnail_0: 466537452_thumbnail_0.jpg
+image_medium_0: 466537452_medium_0.jpg
+image_full_0: 466537452_full_0.jpg
 ---
 Scabiosa Columbaria. Small or Lilac-flowered Scabious. Enlarged 10 times.
 

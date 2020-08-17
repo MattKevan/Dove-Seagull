@@ -1,18 +1,17 @@
 ---
-layout: artwork
-title: Vintage butterfly and moths chart art print
-full-title: Vintage butterfly and moths chart art print
+title: 'Vintage butterfly and moths chart art print'
+full-title: 'Vintage butterfly and moths chart art print'
 listing_id: 292739569
-etsy_url: https://www.etsy.com/listing/292739569/vintage-butterfly-and-moths-chart-art?utm_source=ds&utm_medium=api&utm_campaign=api
+etsy_url: https://www.etsy.com/listing/292739569/vintage-butterfly-and-moths-chart-art?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 19013728
 price: 10.60
 tags: ["Poster print", "Wall art", "Botanical art", "Nature print", "Butterfly print", "Butterfly art", "High quality print", "Poster art", "Butterfly art print", "For nature lovers", "Vintage art print", "Moth print", "Natural history"]
-image_75x75_url_0: https://i.etsystatic.com/12853550/d/il/342d50/2178836700/il_75x75.2178836700_pxm5.jpg?version=0
-image_570xN_url_0: https://i.etsystatic.com/12853550/r/il/342d50/2178836700/il_570xN.2178836700_pxm5.jpg
-image_fullxfull_url_0: https://i.etsystatic.com/12853550/r/il/342d50/2178836700/il_fullxfull.2178836700_pxm5.jpg
-image_75x75_url_1: https://i.etsystatic.com/12853550/d/il/27a098/1017106689/il_75x75.1017106689_8myn.jpg?version=0
-image_570xN_url_1: https://i.etsystatic.com/12853550/r/il/27a098/1017106689/il_570xN.1017106689_8myn.jpg
-image_fullxfull_url_1: https://i.etsystatic.com/12853550/r/il/27a098/1017106689/il_fullxfull.1017106689_8myn.jpg
+image_thumbnail_0: 292739569_thumbnail_0.jpg
+image_medium_0: 292739569_medium_0.jpg
+image_full_0: 292739569_full_0.jpg
+image_thumbnail_1: 292739569_thumbnail_1.jpg
+image_medium_1: 292739569_medium_1.jpg
+image_full_1: 292739569_full_1.jpg
 ---
 This is a digital print of butterflies adapted from an 18th century Dutch book.
 

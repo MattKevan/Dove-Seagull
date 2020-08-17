@@ -1,18 +1,17 @@
 ---
-layout: artwork
-title: Snowy owl woodcut print 
-full-title: Snowy owl woodcut print | Nature prints, wall art, room decor, vintage print, woodcut print, parrot | High quality print
+title: 'Snowy owl woodcut print '
+full-title: 'Snowy owl woodcut print | Nature prints, wall art, room decor, vintage print, woodcut print, parrot | High quality print'
 listing_id: 791002828
-etsy_url: https://www.etsy.com/listing/791002828/snowy-owl-woodcut-print-nature-prints?utm_source=ds&utm_medium=api&utm_campaign=api
+etsy_url: https://www.etsy.com/listing/791002828/snowy-owl-woodcut-print-nature-prints?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 19099181
 price: 10.60
 tags: ["Poster", "Poster print", "Wall art", "Vintage", "Nature", "Woodcut", "Nature print", "Wildlife print", "Black and white", "Vintage print", "High quality print", "Owl", "Birds"]
-image_75x75_url_0: https://i.etsystatic.com/12853550/d/il/9db030/2344204941/il_75x75.2344204941_1bek.jpg?version=0
-image_570xN_url_0: https://i.etsystatic.com/12853550/r/il/9db030/2344204941/il_570xN.2344204941_1bek.jpg
-image_fullxfull_url_0: https://i.etsystatic.com/12853550/r/il/9db030/2344204941/il_fullxfull.2344204941_1bek.jpg
-image_75x75_url_1: https://i.etsystatic.com/12853550/d/il/ba5c12/2296595790/il_75x75.2296595790_9grg.jpg?version=0
-image_570xN_url_1: https://i.etsystatic.com/12853550/r/il/ba5c12/2296595790/il_570xN.2296595790_9grg.jpg
-image_fullxfull_url_1: https://i.etsystatic.com/12853550/r/il/ba5c12/2296595790/il_fullxfull.2296595790_9grg.jpg
+image_thumbnail_0: 791002828_thumbnail_0.jpg
+image_medium_0: 791002828_medium_0.jpg
+image_full_0: 791002828_full_0.jpg
+image_thumbnail_1: 791002828_thumbnail_1.jpg
+image_medium_1: 791002828_medium_1.jpg
+image_full_1: 791002828_full_1.jpg
 ---
 This is a wonderful woodcut print of a snowy owl by Samuel Jessrum de Mesquita.
 

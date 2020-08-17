@@ -1,15 +1,14 @@
 ---
-layout: artwork
-title: Hedge Nettle and Tobacco Plant - Plate 48 
-full-title: Hedge Nettle and Tobacco Plant - Plate 48 | From Urformen Der Kunst by Karl Blossfeldt | Vintage botanical photographic print
+title: 'Hedge Nettle and Tobacco Plant - Plate 48 '
+full-title: 'Hedge Nettle and Tobacco Plant - Plate 48 | From Urformen Der Kunst by Karl Blossfeldt | Vintage botanical photographic print'
 listing_id: 480282161
-etsy_url: https://www.etsy.com/listing/480282161/hedge-nettle-and-tobacco-plant-plate-48?utm_source=ds&utm_medium=api&utm_campaign=api
+etsy_url: https://www.etsy.com/listing/480282161/hedge-nettle-and-tobacco-plant-plate-48?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 28031226
 price: 10.60
-tags: ["Poster", "Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Black and white", "Sepia", "Minimal", "Fern", "High quality print"]
-image_75x75_url_0: https://i.etsystatic.com/12853550/d/il/d5b1ee/2344934465/il_75x75.2344934465_1r5c.jpg?version=0
-image_570xN_url_0: https://i.etsystatic.com/12853550/r/il/d5b1ee/2344934465/il_570xN.2344934465_1r5c.jpg
-image_fullxfull_url_0: https://i.etsystatic.com/12853550/r/il/d5b1ee/2344934465/il_fullxfull.2344934465_1r5c.jpg
+tags: ["Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Black and white", "Sepia", "Minimal", "Fern", "High quality print", "Urformen der Kunst"]
+image_thumbnail_0: 480282161_thumbnail_0.jpg
+image_medium_0: 480282161_medium_0.jpg
+image_full_0: 480282161_full_0.jpg
 ---
 This is a print from Karl Blossfeldt&#39;s groundbreaking work &#39;Urformen der Kunst&#39;, first published in 1928. An English edition was published in 1929 as &#39;Art Forms in Nature&#39;. The complete work contains 120 rotary gravure plates, prefaced with an introductory text and list of subjects.
 

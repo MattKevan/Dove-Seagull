@@ -1,24 +1,23 @@
 ---
-layout: artwork
-title: Citrus fruits vintage kitchen home decor 
-full-title: Citrus fruits vintage kitchen home decor | Set of 3 prints – Save 20% | Wall art Orange, lemon, lime
+title: 'Citrus fruits vintage kitchen home decor '
+full-title: 'Citrus fruits vintage kitchen home decor | Set of 3 prints – Save 20% | Wall art Orange, lemon, lime'
 listing_id: 805624965
-etsy_url: https://www.etsy.com/listing/805624965/citrus-fruits-vintage-kitchen-home-decor?utm_source=ds&utm_medium=api&utm_campaign=api
+etsy_url: https://www.etsy.com/listing/805624965/citrus-fruits-vintage-kitchen-home-decor?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 25544581
 price: 25.44
 tags: ["Poster print", "Botanical art", "Wall art", "Photograph", "Plant", "Watercolour", "High quality print", "Citrus", "Botanical print set", "Fruit kitchen print", "Vintage botanical"]
-image_75x75_url_0: https://i.etsystatic.com/12853550/d/il/531d6a/2346621489/il_75x75.2346621489_m1wh.jpg?version=0
-image_570xN_url_0: https://i.etsystatic.com/12853550/r/il/531d6a/2346621489/il_570xN.2346621489_m1wh.jpg
-image_fullxfull_url_0: https://i.etsystatic.com/12853550/r/il/531d6a/2346621489/il_fullxfull.2346621489_m1wh.jpg
-image_75x75_url_1: https://i.etsystatic.com/12853550/d/il/c69449/2297840204/il_75x75.2297840204_ecw5.jpg?version=0
-image_570xN_url_1: https://i.etsystatic.com/12853550/r/il/c69449/2297840204/il_570xN.2297840204_ecw5.jpg
-image_fullxfull_url_1: https://i.etsystatic.com/12853550/r/il/c69449/2297840204/il_fullxfull.2297840204_ecw5.jpg
-image_75x75_url_2: https://i.etsystatic.com/12853550/d/il/36de03/2346622145/il_75x75.2346622145_om7m.jpg?version=0
-image_570xN_url_2: https://i.etsystatic.com/12853550/r/il/36de03/2346622145/il_570xN.2346622145_om7m.jpg
-image_fullxfull_url_2: https://i.etsystatic.com/12853550/r/il/36de03/2346622145/il_fullxfull.2346622145_om7m.jpg
-image_75x75_url_3: https://i.etsystatic.com/12853550/d/il/b9bceb/2299014688/il_75x75.2299014688_i36d.jpg?version=0
-image_570xN_url_3: https://i.etsystatic.com/12853550/r/il/b9bceb/2299014688/il_570xN.2299014688_i36d.jpg
-image_fullxfull_url_3: https://i.etsystatic.com/12853550/r/il/b9bceb/2299014688/il_fullxfull.2299014688_i36d.jpg
+image_thumbnail_0: 805624965_thumbnail_0.jpg
+image_medium_0: 805624965_medium_0.jpg
+image_full_0: 805624965_full_0.jpg
+image_thumbnail_1: 805624965_thumbnail_1.jpg
+image_medium_1: 805624965_medium_1.jpg
+image_full_1: 805624965_full_1.jpg
+image_thumbnail_2: 805624965_thumbnail_2.jpg
+image_medium_2: 805624965_medium_2.jpg
+image_full_2: 805624965_full_2.jpg
+image_thumbnail_3: 805624965_thumbnail_3.jpg
+image_medium_3: 805624965_medium_3.jpg
+image_full_3: 805624965_full_3.jpg
 ---
 Three stunning botanical watercolour studies from a series of watercolours painted in the early 1900s. 
 

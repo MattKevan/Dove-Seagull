@@ -1,18 +1,17 @@
 ---
-layout: artwork
-title: Heather, Daisy - Plate 28 
-full-title: Heather, Daisy - Plate 28 | Urformen der Kunst | Karl Blossfeldt |  Botanical print, wall art, room decor, black & white, sepia, vintage
+title: 'Heather, Daisy - Plate 28 '
+full-title: 'Heather, Daisy - Plate 28 | Urformen der Kunst | Karl Blossfeldt |  Botanical print, wall art, room decor, black & white, sepia, vintage'
 listing_id: 467254292
-etsy_url: https://www.etsy.com/listing/467254292/heather-daisy-plate-28-urformen-der?utm_source=ds&utm_medium=api&utm_campaign=api
+etsy_url: https://www.etsy.com/listing/467254292/heather-daisy-plate-28-urformen-der?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 28031226
 price: 10.60
-tags: ["Poster", "Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Black and white", "Sepia", "Minimal", "High quality print", "Botanical print"]
-image_75x75_url_0: https://i.etsystatic.com/12853550/d/il/eb7a66/2297316166/il_75x75.2297316166_ghsa.jpg?version=0
-image_570xN_url_0: https://i.etsystatic.com/12853550/r/il/eb7a66/2297316166/il_570xN.2297316166_ghsa.jpg
-image_fullxfull_url_0: https://i.etsystatic.com/12853550/r/il/eb7a66/2297316166/il_fullxfull.2297316166_ghsa.jpg
-image_75x75_url_1: https://i.etsystatic.com/12853550/d/il/85f4ca/1095112993/il_75x75.1095112993_iq8p.jpg?version=0
-image_570xN_url_1: https://i.etsystatic.com/12853550/r/il/85f4ca/1095112993/il_570xN.1095112993_iq8p.jpg
-image_fullxfull_url_1: https://i.etsystatic.com/12853550/r/il/85f4ca/1095112993/il_fullxfull.1095112993_iq8p.jpg
+tags: ["Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Black and white", "Sepia", "Minimal", "High quality print", "Botanical print", "Urformen der Kunst"]
+image_thumbnail_0: 467254292_thumbnail_0.jpg
+image_medium_0: 467254292_medium_0.jpg
+image_full_0: 467254292_full_0.jpg
+image_thumbnail_1: 467254292_thumbnail_1.jpg
+image_medium_1: 467254292_medium_1.jpg
+image_full_1: 467254292_full_1.jpg
 ---
 Cassiope tetragona. A variety of heather enlarged 12 times. 
 Chrysanthemum leucanthemum. Ox-eye Daisy. Flower-bud enlarged 16 times.

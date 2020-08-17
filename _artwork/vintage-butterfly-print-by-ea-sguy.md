@@ -1,18 +1,17 @@
 ---
-layout: artwork
-title: Vintage butterfly print by EA Séguy
-full-title: Vintage butterfly print by EA Séguy
+title: 'Vintage butterfly print by EA Séguy'
+full-title: 'Vintage butterfly print by EA Séguy'
 listing_id: 398385835
-etsy_url: https://www.etsy.com/listing/398385835/vintage-butterfly-print-by-ea-seguy?utm_source=ds&utm_medium=api&utm_campaign=api
+etsy_url: https://www.etsy.com/listing/398385835/vintage-butterfly-print-by-ea-seguy?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 19013728
 price: 18.60
 tags: ["Poster", "Poster print", "Wall art", "Vintage", "Watercolour", "Nature", "Botanical art", "Wildlife", "Nature print", "Butterfly print", "Butterfly art", "Butterfly poster", "High quality print"]
-image_75x75_url_0: https://i.etsystatic.com/12853550/d/il/c57bbc/2178950914/il_75x75.2178950914_2v0m.jpg?version=0
-image_570xN_url_0: https://i.etsystatic.com/12853550/r/il/c57bbc/2178950914/il_570xN.2178950914_2v0m.jpg
-image_fullxfull_url_0: https://i.etsystatic.com/12853550/r/il/c57bbc/2178950914/il_fullxfull.2178950914_2v0m.jpg
-image_75x75_url_1: https://i.etsystatic.com/12853550/d/il/8d062c/1239484287/il_75x75.1239484287_fz08.jpg?version=0
-image_570xN_url_1: https://i.etsystatic.com/12853550/r/il/8d062c/1239484287/il_570xN.1239484287_fz08.jpg
-image_fullxfull_url_1: https://i.etsystatic.com/12853550/r/il/8d062c/1239484287/il_fullxfull.1239484287_fz08.jpg
+image_thumbnail_0: 398385835_thumbnail_0.jpg
+image_medium_0: 398385835_medium_0.jpg
+image_full_0: 398385835_full_0.jpg
+image_thumbnail_1: 398385835_thumbnail_1.jpg
+image_medium_1: 398385835_medium_1.jpg
+image_full_1: 398385835_full_1.jpg
 ---
 This is the third plate from a collection of 20 stunning butterfly prints by E A Seguy.
 

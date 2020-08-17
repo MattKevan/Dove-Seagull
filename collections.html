@@ -8,8 +8,8 @@ permalink: "/collections/"
 
 <div class="row">
 
-	
-	{% for item in site.collect %}
+	{% assign collection = site.collect | sort:'title' %}
+	{% for item in collection %}
 		{% include grid-teaser.html %}
 	{% endfor %}
 

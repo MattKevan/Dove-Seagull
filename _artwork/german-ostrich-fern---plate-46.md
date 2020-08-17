@@ -1,15 +1,14 @@
 ---
-layout: artwork
-title: German Ostrich-Fern - Plate 46 
-full-title: German Ostrich-Fern - Plate 46 | From Urformen Der Kunst by Karl Blossfeldt | Vintage botanical photographic print
+title: 'German Ostrich-Fern - Plate 46 '
+full-title: 'German Ostrich-Fern - Plate 46 | From Urformen Der Kunst by Karl Blossfeldt | Vintage botanical photographic print'
 listing_id: 279830964
-etsy_url: https://www.etsy.com/listing/279830964/german-ostrich-fern-plate-46-from?utm_source=ds&utm_medium=api&utm_campaign=api
+etsy_url: https://www.etsy.com/listing/279830964/german-ostrich-fern-plate-46-from?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 28031226
 price: 10.60
-tags: ["Poster", "Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Black and white", "Sepia", "Minimal", "Fern", "High quality print"]
-image_75x75_url_0: https://i.etsystatic.com/12853550/d/il/6fbbb7/2344317895/il_75x75.2344317895_p406.jpg?version=0
-image_570xN_url_0: https://i.etsystatic.com/12853550/r/il/6fbbb7/2344317895/il_570xN.2344317895_p406.jpg
-image_fullxfull_url_0: https://i.etsystatic.com/12853550/r/il/6fbbb7/2344317895/il_fullxfull.2344317895_p406.jpg
+tags: ["Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Black and white", "Sepia", "Minimal", "Fern", "High quality print", "Urformen der Kunst"]
+image_thumbnail_0: 279830964_thumbnail_0.jpg
+image_medium_0: 279830964_medium_0.jpg
+image_full_0: 279830964_full_0.jpg
 ---
 German Ostrich Fern (Struthiopteris Germanica). Frond enlarged eight times. Plate 46.
 

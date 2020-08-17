@@ -1,18 +1,17 @@
 ---
-layout: artwork
-title: Feverfew Chrysanthemum - Plate 50 
-full-title: Feverfew Chrysanthemum - Plate 50 | From Urformen Der Kunst by Karl Blossfeldt | Vintage botanical photographic print
+title: 'Feverfew Chrysanthemum - Plate 50 '
+full-title: 'Feverfew Chrysanthemum - Plate 50 | From Urformen Der Kunst by Karl Blossfeldt | Vintage botanical photographic print'
 listing_id: 293345013
-etsy_url: https://www.etsy.com/listing/293345013/feverfew-chrysanthemum-plate-50-from?utm_source=ds&utm_medium=api&utm_campaign=api
+etsy_url: https://www.etsy.com/listing/293345013/feverfew-chrysanthemum-plate-50-from?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 28031226
 price: 10.60
-tags: ["Poster", "Poster print", "Giclee print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Black and white", "Sepia", "Minimal", "Leaf"]
-image_75x75_url_0: https://i.etsystatic.com/12853550/d/il/2a9f0b/2344273287/il_75x75.2344273287_3rgg.jpg?version=0
-image_570xN_url_0: https://i.etsystatic.com/12853550/r/il/2a9f0b/2344273287/il_570xN.2344273287_3rgg.jpg
-image_fullxfull_url_0: https://i.etsystatic.com/12853550/r/il/2a9f0b/2344273287/il_fullxfull.2344273287_3rgg.jpg
-image_75x75_url_1: https://i.etsystatic.com/12853550/d/il/72e391/1019763451/il_75x75.1019763451_eaq4.jpg?version=0
-image_570xN_url_1: https://i.etsystatic.com/12853550/r/il/72e391/1019763451/il_570xN.1019763451_eaq4.jpg
-image_fullxfull_url_1: https://i.etsystatic.com/12853550/r/il/72e391/1019763451/il_fullxfull.1019763451_eaq4.jpg
+tags: ["Poster print", "Giclee print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Black and white", "Sepia", "Minimal", "Leaf", "Urformen der Kunst"]
+image_thumbnail_0: 293345013_thumbnail_0.jpg
+image_medium_0: 293345013_medium_0.jpg
+image_full_0: 293345013_full_0.jpg
+image_thumbnail_1: 293345013_thumbnail_1.jpg
+image_medium_1: 293345013_medium_1.jpg
+image_full_1: 293345013_full_1.jpg
 ---
 Plate 50 - Feverfew chrysanthemum (Chrysanthemum parthenium). Leaf enlarged five times.
 

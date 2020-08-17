@@ -1,21 +1,20 @@
 ---
-layout: artwork
-title: In the Midst of the Waters by Paul Nash – Genesis woodcut print
-full-title: In the Midst of the Waters by Paul Nash – Genesis woodcut print
+title: 'In the Midst of the Waters by Paul Nash – Genesis woodcut print'
+full-title: 'In the Midst of the Waters by Paul Nash – Genesis woodcut print'
 listing_id: 292889721
-etsy_url: https://www.etsy.com/listing/292889721/in-the-midst-of-the-waters-by-paul-nash?utm_source=ds&utm_medium=api&utm_campaign=api
+etsy_url: https://www.etsy.com/listing/292889721/in-the-midst-of-the-waters-by-paul-nash?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 19099181
 price: 10.60
 tags: ["Poster", "Poster print", "Wall art", "Vintage", "Woodcut", "Genesis", "Black and white", "Bible", "Paul Nash", "Engraving", "Creation", "Modern art", "High quality print"]
-image_75x75_url_0: https://i.etsystatic.com/12853550/d/il/3547f9/2178888942/il_75x75.2178888942_6ijs.jpg?version=0
-image_570xN_url_0: https://i.etsystatic.com/12853550/r/il/3547f9/2178888942/il_570xN.2178888942_6ijs.jpg
-image_fullxfull_url_0: https://i.etsystatic.com/12853550/r/il/3547f9/2178888942/il_fullxfull.2178888942_6ijs.jpg
-image_75x75_url_1: https://i.etsystatic.com/12853550/d/il/5f78c7/1017769303/il_75x75.1017769303_5jl4.jpg?version=0
-image_570xN_url_1: https://i.etsystatic.com/12853550/r/il/5f78c7/1017769303/il_570xN.1017769303_5jl4.jpg
-image_fullxfull_url_1: https://i.etsystatic.com/12853550/r/il/5f78c7/1017769303/il_fullxfull.1017769303_5jl4.jpg
-image_75x75_url_2: https://i.etsystatic.com/12853550/d/il/d7a5d6/971339486/il_75x75.971339486_6xqr.jpg?version=0
-image_570xN_url_2: https://i.etsystatic.com/12853550/r/il/d7a5d6/971339486/il_570xN.971339486_6xqr.jpg
-image_fullxfull_url_2: https://i.etsystatic.com/12853550/r/il/d7a5d6/971339486/il_fullxfull.971339486_6xqr.jpg
+image_thumbnail_0: 292889721_thumbnail_0.jpg
+image_medium_0: 292889721_medium_0.jpg
+image_full_0: 292889721_full_0.jpg
+image_thumbnail_1: 292889721_thumbnail_1.jpg
+image_medium_1: 292889721_medium_1.jpg
+image_full_1: 292889721_full_1.jpg
+image_thumbnail_2: 292889721_thumbnail_2.jpg
+image_medium_2: 292889721_medium_2.jpg
+image_full_2: 292889721_full_2.jpg
 ---
 This is the third in an amazing series of woodcut prints by Paul Nash, illustrating the first chapter of Genesis.
 

@@ -1,19 +1,18 @@
 ---
-layout: artwork
-title: Mexican Ivy - Plate 74 
-full-title: Mexican Ivy - Plate 74 | From Urformen Der Kunst by Karl Blossfeldt | Vintage botanical photographic print
+title: 'Mexican Ivy - Plate 74 '
+full-title: 'Mexican Ivy - Plate 74 | From Urformen Der Kunst by Karl Blossfeldt | Vintage botanical photographic print'
 listing_id: 293344921
-etsy_url: https://www.etsy.com/listing/293344921/mexican-ivy-plate-74-from-urformen-der?utm_source=ds&utm_medium=api&utm_campaign=api
+etsy_url: https://www.etsy.com/listing/293344921/mexican-ivy-plate-74-from-urformen-der?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 28031226
 price: 10.60
-tags: ["Poster", "Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Black and white", "Sepia", "Minimal"]
-image_75x75_url_0: https://i.etsystatic.com/12853550/d/il/8fb187/2296713090/il_75x75.2296713090_a6ud.jpg?version=0
-image_570xN_url_0: https://i.etsystatic.com/12853550/r/il/8fb187/2296713090/il_570xN.2296713090_a6ud.jpg
-image_fullxfull_url_0: https://i.etsystatic.com/12853550/r/il/8fb187/2296713090/il_fullxfull.2296713090_a6ud.jpg
+tags: ["Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Black and white", "Sepia", "Minimal", "Urformen der Kunst"]
+image_thumbnail_0: 293344921_thumbnail_0.jpg
+image_medium_0: 293344921_medium_0.jpg
+image_full_0: 293344921_full_0.jpg
 ---
 Mexican Ivy (Cobea scandens). Calix enlarged four times. Plate 74.
 
-This is a high-quality print from Karl Blossfeldt&#39;s groundbreaking work &#39;Urformen der Kunst&#39; first published in 1928. A 1929 English edition was published as &#39;Art Forms in Nature&#39;. The complete work contains 120 rotary gravure plates, prefaced with an introductory text and list of subjects.
+This is a print from Karl Blossfeldt&#39;s groundbreaking work &#39;Urformen der Kunst&#39; first published in 1928. A 1929 English edition was published as &#39;Art Forms in Nature&#39;. The complete work contains 120 rotary gravure plates, prefaced with an introductory text and list of subjects.
 
 Karl Blossfeldt was a German teacher, sculptor and photographer celebrated by early modernists and the Surrealists for his pioneering close-up photography of plants and flora. Using a homemade camera and lens, he was able to magnify a subject 30 times, capturing the fine detail of his specimens.
 

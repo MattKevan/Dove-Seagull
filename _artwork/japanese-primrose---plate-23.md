@@ -1,18 +1,17 @@
 ---
-layout: artwork
-title: Japanese Primrose - Plate 23 
-full-title: Japanese Primrose - Plate 23 | Urformen der Kunst | Karl Blossfeldt | Botanical print, wall art, room decor, black & white, sepia, vintage
+title: 'Japanese Primrose - Plate 23 '
+full-title: 'Japanese Primrose - Plate 23 | Urformen der Kunst | Karl Blossfeldt | Botanical print, wall art, room decor, black & white, sepia, vintage'
 listing_id: 467253746
-etsy_url: https://www.etsy.com/listing/467253746/japanese-primrose-plate-23-urformen-der?utm_source=ds&utm_medium=api&utm_campaign=api
+etsy_url: https://www.etsy.com/listing/467253746/japanese-primrose-plate-23-urformen-der?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 28031226
 price: 10.60
-tags: ["Poster", "Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Black and white", "Sepia", "Minimal", "High quality print", "Botanical print"]
-image_75x75_url_0: https://i.etsystatic.com/12853550/d/il/7b51b3/2296696704/il_75x75.2296696704_jwye.jpg?version=0
-image_570xN_url_0: https://i.etsystatic.com/12853550/r/il/7b51b3/2296696704/il_570xN.2296696704_jwye.jpg
-image_fullxfull_url_0: https://i.etsystatic.com/12853550/r/il/7b51b3/2296696704/il_fullxfull.2296696704_jwye.jpg
-image_75x75_url_1: https://i.etsystatic.com/12853550/d/il/b0cafa/1095111461/il_75x75.1095111461_k6ix.jpg?version=0
-image_570xN_url_1: https://i.etsystatic.com/12853550/r/il/b0cafa/1095111461/il_570xN.1095111461_k6ix.jpg
-image_fullxfull_url_1: https://i.etsystatic.com/12853550/r/il/b0cafa/1095111461/il_fullxfull.1095111461_k6ix.jpg
+tags: ["Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Black and white", "Sepia", "Minimal", "High quality print", "Botanical print", "Urformen der Kunst"]
+image_thumbnail_0: 467253746_thumbnail_0.jpg
+image_medium_0: 467253746_medium_0.jpg
+image_full_0: 467253746_full_0.jpg
+image_thumbnail_1: 467253746_thumbnail_1.jpg
+image_medium_1: 467253746_medium_1.jpg
+image_full_1: 467253746_full_1.jpg
 ---
 Primula Japonica. Japanese Primrose. Fruit enlarged 6 times.
 

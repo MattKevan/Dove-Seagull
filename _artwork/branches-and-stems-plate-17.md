@@ -1,18 +1,17 @@
 ---
-layout: artwork
-title: Branches and Stems Plate 17 
-full-title: Branches and Stems Plate 17 | Urformen der Kunst | Karl Blossfeldt | Botanical print, wall art, room decor, black & white, sepia, vintage
+title: 'Branches and Stems Plate 17 '
+full-title: 'Branches and Stems Plate 17 | Urformen der Kunst | Karl Blossfeldt | Botanical print, wall art, room decor, black & white, sepia, vintage'
 listing_id: 466791222
-etsy_url: https://www.etsy.com/listing/466791222/branches-and-stems-plate-17-urformen-der?utm_source=ds&utm_medium=api&utm_campaign=api
+etsy_url: https://www.etsy.com/listing/466791222/branches-and-stems-plate-17-urformen-der?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 28031226
 price: 10.60
-tags: ["Poster", "Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Black and white", "Sepia", "Minimal", "Fern", "High quality print"]
-image_75x75_url_0: https://i.etsystatic.com/12853550/d/il/1fcc16/2344936223/il_75x75.2344936223_5ft1.jpg?version=0
-image_570xN_url_0: https://i.etsystatic.com/12853550/r/il/1fcc16/2344936223/il_570xN.2344936223_5ft1.jpg
-image_fullxfull_url_0: https://i.etsystatic.com/12853550/r/il/1fcc16/2344936223/il_fullxfull.2344936223_5ft1.jpg
-image_75x75_url_1: https://i.etsystatic.com/12853550/d/il/bf1437/1047293160/il_75x75.1047293160_rigd.jpg?version=0
-image_570xN_url_1: https://i.etsystatic.com/12853550/r/il/bf1437/1047293160/il_570xN.1047293160_rigd.jpg
-image_fullxfull_url_1: https://i.etsystatic.com/12853550/r/il/bf1437/1047293160/il_fullxfull.1047293160_rigd.jpg
+tags: ["Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Black and white", "Sepia", "Minimal", "Fern", "High quality print", "Urformen der Kunst"]
+image_thumbnail_0: 466791222_thumbnail_0.jpg
+image_medium_0: 466791222_medium_0.jpg
+image_full_0: 466791222_full_0.jpg
+image_thumbnail_1: 466791222_thumbnail_1.jpg
+image_medium_1: 466791222_medium_1.jpg
+image_full_1: 466791222_full_1.jpg
 ---
 Cornus Nuttallii. Dogwood. End of a branch enlarged 6 times. 
 Cornus florida. Box-wood of N. America, Flowering Dogwood. End of branch enlarged 6 times. 

@@ -1,15 +1,14 @@
 ---
-layout: artwork
-title: Small Teasel - Plate 77 
-full-title: Small Teasel - Plate 77 | From Urformen Der Kunst by Karl Blossfeldt | Vintage botanical photographic print
+title: 'Small Teasel - Plate 77 '
+full-title: 'Small Teasel - Plate 77 | From Urformen Der Kunst by Karl Blossfeldt | Vintage botanical photographic print'
 listing_id: 279830734
-etsy_url: https://www.etsy.com/listing/279830734/small-teasel-plate-77-from-urformen-der?utm_source=ds&utm_medium=api&utm_campaign=api
+etsy_url: https://www.etsy.com/listing/279830734/small-teasel-plate-77-from-urformen-der?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 28031226
 price: 10.60
-tags: ["Poster", "Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Black and white", "Sepia", "Minimal", "Plant", "High quality print"]
-image_75x75_url_0: https://i.etsystatic.com/12853550/d/il/a242c9/2344295699/il_75x75.2344295699_87uv.jpg?version=0
-image_570xN_url_0: https://i.etsystatic.com/12853550/r/il/a242c9/2344295699/il_570xN.2344295699_87uv.jpg
-image_fullxfull_url_0: https://i.etsystatic.com/12853550/r/il/a242c9/2344295699/il_fullxfull.2344295699_87uv.jpg
+tags: ["Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Black and white", "Sepia", "Minimal", "Plant", "High quality print", "Urformen der Kunst"]
+image_thumbnail_0: 279830734_thumbnail_0.jpg
+image_medium_0: 279830734_medium_0.jpg
+image_full_0: 279830734_full_0.jpg
 ---
 Small Teasel (Cephalaria). Enlarged 10 times. Plate 77.
 

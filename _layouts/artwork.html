@@ -6,7 +6,51 @@ layout: default
 
 	<div class="product col-12 col-md-8">
 
-		<div class="image"><img src="{{ page.image_fullxfull_url_0 }}" /></div>
+		<div id="custCarousel" class="carousel slide image carousel-fade" data-ride="false" align="center">
+	        <!-- slides -->
+	        <div class="carousel-inner">
+	            <div class="carousel-item active" data-interval="false"><img src="/images/artwork/{{ page.image_full_0 }}" /></div>
+	            {% if page.image_full_1 %}
+		            <div class="carousel-item" data-interval="false"><img src="/images/artwork/{{ page.image_full_1 }}" /> </div>
+	            {% endif %}
+	            {% if page.image_full_2 %}
+	            	<div class="carousel-item" data-interval="false"><img src="/images/artwork/{{ page.image_full_2 }}" /> </div>
+	            {% endif %}
+	            {% if page.image_full_3 %}
+	            	<div class="carousel-item" data-interval="false"><img src="/images/artwork/{{ page.image_full_3 }}" /> </div>
+	            {% endif %}
+	        </div> 
+	        <!-- Thumbnails -->
+	        {% if page.image_full_1 %}
+		        <ol class="carousel-indicators list-inline ">
+		            <li class="list-inline-item active"> 
+		            	<a id="carousel-selector-0" class="selected" data-slide-to="0" data-target="#custCarousel">
+		            		<img src="/images/artwork/{{ page.image_thumbnail_0 }}" class="img-fluid"> 
+		            	</a> 
+		            </li>
+		            <li class="list-inline-item"> 
+		            	<a id="carousel-selector-1" data-slide-to="1" data-target="#custCarousel"> 
+		            		<img src="/images/artwork/{{ page.image_thumbnail_1 }}" class="img-fluid"> 
+		            	</a> 
+		            </li>
+		            {% if page.image_full_2 %}
+		            	<li class="list-inline-item"> 
+			            	<a id="carousel-selector-2" data-slide-to="2" data-target="#custCarousel"> 
+			            		<img src="/images/artwork/{{ page.image_thumbnail_2 }}" class="img-fluid"> 
+			            	</a> 
+			            </li>
+		            {% endif %}
+		            {% if page.image_full_3 %}
+		            	<li class="list-inline-item"> 
+			            	<a id="carousel-selector-3" data-slide-to="3" data-target="#custCarousel"> 
+			            		<img src="/images/artwork/{{ page.image_thumbnail_3 }}" class="img-fluid"> 
+			            	</a> 
+			            </li>
+		            {% endif %}
+		        </ol>
+	        {% endif %}
+        </div>
+
 		<hr>
 
 		<div class="product-purchase d-md-none">
@@ -51,7 +95,7 @@ layout: default
 	{% for item in site.artwork %}
 		{% if item.section_id == page.section_id %}
 			{% if item.listing_id != page.listing_id %}
-				<div class="related-products-paged col-6 col-md-4 product-teaser">
+				<div class="related-products-paged col-6 col-md-4">
 				{% include product-teaser.html %}
 			</div>
 			{% endif %}
@@ -59,4 +103,3 @@ layout: default
 	{% endfor %}
 </div>
 <ul class="pagination justify-content-center related-products-pager"></ul>
-<a class='next'>Next &raquo;</a>

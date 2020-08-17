@@ -1,15 +1,14 @@
 ---
-layout: artwork
-title: Arbor Vitae - Plate 29 
-full-title: Arbor Vitae - Plate 29 | From Urformen Der Kunst by Karl Blossfeldt | Vintage botanical photographic print
+title: 'Arbor Vitae - Plate 29 '
+full-title: 'Arbor Vitae - Plate 29 | From Urformen Der Kunst by Karl Blossfeldt | Vintage botanical photographic print'
 listing_id: 480746979
-etsy_url: https://www.etsy.com/listing/480746979/arbor-vitae-plate-29-from-urformen-der?utm_source=ds&utm_medium=api&utm_campaign=api
+etsy_url: https://www.etsy.com/listing/480746979/arbor-vitae-plate-29-from-urformen-der?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 28031226
 price: 10.60
-tags: ["Poster", "Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Black and white", "Sepia", "Minimal", "High quality print", "Botanical print"]
-image_75x75_url_0: https://i.etsystatic.com/12853550/d/il/e01b98/2344246949/il_75x75.2344246949_2fvh.jpg?version=0
-image_570xN_url_0: https://i.etsystatic.com/12853550/r/il/e01b98/2344246949/il_570xN.2344246949_2fvh.jpg
-image_fullxfull_url_0: https://i.etsystatic.com/12853550/r/il/e01b98/2344246949/il_fullxfull.2344246949_2fvh.jpg
+tags: ["Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Black and white", "Sepia", "Minimal", "High quality print", "Botanical print", "Urformen der Kunst"]
+image_thumbnail_0: 480746979_thumbnail_0.jpg
+image_medium_0: 480746979_medium_0.jpg
+image_full_0: 480746979_full_0.jpg
 ---
 Thujopsis Dolabrata. Hatchet-Leaved Arbor Vitae. Ends of a branch enlarged 10 times.
 
@@ -18,6 +17,8 @@ This is a print of plate 29 from Karl Blossfeldt&#39;s groundbreaking work &#39;
 Karl Blossfeldt was a German teacher, sculptor and photographer celebrated by early modernists and the Surrealists for his pioneering close-up photography of plants and flora. Using a homemade camera and lens, he was able to magnify a subject 30 times, capturing the fine detail of his specimens.
 
 The philosopher Walter Benjamin declared that Blossfeld &quot;has played his part in that great examination of the inventory of perception, which will have an unforeseeable effect on our conception of the world&quot;. 
+
+---
 
 ### Printing
 

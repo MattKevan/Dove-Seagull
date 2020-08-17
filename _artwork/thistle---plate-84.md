@@ -1,15 +1,14 @@
 ---
-layout: artwork
-title: Thistle - Plate 84 
-full-title: Thistle - Plate 84 | From Urformen Der Kunst by Karl Blossfeldt | Vintage botanical photographic print
+title: 'Thistle - Plate 84 '
+full-title: 'Thistle - Plate 84 | From Urformen Der Kunst by Karl Blossfeldt | Vintage botanical photographic print'
 listing_id: 278319816
-etsy_url: https://www.etsy.com/listing/278319816/thistle-plate-84-from-urformen-der-kunst?utm_source=ds&utm_medium=api&utm_campaign=api
+etsy_url: https://www.etsy.com/listing/278319816/thistle-plate-84-from-urformen-der-kunst?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 28031226
 price: 10.60
-tags: ["Poster", "Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Black and white", "Sepia", "Minimal", "Plant", "High quality print"]
-image_75x75_url_0: https://i.etsystatic.com/12853550/d/il/4135b6/2296684062/il_75x75.2296684062_1msa.jpg?version=0
-image_570xN_url_0: https://i.etsystatic.com/12853550/r/il/4135b6/2296684062/il_570xN.2296684062_1msa.jpg
-image_fullxfull_url_0: https://i.etsystatic.com/12853550/r/il/4135b6/2296684062/il_fullxfull.2296684062_1msa.jpg
+tags: ["Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Black and white", "Sepia", "Minimal", "Plant", "High quality print", "Urformen der Kunst"]
+image_thumbnail_0: 278319816_thumbnail_0.jpg
+image_medium_0: 278319816_medium_0.jpg
+image_full_0: 278319816_full_0.jpg
 ---
 Thistle (Cirsium canum). Flower head enlarged 12 times. Plate 84.
 

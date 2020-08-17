@@ -8,7 +8,7 @@ lead: From 1935 to 1936, as part of the New Deal Works Progress Administration, 
 section_id: 19058808
 tags: []
 thumb: ''
-image: "/v1527767060/See_America_8x10.jpg"
+image: "wpa.jpg"
 artist: ''
 
 ---

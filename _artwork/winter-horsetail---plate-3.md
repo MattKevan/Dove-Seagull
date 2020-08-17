@@ -1,18 +1,17 @@
 ---
-layout: artwork
-title: Winter Horsetail - Plate 3 
-full-title: Winter Horsetail - Plate 3 | Urformen der Kunst | Karl Blossfeldt | Botanical print, wall art, room decor, black & white, sepia, vintage
+title: 'Winter Horsetail - Plate 3 '
+full-title: 'Winter Horsetail - Plate 3 | Urformen der Kunst | Karl Blossfeldt | Botanical print, wall art, room decor, black & white, sepia, vintage'
 listing_id: 480028659
-etsy_url: https://www.etsy.com/listing/480028659/winter-horsetail-plate-3-urformen-der?utm_source=ds&utm_medium=api&utm_campaign=api
+etsy_url: https://www.etsy.com/listing/480028659/winter-horsetail-plate-3-urformen-der?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 28031226
 price: 10.60
-tags: ["Poster", "Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Black and white", "Sepia", "Minimal", "Fern", "High quality print"]
-image_75x75_url_0: https://i.etsystatic.com/12853550/d/il/f45144/2296647452/il_75x75.2296647452_cpew.jpg?version=0
-image_570xN_url_0: https://i.etsystatic.com/12853550/r/il/f45144/2296647452/il_570xN.2296647452_cpew.jpg
-image_fullxfull_url_0: https://i.etsystatic.com/12853550/r/il/f45144/2296647452/il_fullxfull.2296647452_cpew.jpg
-image_75x75_url_1: https://i.etsystatic.com/12853550/d/il/8724b0/1093227171/il_75x75.1093227171_39v9.jpg?version=0
-image_570xN_url_1: https://i.etsystatic.com/12853550/r/il/8724b0/1093227171/il_570xN.1093227171_39v9.jpg
-image_fullxfull_url_1: https://i.etsystatic.com/12853550/r/il/8724b0/1093227171/il_fullxfull.1093227171_39v9.jpg
+tags: ["Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Black and white", "Sepia", "Minimal", "Fern", "High quality print", "Urformen der Kunst"]
+image_thumbnail_0: 480028659_thumbnail_0.jpg
+image_medium_0: 480028659_medium_0.jpg
+image_full_0: 480028659_full_0.jpg
+image_thumbnail_1: 480028659_thumbnail_1.jpg
+image_medium_1: 480028659_medium_1.jpg
+image_full_1: 480028659_full_1.jpg
 ---
 Equisetum hiemale. Winter Horsetail: enlarged 12 times.
 

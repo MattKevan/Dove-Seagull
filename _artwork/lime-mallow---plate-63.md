@@ -1,15 +1,14 @@
 ---
-layout: artwork
-title: Lime Mallow - Plate 63 
-full-title: Lime Mallow - Plate 63 | From Urformen Der Kunst by Karl Blossfeldt | Vintage botanical photographic print
+title: 'Lime Mallow - Plate 63 '
+full-title: 'Lime Mallow - Plate 63 | From Urformen Der Kunst by Karl Blossfeldt | Vintage botanical photographic print'
 listing_id: 293344979
-etsy_url: https://www.etsy.com/listing/293344979/lime-mallow-plate-63-from-urformen-der?utm_source=ds&utm_medium=api&utm_campaign=api
+etsy_url: https://www.etsy.com/listing/293344979/lime-mallow-plate-63-from-urformen-der?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 28031226
 price: 10.60
-tags: ["Poster", "Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Black and white", "Sepia", "Minimal", "Flower", "High quality print"]
-image_75x75_url_0: https://i.etsystatic.com/12853550/d/il/04fd35/2296673144/il_75x75.2296673144_6t4q.jpg?version=0
-image_570xN_url_0: https://i.etsystatic.com/12853550/r/il/04fd35/2296673144/il_570xN.2296673144_6t4q.jpg
-image_fullxfull_url_0: https://i.etsystatic.com/12853550/r/il/04fd35/2296673144/il_fullxfull.2296673144_6t4q.jpg
+tags: ["Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Black and white", "Sepia", "Minimal", "Flower", "High quality print", "Urformen der Kunst"]
+image_thumbnail_0: 293344979_thumbnail_0.jpg
+image_medium_0: 293344979_medium_0.jpg
+image_full_0: 293344979_full_0.jpg
 ---
 Lime Mallow (Abutilon). Enlarged 12 times. Plate 63.
 

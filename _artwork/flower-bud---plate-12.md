@@ -1,18 +1,17 @@
 ---
-layout: artwork
-title: Flower Bud - Plate 12 
-full-title: Flower Bud - Plate 12 | Urformen der Kunst | Karl Blossfeldt |    Botanical print, wall art, room decor, black & white, sepia, vintage
+title: 'Flower Bud - Plate 12 '
+full-title: 'Flower Bud - Plate 12 | Urformen der Kunst | Karl Blossfeldt |    Botanical print, wall art, room decor, black & white, sepia, vintage'
 listing_id: 466790768
-etsy_url: https://www.etsy.com/listing/466790768/flower-bud-plate-12-urformen-der-kunst?utm_source=ds&utm_medium=api&utm_campaign=api
+etsy_url: https://www.etsy.com/listing/466790768/flower-bud-plate-12-urformen-der-kunst?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 28031226
 price: 10.60
-tags: ["Poster", "Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Black and white", "Sepia", "Minimal", "Fern", "High quality print"]
-image_75x75_url_0: https://i.etsystatic.com/12853550/d/il/fedea2/2297319256/il_75x75.2297319256_oi2c.jpg?version=0
-image_570xN_url_0: https://i.etsystatic.com/12853550/r/il/fedea2/2297319256/il_570xN.2297319256_oi2c.jpg
-image_fullxfull_url_0: https://i.etsystatic.com/12853550/r/il/fedea2/2297319256/il_fullxfull.2297319256_oi2c.jpg
-image_75x75_url_1: https://i.etsystatic.com/12853550/d/il/189c32/1093851189/il_75x75.1093851189_s6hz.jpg?version=0
-image_570xN_url_1: https://i.etsystatic.com/12853550/r/il/189c32/1093851189/il_570xN.1093851189_s6hz.jpg
-image_fullxfull_url_1: https://i.etsystatic.com/12853550/r/il/189c32/1093851189/il_fullxfull.1093851189_s6hz.jpg
+tags: ["Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Black and white", "Sepia", "Minimal", "Fern", "High quality print", "Urformen der Kunst"]
+image_thumbnail_0: 466790768_thumbnail_0.jpg
+image_medium_0: 466790768_medium_0.jpg
+image_full_0: 466790768_full_0.jpg
+image_thumbnail_1: 466790768_thumbnail_1.jpg
+image_medium_1: 466790768_medium_1.jpg
+image_full_1: 466790768_full_1.jpg
 ---
 Geum rivale. Drooping Avens. Flower-bud, with the sepals removed, enlarged 25 times.
 

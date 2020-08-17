@@ -1,21 +1,20 @@
 ---
-layout: artwork
-title: Shield Fern - Plate 56 
-full-title: Shield Fern - Plate 56 | From Urformen Der Kunst by Karl Blossfeldt | Vintage botanical photographic print
+title: 'Shield Fern - Plate 56 '
+full-title: 'Shield Fern - Plate 56 | From Urformen Der Kunst by Karl Blossfeldt | Vintage botanical photographic print'
 listing_id: 278195606
-etsy_url: https://www.etsy.com/listing/278195606/shield-fern-plate-56-from-urformen-der?utm_source=ds&utm_medium=api&utm_campaign=api
+etsy_url: https://www.etsy.com/listing/278195606/shield-fern-plate-56-from-urformen-der?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 28031226
 price: 10.60
-tags: ["Poster", "Poster print", "Giclee print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Black and white", "Sepia", "Minimal", "Fern"]
-image_75x75_url_0: https://i.etsystatic.com/12853550/d/il/db7211/2296643940/il_75x75.2296643940_119r.jpg?version=0
-image_570xN_url_0: https://i.etsystatic.com/12853550/r/il/db7211/2296643940/il_570xN.2296643940_119r.jpg
-image_fullxfull_url_0: https://i.etsystatic.com/12853550/r/il/db7211/2296643940/il_fullxfull.2296643940_119r.jpg
-image_75x75_url_1: https://i.etsystatic.com/12853550/d/il/6087f8/1194250174/il_75x75.1194250174_7ffk.jpg?version=0
-image_570xN_url_1: https://i.etsystatic.com/12853550/r/il/6087f8/1194250174/il_570xN.1194250174_7ffk.jpg
-image_fullxfull_url_1: https://i.etsystatic.com/12853550/r/il/6087f8/1194250174/il_fullxfull.1194250174_7ffk.jpg
-image_75x75_url_2: https://i.etsystatic.com/12853550/d/il/6d530a/1194250248/il_75x75.1194250248_ls8b.jpg?version=0
-image_570xN_url_2: https://i.etsystatic.com/12853550/r/il/6d530a/1194250248/il_570xN.1194250248_ls8b.jpg
-image_fullxfull_url_2: https://i.etsystatic.com/12853550/r/il/6d530a/1194250248/il_fullxfull.1194250248_ls8b.jpg
+tags: ["Poster print", "Giclee print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Black and white", "Sepia", "Minimal", "Fern", "Urformen der Kunst"]
+image_thumbnail_0: 278195606_thumbnail_0.jpg
+image_medium_0: 278195606_medium_0.jpg
+image_full_0: 278195606_full_0.jpg
+image_thumbnail_1: 278195606_thumbnail_1.jpg
+image_medium_1: 278195606_medium_1.jpg
+image_full_1: 278195606_full_1.jpg
+image_thumbnail_2: 278195606_thumbnail_2.jpg
+image_medium_2: 278195606_medium_2.jpg
+image_full_2: 278195606_full_2.jpg
 ---
 Shield Fern (Aspidium Filix Mas). Fronds enlarged four times. Plate 56.
 

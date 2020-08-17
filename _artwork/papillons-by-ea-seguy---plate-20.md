@@ -1,15 +1,14 @@
 ---
-layout: artwork
-title: Papillons by EA Seguy - plate 20 
-full-title: Papillons by EA Seguy - plate 20 | Nature prints, butterfly prints, pattern, botany, wall art, room decor, vintage print | Giclee print
+title: 'Papillons by EA Seguy - plate 20 '
+full-title: 'Papillons by EA Seguy - plate 20 | Nature prints, butterfly prints, pattern, botany, wall art, room decor, vintage print | Giclee print'
 listing_id: 398776091
-etsy_url: https://www.etsy.com/listing/398776091/papillons-by-ea-seguy-plate-20-nature?utm_source=ds&utm_medium=api&utm_campaign=api
+etsy_url: https://www.etsy.com/listing/398776091/papillons-by-ea-seguy-plate-20-nature?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 19013728
 price: 10.60
 tags: ["Poster", "Poster print", "Giclee print", "Wall art", "Vintage", "Watercolour", "Nature", "Botanical art", "Wildlife", "Nature print", "Butterfly print", "Butterfly art", "Butterfly poster"]
-image_75x75_url_0: https://i.etsystatic.com/12853550/d/il/12ce52/2297355078/il_75x75.2297355078_aaa0.jpg?version=0
-image_570xN_url_0: https://i.etsystatic.com/12853550/r/il/12ce52/2297355078/il_570xN.2297355078_aaa0.jpg
-image_fullxfull_url_0: https://i.etsystatic.com/12853550/r/il/12ce52/2297355078/il_fullxfull.2297355078_aaa0.jpg
+image_thumbnail_0: 398776091_thumbnail_0.jpg
+image_medium_0: 398776091_medium_0.jpg
+image_full_0: 398776091_full_0.jpg
 ---
 This is the last plate from a collection of 20 stunning butterfly prints by E A Seguy.
 

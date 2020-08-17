@@ -3,10 +3,10 @@ require 'json'
  
 apiKey = 'la8o1nc55c9m8t30z8z48y27'
 shopID = '12853550'
-rateLimit = '100'
+offset = '0'
 stopChar = '|'
 
-listing_url = "https://openapi.etsy.com/v2/shops/#{shopID}/listings/active?method=GET&api_key=#{apiKey}&limit=#{rateLimit}&offset=100&offset=100"
+listing_url = "https://openapi.etsy.com/v2/shops/#{shopID}/listings/active?method=GET&api_key=#{apiKey}&offset=#{offset}"
 listing_uri = URI(listing_url)
 
 listing_response = Net::HTTP.get(listing_uri)

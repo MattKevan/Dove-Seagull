@@ -1,18 +1,17 @@
 ---
-layout: artwork
-title: Blueberry and Shield Fern - Plate 33 
-full-title: Blueberry and Shield Fern - Plate 33 | Urformen der Kunst | Karl Blossfeldt |  Botanical print, wall art, room decor, black & white, vintage
+title: 'Blueberry and Shield Fern - Plate 33 '
+full-title: 'Blueberry and Shield Fern - Plate 33 | Urformen der Kunst | Karl Blossfeldt |  Botanical print, wall art, room decor, black & white, vintage'
 listing_id: 467471672
-etsy_url: https://www.etsy.com/listing/467471672/blueberry-and-shield-fern-plate-33?utm_source=ds&utm_medium=api&utm_campaign=api
+etsy_url: https://www.etsy.com/listing/467471672/blueberry-and-shield-fern-plate-33?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 28031226
 price: 10.60
-tags: ["Poster", "Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Black and white", "Sepia", "Minimal", "High quality print", "Botanical print"]
-image_75x75_url_0: https://i.etsystatic.com/12853550/d/il/659715/2297314232/il_75x75.2297314232_5nk6.jpg?version=0
-image_570xN_url_0: https://i.etsystatic.com/12853550/r/il/659715/2297314232/il_570xN.2297314232_5nk6.jpg
-image_fullxfull_url_0: https://i.etsystatic.com/12853550/r/il/659715/2297314232/il_fullxfull.2297314232_5nk6.jpg
-image_75x75_url_1: https://i.etsystatic.com/12853550/d/il/c8b040/1095716559/il_75x75.1095716559_1k2c.jpg?version=0
-image_570xN_url_1: https://i.etsystatic.com/12853550/r/il/c8b040/1095716559/il_570xN.1095716559_1k2c.jpg
-image_fullxfull_url_1: https://i.etsystatic.com/12853550/r/il/c8b040/1095716559/il_fullxfull.1095716559_1k2c.jpg
+tags: ["Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Black and white", "Sepia", "Minimal", "High quality print", "Botanical print", "Urformen der Kunst"]
+image_thumbnail_0: 467471672_thumbnail_0.jpg
+image_medium_0: 467471672_medium_0.jpg
+image_full_0: 467471672_full_0.jpg
+image_thumbnail_1: 467471672_thumbnail_1.jpg
+image_medium_1: 467471672_medium_1.jpg
+image_full_1: 467471672_full_1.jpg
 ---
 Polypodiaceae Aspidieae. Polypody. Rolled-up frond enlarged 4 times. 
 Vaccinium Corymbosum. Common or Swamp Blueberry. Bunch of fruit enlarged 8 times. Polystichum Falcatum. Prickly Shield-fern. Young rolled-up frond enlarged 5 times.
@@ -22,6 +21,8 @@ This is a print of plate 33 from Karl Blossfeldt&#39;s groundbreaking work &#39;
 Karl Blossfeldt was a German teacher, sculptor and photographer celebrated by early modernists and the Surrealists for his pioneering close-up photography of plants and flora. Using a homemade camera and lens, he was able to magnify a subject 30 times, capturing the fine detail of his specimens.
 
 The philosopher Walter Benjamin declared that Blossfeld &quot;has played his part in that great examination of the inventory of perception, which will have an unforeseeable effect on our conception of the world&quot;. 
+
+---
 
 ### Printing
 

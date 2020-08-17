@@ -1,18 +1,17 @@
 ---
-layout: artwork
-title: Saxifrage Leaf - Plate 35 
-full-title: Saxifrage Leaf - Plate 35 | From Urformen Der Kunst by Karl Blossfeldt | Vintage botanical photographic print
+title: 'Saxifrage Leaf - Plate 35 '
+full-title: 'Saxifrage Leaf - Plate 35 | From Urformen Der Kunst by Karl Blossfeldt | Vintage botanical photographic print'
 listing_id: 480963927
-etsy_url: https://www.etsy.com/listing/480963927/saxifrage-leaf-plate-35-from-urformen?utm_source=ds&utm_medium=api&utm_campaign=api
+etsy_url: https://www.etsy.com/listing/480963927/saxifrage-leaf-plate-35-from-urformen?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 28031226
 price: 10.60
-tags: ["Poster", "Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Black and white", "Sepia", "Minimal", "High quality print", "Botanical print"]
-image_75x75_url_0: https://i.etsystatic.com/12853550/d/il/b4bee9/2296657516/il_75x75.2296657516_3xgy.jpg?version=0
-image_570xN_url_0: https://i.etsystatic.com/12853550/r/il/b4bee9/2296657516/il_570xN.2296657516_3xgy.jpg
-image_fullxfull_url_0: https://i.etsystatic.com/12853550/r/il/b4bee9/2296657516/il_fullxfull.2296657516_3xgy.jpg
-image_75x75_url_1: https://i.etsystatic.com/12853550/d/il/4c852d/1049154044/il_75x75.1049154044_ln6p.jpg?version=0
-image_570xN_url_1: https://i.etsystatic.com/12853550/r/il/4c852d/1049154044/il_570xN.1049154044_ln6p.jpg
-image_fullxfull_url_1: https://i.etsystatic.com/12853550/r/il/4c852d/1049154044/il_fullxfull.1049154044_ln6p.jpg
+tags: ["Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Black and white", "Sepia", "Minimal", "High quality print", "Botanical print", "Urformen der Kunst"]
+image_thumbnail_0: 480963927_thumbnail_0.jpg
+image_medium_0: 480963927_medium_0.jpg
+image_full_0: 480963927_full_0.jpg
+image_thumbnail_1: 480963927_thumbnail_1.jpg
+image_medium_1: 480963927_medium_1.jpg
+image_full_1: 480963927_full_1.jpg
 ---
 Saxifraga Willkommniana. Willkomm&#39;s Saxifrage. Leaf enlarged 18 times.
 

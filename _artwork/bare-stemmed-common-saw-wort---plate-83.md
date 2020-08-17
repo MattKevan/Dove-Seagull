@@ -1,15 +1,14 @@
 ---
-layout: artwork
-title: Bare-stemmed Common Saw-wort - Plate 83 
-full-title: Bare-stemmed Common Saw-wort - Plate 83 | From Urformen Der Kunst by Karl Blossfeldt | Vintage botanical photographic print
+title: 'Bare-stemmed Common Saw-wort - Plate 83 '
+full-title: 'Bare-stemmed Common Saw-wort - Plate 83 | From Urformen Der Kunst by Karl Blossfeldt | Vintage botanical photographic print'
 listing_id: 278319848
-etsy_url: https://www.etsy.com/listing/278319848/bare-stemmed-common-saw-wort-plate-83?utm_source=ds&utm_medium=api&utm_campaign=api
+etsy_url: https://www.etsy.com/listing/278319848/bare-stemmed-common-saw-wort-plate-83?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 28031226
 price: 10.60
-tags: ["Poster", "Poster print", "Giclee print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Black and white", "Sepia", "Minimal", "Plant"]
-image_75x75_url_0: https://i.etsystatic.com/12853550/d/il/9eb701/2344247225/il_75x75.2344247225_5uuz.jpg?version=0
-image_570xN_url_0: https://i.etsystatic.com/12853550/r/il/9eb701/2344247225/il_570xN.2344247225_5uuz.jpg
-image_fullxfull_url_0: https://i.etsystatic.com/12853550/r/il/9eb701/2344247225/il_fullxfull.2344247225_5uuz.jpg
+tags: ["Poster print", "Giclee print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Black and white", "Sepia", "Minimal", "Plant", "Urformen der Kunst"]
+image_thumbnail_0: 278319848_thumbnail_0.jpg
+image_medium_0: 278319848_medium_0.jpg
+image_full_0: 278319848_full_0.jpg
 ---
 Plate 83 - Bare-stemmed Common Saw-wort (Serratula nudicaulis). Seeds enlarged four times.
 

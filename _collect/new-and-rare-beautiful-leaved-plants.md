@@ -1,8 +1,8 @@
 ---
 artist: ''
-title: New and rare beautiful-leaved plants
+title: New and Rare Beautiful-Leaved Plants
 lead: ''
-image: "/v1570908658/New_and_rare_beautiful_plants_P12_8x10_grtego.png"
+image: "leaves.jpg"
 categories: []
 tags: []
 thumb: ''

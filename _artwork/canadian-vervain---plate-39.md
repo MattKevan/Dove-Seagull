@@ -1,26 +1,27 @@
 ---
-layout: artwork
-title: Canadian Vervain - Plate 39 
-full-title: Canadian Vervain - Plate 39 | Urformen der Kunst | Karl Blossfeldt | Botanical print, wall art, room decor, black & white, sepia, vintage
+title: 'Canadian Vervain - Plate 39 '
+full-title: 'Canadian Vervain - Plate 39 | Urformen der Kunst | Karl Blossfeldt | Botanical print, wall art, room decor, black & white, sepia, vintage'
 listing_id: 279831000
-etsy_url: https://www.etsy.com/listing/279831000/canadian-vervain-plate-39-urformen-der?utm_source=ds&utm_medium=api&utm_campaign=api
+etsy_url: https://www.etsy.com/listing/279831000/canadian-vervain-plate-39-urformen-der?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 28031226
 price: 10.60
-tags: ["Poster", "Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Black and white", "Sepia", "Minimal", "Leaf", "High quality print"]
-image_75x75_url_0: https://i.etsystatic.com/12853550/d/il/56f28e/2344313517/il_75x75.2344313517_ets2.jpg?version=0
-image_570xN_url_0: https://i.etsystatic.com/12853550/r/il/56f28e/2344313517/il_570xN.2344313517_ets2.jpg
-image_fullxfull_url_0: https://i.etsystatic.com/12853550/r/il/56f28e/2344313517/il_fullxfull.2344313517_ets2.jpg
-image_75x75_url_1: https://i.etsystatic.com/12853550/d/il/ef1a69/1095718621/il_75x75.1095718621_pdb8.jpg?version=0
-image_570xN_url_1: https://i.etsystatic.com/12853550/r/il/ef1a69/1095718621/il_570xN.1095718621_pdb8.jpg
-image_fullxfull_url_1: https://i.etsystatic.com/12853550/r/il/ef1a69/1095718621/il_fullxfull.1095718621_pdb8.jpg
+tags: ["Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Black and white", "Sepia", "Minimal", "Leaf", "High quality print", "Urformen der Kunst"]
+image_thumbnail_0: 279831000_thumbnail_0.jpg
+image_medium_0: 279831000_medium_0.jpg
+image_full_0: 279831000_full_0.jpg
+image_thumbnail_1: 279831000_thumbnail_1.jpg
+image_medium_1: 279831000_medium_1.jpg
+image_full_1: 279831000_full_1.jpg
 ---
 Canadian Vervain (Verbena canadensis). Leaf enlarged 10 times. Plate 39.
 
-This is a print of plate 39 from Karl Blossfeldt&#39;s groundbreaking work &#39;Urformen der Kunst&#39;, first published in 1928. An English edition was published in 1929 as &#39;Art Forms in Nature&#39;. The complete work contains 120 rotary gravure plates, prefaced with an introductory text and list of subjects.
+This is a print from Karl Blossfeldt&#39;s groundbreaking work &#39;Urformen der Kunst&#39;, first published in 1928. An English edition was published in 1929 as &#39;Art Forms in Nature&#39;. The complete work contains 120 rotary gravure plates, prefaced with an introductory text and list of subjects.
 
 Karl Blossfeldt was a German teacher, sculptor and photographer celebrated by early modernists and the Surrealists for his pioneering close-up photography of plants and flora. Using a homemade camera and lens, he was able to magnify a subject 30 times, capturing the fine detail of his specimens.
 
 The philosopher Walter Benjamin declared that Blossfeld &quot;has played his part in that great examination of the inventory of perception, which will have an unforeseeable effect on our conception of the world&quot;. 
+
+---
 
 ### Printing
 

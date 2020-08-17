@@ -1,18 +1,17 @@
 ---
-layout: artwork
-title: Two views of a butterfly 
-full-title: Two views of a butterfly | Nature prints, insect, botanical, wall art, room decor, vintage print, watercolour | High quality print
+title: 'Two views of a butterfly '
+full-title: 'Two views of a butterfly | Nature prints, insect, botanical, wall art, room decor, vintage print, watercolour | High quality print'
 listing_id: 278678458
-etsy_url: https://www.etsy.com/listing/278678458/two-views-of-a-butterfly-nature-prints?utm_source=ds&utm_medium=api&utm_campaign=api
+etsy_url: https://www.etsy.com/listing/278678458/two-views-of-a-butterfly-nature-prints?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 19013728
 price: 10.60
 tags: ["Poster", "Poster print", "Wall art", "Vintage", "Watercolour", "Nature", "Botanical art", "Wildlife", "Butterfly", "Nature print", "Butterfly print", "Butterfly art", "High quality print"]
-image_75x75_url_0: https://i.etsystatic.com/12853550/d/il/441f0e/2295652050/il_75x75.2295652050_onvk.jpg?version=0
-image_570xN_url_0: https://i.etsystatic.com/12853550/r/il/441f0e/2295652050/il_570xN.2295652050_onvk.jpg
-image_fullxfull_url_0: https://i.etsystatic.com/12853550/r/il/441f0e/2295652050/il_fullxfull.2295652050_onvk.jpg
-image_75x75_url_1: https://i.etsystatic.com/12853550/d/il/e77318/2295652128/il_75x75.2295652128_nj7i.jpg?version=0
-image_570xN_url_1: https://i.etsystatic.com/12853550/r/il/e77318/2295652128/il_570xN.2295652128_nj7i.jpg
-image_fullxfull_url_1: https://i.etsystatic.com/12853550/r/il/e77318/2295652128/il_fullxfull.2295652128_nj7i.jpg
+image_thumbnail_0: 278678458_thumbnail_0.jpg
+image_medium_0: 278678458_medium_0.jpg
+image_full_0: 278678458_full_0.jpg
+image_thumbnail_1: 278678458_thumbnail_1.jpg
+image_medium_1: 278678458_medium_1.jpg
+image_full_1: 278678458_full_1.jpg
 ---
 This is a stunning 18th century watercolour study of a butterfly by Georgius Jacobus Johannes van Os.
 

@@ -1,18 +1,17 @@
 ---
-layout: artwork
-title: The Spirit of God moved upon the face of the waters Genesis print by Paul Nash 
-full-title: The Spirit of God moved upon the face of the waters Genesis print by Paul Nash | Genesis, Bible, woodcut, print, black & white
+title: 'The Spirit of God moved upon the face of the waters Genesis print by Paul Nash '
+full-title: 'The Spirit of God moved upon the face of the waters Genesis print by Paul Nash | Genesis, Bible, woodcut, print, black & white'
 listing_id: 279373606
-etsy_url: https://www.etsy.com/listing/279373606/the-spirit-of-god-moved-upon-the-face-of?utm_source=ds&utm_medium=api&utm_campaign=api
+etsy_url: https://www.etsy.com/listing/279373606/the-spirit-of-god-moved-upon-the-face-of?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 19099181
 price: 10.60
 tags: ["Poster", "Poster print", "Wall art", "Vintage", "Woodcut", "Genesis", "Black and white", "Bible", "Paul Nash", "Engraving", "Creation", "Modern art", "High quality print"]
-image_75x75_url_0: https://i.etsystatic.com/12853550/d/il/125b80/2343276079/il_75x75.2343276079_okxp.jpg?version=0
-image_570xN_url_0: https://i.etsystatic.com/12853550/r/il/125b80/2343276079/il_570xN.2343276079_okxp.jpg
-image_fullxfull_url_0: https://i.etsystatic.com/12853550/r/il/125b80/2343276079/il_fullxfull.2343276079_okxp.jpg
-image_75x75_url_1: https://i.etsystatic.com/12853550/d/il/7eab14/1017753919/il_75x75.1017753919_j62r.jpg?version=0
-image_570xN_url_1: https://i.etsystatic.com/12853550/r/il/7eab14/1017753919/il_570xN.1017753919_j62r.jpg
-image_fullxfull_url_1: https://i.etsystatic.com/12853550/r/il/7eab14/1017753919/il_fullxfull.1017753919_j62r.jpg
+image_thumbnail_0: 279373606_thumbnail_0.jpg
+image_medium_0: 279373606_medium_0.jpg
+image_full_0: 279373606_full_0.jpg
+image_thumbnail_1: 279373606_thumbnail_1.jpg
+image_medium_1: 279373606_medium_1.jpg
+image_full_1: 279373606_full_1.jpg
 ---
 This is the first in an amazing series of woodcut prints by Paul Nash, illustrating the first chapter of Genesis.
 

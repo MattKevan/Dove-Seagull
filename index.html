@@ -1,53 +1,67 @@
 ---
 title: The Dove & The Seagull
-layout: page
+layout: full-width
 featured: 
  - 291707577
  - 791348506
  - 528044733
 ---
-<div class="row">
-			<div class="col-xs-12">
 
-				<h1 class="title">Beautiful prints that  turn your house into  a home</h1>
+<div class="home">
 
+	<div class="banner">
+		<div class="container">
+			<div class="row">
+				<div class="col-12">
+					<h1 class="title">Beautiful prints that  turn your house into  a home</h1>
+				</div>
 			</div>
 		</div>
+	</div>
 
-
-
+	<div class="section">
+		<div class="container">
 			<div class="row">
 
-
-			{% for item in site.section %}
-
-				<div class="col-xs-12 col-sm-6 col-md-4">
-					<div class="category category1">
-						<div class="inner">
-							<h3><a href="{{ item.url }}">{{ item.title }}</a></h3>
-						</div>
-					</div>
+				<div class="col-12">
+					<h2 class="title text-center">
+					Extraordinary art for your home</h2>
 				</div>
+				
+				{% for item in site.categories %}
+					<div class="col-6 col-md-3 teaser">
+						<a href="{{ item.url }}">
+							<div class="item-inner" data-mh="col-text">
+								<img src="/images/{{item.image}}" alt="{{ item.title }}" />
+								<h5>{{ item.title }}</h5>
+								<p>{{ item.lead }}</p>
+							</div>
+						</a>
+					</div>
 				{% endfor %}
 
-
 			</div>
-
-
-
-<div class="row">
-	<div class="col-xs-12">
-			<h2 class="title">Featured artwork</h2>
 		</div>
-		</div>
-				<div class="row">
+	</div>
+	<hr>
+
+	<div class="section">
+		<div class="container">
+			<div class="row">
+				<div class="col-12">
+					<h2 class="title text-center">Featured artwork</h2>
+				</div>
+			</div>
+			
+			<div class="row">
 
 				{% for feat in page.featured %}
 					{% for item in site.artwork %}
 
 					{% if feat == item.listing_id %}
+					<div class="col col-sm-4">
 						{% include product-teaser.html %}
-
+					</div>
 					{% endif%}
 					{% endfor %}
 					{% endfor %}
@@ -55,3 +69,7 @@ featured:
      
 
     </div>
+</div>
+</div>
+
+</div>

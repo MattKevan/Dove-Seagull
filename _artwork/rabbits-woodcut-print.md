@@ -1,18 +1,17 @@
 ---
-layout: artwork
-title: Rabbits woodcut print 
-full-title: Rabbits woodcut print | Nature prints, wall art, room decor, vintage print, woodcut print, parrot | High quality print
+title: 'Rabbits woodcut print '
+full-title: 'Rabbits woodcut print | Nature prints, wall art, room decor, vintage print, woodcut print, parrot | High quality print'
 listing_id: 804881607
-etsy_url: https://www.etsy.com/listing/804881607/rabbits-woodcut-print-nature-prints-wall?utm_source=ds&utm_medium=api&utm_campaign=api
+etsy_url: https://www.etsy.com/listing/804881607/rabbits-woodcut-print-nature-prints-wall?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 19099181
 price: 10.60
 tags: ["Poster", "Poster print", "Wall art", "Vintage", "Nature", "Woodcut", "Nature print", "Wildlife print", "Black and white", "Vintage print", "High quality print", "Rabbits", "Animals"]
-image_75x75_url_0: https://i.etsystatic.com/12853550/d/il/1c2954/2296600748/il_75x75.2296600748_9t5n.jpg?version=0
-image_570xN_url_0: https://i.etsystatic.com/12853550/r/il/1c2954/2296600748/il_570xN.2296600748_9t5n.jpg
-image_fullxfull_url_0: https://i.etsystatic.com/12853550/r/il/1c2954/2296600748/il_fullxfull.2296600748_9t5n.jpg
-image_75x75_url_1: https://i.etsystatic.com/12853550/d/il/3240ac/2344209629/il_75x75.2344209629_ai8k.jpg?version=0
-image_570xN_url_1: https://i.etsystatic.com/12853550/r/il/3240ac/2344209629/il_570xN.2344209629_ai8k.jpg
-image_fullxfull_url_1: https://i.etsystatic.com/12853550/r/il/3240ac/2344209629/il_fullxfull.2344209629_ai8k.jpg
+image_thumbnail_0: 804881607_thumbnail_0.jpg
+image_medium_0: 804881607_medium_0.jpg
+image_full_0: 804881607_full_0.jpg
+image_thumbnail_1: 804881607_thumbnail_1.jpg
+image_medium_1: 804881607_medium_1.jpg
+image_full_1: 804881607_full_1.jpg
 ---
 This is a wonderful rabbit woodcut print by Samuel Jessrum de Mesquita.
 

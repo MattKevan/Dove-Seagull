@@ -1,15 +1,14 @@
 ---
-layout: artwork
-title: Milkweed - Plate 81 
-full-title: Milkweed - Plate 81 | From Urformen Der Kunst by Karl Blossfeldt | Vintage botanical photographic print
+title: 'Milkweed - Plate 81 '
+full-title: 'Milkweed - Plate 81 | From Urformen Der Kunst by Karl Blossfeldt | Vintage botanical photographic print'
 listing_id: 480028867
-etsy_url: https://www.etsy.com/listing/480028867/milkweed-plate-81-from-urformen-der?utm_source=ds&utm_medium=api&utm_campaign=api
+etsy_url: https://www.etsy.com/listing/480028867/milkweed-plate-81-from-urformen-der?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 28031226
 price: 10.60
-tags: ["Poster", "Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Black and white", "Sepia", "Minimal", "Fern", "High quality print"]
-image_75x75_url_0: https://i.etsystatic.com/12853550/d/il/bd20d0/2297336624/il_75x75.2297336624_p7xm.jpg?version=0
-image_570xN_url_0: https://i.etsystatic.com/12853550/r/il/bd20d0/2297336624/il_570xN.2297336624_p7xm.jpg
-image_fullxfull_url_0: https://i.etsystatic.com/12853550/r/il/bd20d0/2297336624/il_fullxfull.2297336624_p7xm.jpg
+tags: ["Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Black and white", "Sepia", "Minimal", "Fern", "High quality print", "Urformen der Kunst"]
+image_thumbnail_0: 480028867_thumbnail_0.jpg
+image_medium_0: 480028867_medium_0.jpg
+image_full_0: 480028867_full_0.jpg
 ---
 Milkweed, flower enlarged 5 times.
 

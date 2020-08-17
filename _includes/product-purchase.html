@@ -10,7 +10,10 @@
 		<div class="buy-option {{ item.id }} hide">
 			<p class="price">£{{ item.price }}</p>
 		</div>
+
+
 	{% endfor %}
+
 </div>
 
 <hr>
@@ -40,6 +43,24 @@
 	</select>
 </div>
 
-<p><a href ="{{ page.etsy_url }}" target="_blank" class="btn btn-primary btn-lg btn-block">Buy on Etsy</a></p>
+<div class="buy-buttons">
+	{% for item in site.data.artwork_prices %}
+		<div class="buy-option {{ item.id }} hide">
+			<button class="btn btn-primary btn-lg btn-block snipcart-add-item"
+			  data-item-id="{{ page.title }} – {{ item.id }}"
+			  data-item-price="{{ item.price }}"
+			  data-item-url="{{site.baseurl}}{{ page.url }}"
+			  data-item-description="Size: {{ item.id }}"
+			  data-item-image="/images/artwork/{{ page.image_thumbnail_0 }}"
+			  data-item-name="{{ page.title }}">
+			  Add to basket
+		</button>
+		</div>
+
+
+	{% endfor %}
+
+</div>
+<!--<p><a href ="{{ page.etsy_url }}" target="_blank" class="btn btn-primary btn-lg btn-block">Buy on Etsy</a></p>-->
 
 <hr>

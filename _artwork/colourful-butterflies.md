@@ -1,18 +1,17 @@
 ---
-layout: artwork
-title: Colourful butterflies 
-full-title: Colourful butterflies | Nature prints, insects, botany, wall art, room decor, vintage botanical print | High quality giclee print
+title: 'Colourful butterflies '
+full-title: 'Colourful butterflies | Nature prints, insects, botany, wall art, room decor, vintage botanical print | High quality giclee print'
 listing_id: 791230362
-etsy_url: https://www.etsy.com/listing/791230362/colourful-butterflies-nature-prints?utm_source=ds&utm_medium=api&utm_campaign=api
+etsy_url: https://www.etsy.com/listing/791230362/colourful-butterflies-nature-prints?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 19013728
 price: 10.60
 tags: ["Poster", "Poster print", "Giclee print", "Wall art", "Vintage", "Watercolour", "Nature", "Botanical art", "Wildlife", "Nature print", "Butterfly print", "Butterfly art"]
-image_75x75_url_0: https://i.etsystatic.com/12853550/d/il/42753c/2344981917/il_75x75.2344981917_rxho.jpg?version=0
-image_570xN_url_0: https://i.etsystatic.com/12853550/r/il/42753c/2344981917/il_570xN.2344981917_rxho.jpg
-image_fullxfull_url_0: https://i.etsystatic.com/12853550/r/il/42753c/2344981917/il_fullxfull.2344981917_rxho.jpg
-image_75x75_url_1: https://i.etsystatic.com/12853550/d/il/42eab5/2297374672/il_75x75.2297374672_7z4q.jpg?version=0
-image_570xN_url_1: https://i.etsystatic.com/12853550/r/il/42eab5/2297374672/il_570xN.2297374672_7z4q.jpg
-image_fullxfull_url_1: https://i.etsystatic.com/12853550/r/il/42eab5/2297374672/il_fullxfull.2297374672_7z4q.jpg
+image_thumbnail_0: 791230362_thumbnail_0.jpg
+image_medium_0: 791230362_medium_0.jpg
+image_full_0: 791230362_full_0.jpg
+image_thumbnail_1: 791230362_thumbnail_1.jpg
+image_medium_1: 791230362_medium_1.jpg
+image_full_1: 791230362_full_1.jpg
 ---
 This is a new giclee print of butterflies adapted from an vintage botanical book. These fantastic prints would liven up any kitchen or other room in your house. 
 
