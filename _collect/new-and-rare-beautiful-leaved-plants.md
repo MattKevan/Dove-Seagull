@@ -2,9 +2,9 @@
 artist: ''
 title: New and Rare Beautiful-Leaved Plants
 lead: ''
-image: "leaves.jpg"
+image: "collections/leaves.png"
 categories: []
-tags: []
+tag: 'Leaf print'
 thumb: ''
 
 ---

@@ -40,6 +40,9 @@ collections:
   artist:
     output: true
     permalink: /artists/:path/
+  carousel:
+    output: false
+    permalink: /carousel/:path/
 
 defaults:
   -
@@ -66,3 +69,9 @@ defaults:
       type: artist
     values:
       layout: artist
+  -
+    scope:
+      path: ""
+      type: carousel
+    values:
+      layout: carousel

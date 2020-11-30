@@ -9,6 +9,9 @@
 @import "bootstrap/bootstrap";
 
 
+body {
+    -webkit-font-smoothing: antialiased;
+}
 
 $body-color:                $gray-800 !default;
 hr {
@@ -22,19 +25,20 @@ hr {
     //font-family: 'IBM Plex Serif', serif;
 }
 h1 {
-    font-family: 'Calendas Plus', serif;
-    font-size: 4em;
+    font-family: $headings-font-family;
+    font-size: 3em;
     font-weight: normal;
 }
 
-h2,h3,h4 {font-weight: bold;}
+h2,h3,h4 {
+    font-family: $font-family-sans-serif;
+    font-weight: bold;
+}
 
 .page-wrapper {
     padding: 40px 0;
 }
-.page-wrapper.full-width {
-    padding: 0;
-}
+
 
 .navbar.bg-light {
     background-color: #fff !important;
@@ -61,6 +65,12 @@ h2,h3,h4 {font-weight: bold;}
     margin-bottom: 40px;
     img {width: 100%;}
     h4 {margin-top: 10px;}
+        h3 {
+        font-size: 1em;
+        font-family: $font-family-sans-serif;
+        line-height: 1.5em;
+        margin-bottom: 0;
+    }
 }
 
 .product-teaser {
@@ -115,7 +125,7 @@ h2,h3,h4 {font-weight: bold;}
     }
 }
 .product-purchase {
-    h1 {font-size: 2.5em;}
+    h1 {font-size: 2em;}
     .hide {display: none;}
     .price {
         font-size: 1.6em;
@@ -161,8 +171,7 @@ h2,h3,h4 {font-weight: bold;}
 .site-footer {
    // background-color: #000;
     //color: #fff;
-    border-width: 1px 0 0 0;
-    border-style: solid;
+
     padding: 60px 0 0 0;
     h4 {font-size: 18px;}
    // a {color: #fff;}
@@ -214,6 +223,34 @@ h2,h3,h4 {font-weight: bold;}
 
 .snipcart {
     font-family: $font-family-sans-serif;
+    font-weight: normal;
+}
+
+.carousel-caption {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 10;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    color: #000;
+    text-align: center;
+    background: linear-gradient(0deg, rgba(255,255,255,.4) 0%, rgba(255,255,255,0) 100%);
+
+    h2 {
+        font-family: $headings-font-family;
+        font-weight: normal;
+    }
+
+}
+.featured {
+    img {
+        box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.5);
+    }
+}
+.snipcart-modal__container {
+    z-index: 1060!important;
 }
 
 .snipcart-checkout {

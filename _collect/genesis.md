@@ -8,7 +8,7 @@ description: Genesis was printed at the legendary Curwen Press and published by 
 thumb: ''
 banner-image: 
 tags: []
-image: "nash.jpg"
+image: "collections/genesis.png"
 
 ---
 Produced during a period when Nash regarded himself as ‘a war artist without a war’, it is now recognised as a high point in his artistic output and one of the most significant illustrated books of the twentieth century.

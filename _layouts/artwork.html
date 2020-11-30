@@ -79,8 +79,10 @@ layout: default
 
 	</div><!--/product-->
 
-	<div class="product-purchase col-md-4 d-none d-md-block">
-		{% include product-purchase.html %}
+	<div class="product-purchase col-md-4 d-none d-md-block ">
+		<div class="sticky-top">
+			{% include product-purchase.html %}
+		</div>
 	</div>
 
 </div>
@@ -89,7 +91,7 @@ layout: default
 
 <div class="row related-products">
 	<div class="col-12">
-		<h3>Related products</h3>
+		<h3 id="Related">Related products</h3>
 	</div>
 
 	{% for item in site.artwork %}

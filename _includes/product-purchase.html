@@ -1,6 +1,6 @@
 {% for item in site.categories %}
 	{% if item.section == page.section_id %}
-		<p class="crumb s"><a href="/">Home</a> » <a href="{{ item.url }}">{{ item.title }}</a> » </p>
+		<p class="crumb s pt-2"><a href="/">Home</a> » <a href="{{ item.url }}">{{ item.title }}</a> » </p>
 	{% endif %}
 {% endfor %}
 
