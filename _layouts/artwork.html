@@ -97,7 +97,7 @@ layout: default
 	{% for item in site.artwork %}
 		{% if item.section_id == page.section_id %}
 			{% if item.listing_id != page.listing_id %}
-				<div class="related-products-paged col-6 col-md-4">
+				<div class="related-products-paged col-12 col-sm-6 col-md-4">
 				{% include product-teaser.html %}
 			</div>
 			{% endif %}
