@@ -1,6 +1,6 @@
 ---
-title: Ocean, Marine & Nautical
+title: Marine & nautical
 lead: 
 section: 25544791
-image: nautical.jpg
+image: categories/nautical.jpg
 ---

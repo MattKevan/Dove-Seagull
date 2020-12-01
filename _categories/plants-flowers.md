@@ -1,6 +1,6 @@
 ---
-title: Botanical Plants & Flowers
+title: Plants & flowers
 lead: 
 section: 19036676
-image: leaves.jpg
+image: categories/flowers.jpg
 ---

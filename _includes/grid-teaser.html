@@ -1,9 +1,11 @@
 <div class="col-6 col-md-3 teaser">
 	<a href="{{ item.url }}">
-		<div class="item-inner" data-mh="col-text">
+		<div class="item-inner h-100" data-mh="col-text">
 			<img src="/images/{{item.image}}" alt="{{ item.title }}" />
-			<h3 class="mt-2 text-center">{{ item.title }}</h3>
-			
+			<div class="text-inne pb-3 pt-3 pl-4 pr-2">
+			<h3 class=" ">{{ item.title }}</h3>
+			{% if item.artist %}{% if item.artist != '' %}<p class="mb-0">{{ item.artist }}</p>{% endif %}{% endif %}
+			</div>
 		</div>
 	</a>
 </div>

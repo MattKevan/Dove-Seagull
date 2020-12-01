@@ -1,9 +1,10 @@
 ---
-title: Kleine Welten by Vassily Kandinsky
+title: Kleine Welten
+artist: Wassily Kandinsky
 description: "Published in 1922, shortly after Vasily Kandinsky began teaching at the Bauhaus."
 tag: Kandinsky
 tags: []
-image: collections/kandinsky.jpg
+image: collections/kandinsky2.jpg
 cover: kandinsky-cover.jpg
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Categories
+title: Vintage botanical & nature prints
 layout: page
 description: Choose from travel posters, modernist art, nature photograpy and more in our extensive collection of vintage art prints.
 permalink: "/categories/"
@@ -10,7 +10,17 @@ permalink: "/categories/"
 
 			
 			{% for item in site.categories %}
-				{% include grid-teaser.html %}
+				<div class="col-6 col-md-4 teaser">
+	<a href="{{ item.url }}">
+		<div class="item-inner h-100" data-mh="col-text">
+			<img src="/images/{{item.image}}" alt="{{ item.title }}" />
+			<div class="text-inne pb-3 pt-3 pl-4 pr-2">
+			<h3 class=" ">{{ item.title }}</h3>
+			{% if item.artist %}{% if item.artist != '' %}<p class="mb-0">{{ item.artist }}</p>{% endif %}{% endif %}
+			</div>
+		</div>
+	</a>
+</div>
 			{% endfor %}
 
 		</div>

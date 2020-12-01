@@ -1,5 +1,5 @@
 ---
-title: Artforms in Nature by Karl Blossfeldt
+title: Art-Forms in Nature
 artist: Karl Blossfeldt
 date: '2016-06-12 16:47:26'
 categories: []
@@ -9,7 +9,7 @@ description: 'Karl Blossfeldt was a German teacher, sculptor and photographer ce
   of plants and flora. '
 tag: Urformen der Kunst
 thumb: ''
-image: "collections/blossfeldt.jpg"
+image: "collections/blossfeldt2.jpg"
 
 ---
 Using a homemade camera and lens, he was able to magnify a subject 30 times, capturing the fine detail of his specimens.

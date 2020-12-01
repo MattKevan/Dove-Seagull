@@ -1,11 +1,10 @@
 ---
-title: 20th century Dutch wood engravings
+title: Wood engravings
+artist: de Mesqita
 categories: []
 layout: collection
 lead: ''
 tags: []
-thumb: ''
-artist: ''
-image: "collections/woodcuts.jpg"
+image: "collections/woodcuts2.jpg"
 
 ---

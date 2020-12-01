@@ -1,14 +1,14 @@
 ---
-title: USDA pomological watercolors
+title: Pomological Watercolors
 categories: []
+artist: USDA
 layout: collection
 lead: The U.S. Department of Agriculture's Pomological Watercolor Collection is an
   archive of some 7,500 botanical watercolors created for the USDA between the years
   1886 and 1942 by around five dozen artists.
 tags: []
 thumb: ''
-image: "collections/pomological.png"
-artist: ''
+image: "collections/pomological2.jpg"
 
 ---
 Housed by the United States National Agricultural Library, it is a unique resource documenting existing fruit and nut cultivars, new introductions, and specimens discovered by USDA's plant explorers, representing 38 plant families in all.] It has been called "one of the world's most unusual holdings of late 19th and early 20th century American botanical illustrations".

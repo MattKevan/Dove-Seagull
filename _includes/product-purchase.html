@@ -38,7 +38,7 @@
 	<label>Select size: </label>
 	<select class="div-toggle form-control" data-target=".buy-buttons">
 		{% for item in site.data.artwork_prices %}
-			 <option value="{{ item.id }}" data-show=".{{ item.id }}">{{ item.id }}</option>
+			 <option value="{{ item.id }}" data-show=".{{ item.id }}">{{ item.id }} – £{{ item.price }}</option>
 		{% endfor %}
 	</select>
 </div>

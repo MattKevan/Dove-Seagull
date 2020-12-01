@@ -1,6 +1,7 @@
 ---
-title: Genesis by Paul Nash
+title: Genesis
 tag: Paul Nash
+artist: Paul Nash
 categories: []
 layout: collection
 description: Genesis was printed at the legendary Curwen Press and published by Nonesuch
@@ -8,7 +9,7 @@ description: Genesis was printed at the legendary Curwen Press and published by 
 thumb: ''
 banner-image: 
 tags: []
-image: "collections/genesis.png"
+image: "collections/genesis2.jpg"
 
 ---
 Produced during a period when Nash regarded himself as ‘a war artist without a war’, it is now recognised as a high point in his artistic output and one of the most significant illustrated books of the twentieth century.

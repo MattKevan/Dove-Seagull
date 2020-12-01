@@ -1,8 +1,8 @@
 ---
-artist: ''
-title: New and Rare Beautiful-Leaved Plants
+artist: 'Shirley Hibberd'
+title: Beautiful-Leaved Plants
 lead: ''
-image: "collections/leaves.png"
+image: "collections/leaves2.jpg"
 categories: []
 tag: 'Leaf print'
 thumb: ''

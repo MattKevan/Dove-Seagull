@@ -1,6 +1,6 @@
 ---
-title: Botanical Fruits & Vegetables
+title: Fruits & vegetables
 lead: 
 section: 25544581
-image: fruits.jpg
+image: categories/fruit.jpg
 ---
