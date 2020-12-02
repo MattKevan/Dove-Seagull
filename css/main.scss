@@ -42,8 +42,17 @@ h2,h3,h4 {
 
 .navbar.bg-light {
     background-color: #fff !important;
-    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.25);
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.1);
 }
+
+.nav-item.snipcart-checkout:hover {
+	cursor: pointer;
+	color: rgba(0, 0, 0, 0.7);
+}
+
+.nav-item.snipcart-checkout {
+	color: rgba(0, 0, 0, 0.5)
+	}
 .title {margin-bottom: 20px;}
 .page-cover { 
     background-position: center;
@@ -131,6 +140,9 @@ h2,h3,h4 {
         margin-bottom: 0;
         color: #666;
     }
+    .rating {
+    	color: #ECC362;
+    }
 }
 .product-purchase {
     h1 {font-size: 2em;}
@@ -148,6 +160,9 @@ h2,h3,h4 {
         li {
             list-style-type: none;
             margin-bottom: 5px;
+        }
+        .bi-check {
+        	color: #437E83;
         }
     }
 }
@@ -182,12 +197,13 @@ h2,h3,h4 {
     }
 }
 .site-footer {
-   // background-color: #000;
-    //color: #fff;
+    background-color: rgb(247,247,247);
+   border-width: 1px 0 0 0;
+   border-color: rgb(221,221,221);
+   border-style: solid;
+   font-size: 14px; 
+    h4 {font-size: 16px;}
 
-    padding: 60px 0 0 0;
-    h4 {font-size: 18px;}
-   // a {color: #fff;}
     ul {
         margin: 0;
         padding: 0;
@@ -195,9 +211,13 @@ h2,h3,h4 {
     li {
         list-style-type: none;
         padding: 0;
-        margin: 0 0 10px 0;}
+        margin: 0 0 5px 0;}
+    .footer-bottom {
+        border-width: 1px 0 0 0;
+   border-color: rgb(221,221,221);
+   border-style: solid;
+    }
 }
-
 
 .carousel-inner img {
     width: 100%;
@@ -257,25 +277,151 @@ h2,h3,h4 {
     }
 
 }
-
+.snipcart-payment__header {
+	margin-bottom: 0;
+}
 .snipcart-modal__container {
     z-index: 1060!important;
+    	a {
+		color: $link-color;
+		font-weight: bold;
+	}
+	.snipcart-input:focus-within {
+		border-color: #01D0C1;
+	}
 }
 
 .snipcart-checkout {
     svg {vertical-align: -.1em;}
 }
 
+.snipcart__box {
+	border-radius: 16px;
+}
+.snipcart-cart-button {
+	background-image: none;
+	background-color: $primary;
+	border-radius: 8px;
+	font-weight: bold;
+}
+.snipcart-cart-summary,
+.snipcart-featured-payment-methods__title {
+	background-color: #fff;
+}
+.snipcart-register .snipcart-register__form,
+.snipcart-signin .snipcart-signin__form  {
+	padding: 20px;
+
+}
+.snipcart-input__input:-webkit-autofill {
+	border-radius: 8px;
+}
 .snipcart-item-line {
-    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.15);
+	border-radius: 16px;
+			border-color: rgb(221, 221, 221);
+	border-style: solid;
+	border-width: 1px;
+	border-radius: 16px;
+	box-shadow: none;
+	margin-bottom: 20px;
+    
+}
+.snipcart-item-list {
+
+
+}
+.snipcart-discount-box {
+	background-color: #fff;
+}
+.snipcart-discount-box__submit {
+	color: #222;
+	font-weight: bold;
+}
+.snipcart-discount-box__button {
+	border-radius: 8px;
+}
+.snipcart-discount-box__form {
+	border-color: #01D0C1;
+	border-radius: 8px;
+}
+.snipcart-cart-summary__content {
+	    box-shadow: rgba(0,0,0,0.12) 0px 6px 12px;
+    border-radius: 16px;
+}
+.snipcart-typeahead {
+	background-color: #fff;
+}
+.snipcart__box--badge {
+	
+	background-color: rgb(221, 221, 221);
+	border: none;
+}
+.snipcart-shipping-completed .snipcart__box--badge,
+.snipcart-billing-completed .snipcart__box--badge {
+	background-color: #01D0C1;
 }
 
+.snipcart-shipping-rates-list-item--highlight {
+	border-color: #01D0C1;
+	border-radius: 8px;
+}
+
+.snipcart-form-radio:checked+label:before {
+		background: none;
+	background-color: #01D0C1;
+}
+.snipcart__box--badge-highlight {
+	background: none;
+	background-color: #FFAF0F;
+	color: #222;
+}
+.snipcart__box--badge  {
+	.snipcart__icon--blue-dark path {
+	fill: #fff;
+}
+}
+.snipcart__icon--blue-light path {
+	fill: #212529;
+}
+.snipcart__icon--blue-dark path {
+	fill: #212529;
+}
+.snipcart-form,
+.snipcart-payment.snipcart__box {
+	box-shadow: none;
+	border-color: rgb(221, 221, 221);
+	border-style: solid;
+	border-width: 1px;
+	border-radius: 16px;
+}
+.snipcart__box.snipcart__box--gray {
+	border-color: rgb(221, 221, 221);
+	border-style: solid;
+	border-width: 1px;
+
+}
+#snipcart-payment-form > fieldset > div,
+.snipcart-form__select,
+.snipcart-input {
+	border-color: rgb(221, 221, 221);
+	border-radius: 8px;
+}
+.snipcart-item-line__container {
+	padding: 20px;
+	margin: 0;
+}
+.snipcart-modal__close,
 .snipcart__font--secondary {
     font-family: $font-family-sans-serif;
 }
 
 .snipcart__font--subtitle {
     font-family: $font-family-sans-serif;
+}
+.snipcart__actions--link {
+	 font-family: $font-family-sans-serif;
+	 font-weight: bold;
+	 color: $link-color;
 }
 
 .snipcart-cart-header {
