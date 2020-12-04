@@ -5,7 +5,7 @@ listing_id: 292065907
 etsy_url: https://www.etsy.com/listing/292065907/red-apple-detail-apples-vintage?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 25544581
 price: 10.60
-tags: ["Poster", "Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Plant", "Watercolour", "Apple", "Fruit", "High quality print"]
+tags: ["Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Plant", "Watercolour", "Apple", "Fruit", "High quality print", "USDA Pomological"]
 image_thumbnail_0: 292065907_thumbnail_0.jpg
 image_medium_0: 292065907_medium_0.jpg
 image_full_0: 292065907_full_0.jpg

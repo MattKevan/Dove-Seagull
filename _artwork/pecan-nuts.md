@@ -5,7 +5,7 @@ listing_id: 804704713
 etsy_url: https://www.etsy.com/listing/804704713/pecan-nuts-vintage-print-botanical-wall?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 25544581
 price: 10.60
-tags: ["Poster", "Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Vintage", "Plant", "Watercolour", "Vintage print", "Pecan", "Nuts"]
+tags: ["Poster", "Poster print", "Botanical art", "Wall art", "Botanical poster", "Watercolour", "Vintage print", "Pecan nuts", "USDA Pomological", "Plant chart print", "Kitchen wall art", "Biodiversity", "Biological"]
 image_thumbnail_0: 804704713_thumbnail_0.jpg
 image_medium_0: 804704713_medium_0.jpg
 image_full_0: 804704713_full_0.jpg

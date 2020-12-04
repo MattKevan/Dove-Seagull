@@ -5,7 +5,7 @@ listing_id: 675821173
 etsy_url: https://www.etsy.com/listing/675821173/cabbages-kitchen-vegetables-antique?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 25544581
 price: 10.60
-tags: ["Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Vintage", "Kitchen print", "Kitchen wall art", "Antique vintage", "Vegetables art", "Vegetables print", "Home decor", "Art poster"]
+tags: ["Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Vintage", "Kitchen print", "Kitchen wall art", "Antique vintage", "Vegetables art", "Vegetables print", "Home decor", "Album Benary"]
 image_thumbnail_0: 675821173_thumbnail_0.jpg
 image_medium_0: 675821173_medium_0.jpg
 image_full_0: 675821173_full_0.jpg

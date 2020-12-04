@@ -5,7 +5,7 @@ listing_id: 790837498
 etsy_url: https://www.etsy.com/listing/790837498/chillis-and-peppers-antique-botanical?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 25544581
 price: 10.60
-tags: ["Botanical art", "Photograph", "Vintage", "Art poster", "Kitchen wall art", "Vegetables print", "Home decor", "Kitchen print", "Antique botanical", "Gardening print", "Gardening wall art", "Cooking", "Chilli pepper"]
+tags: ["Botanical art", "Vintage", "Art poster", "Kitchen wall art", "Vegetables print", "Home decor", "Kitchen print", "Antique botanical", "Gardening print", "Gardening wall art", "Cooking", "Chilli pepper", "Album Benary"]
 image_thumbnail_0: 790837498_thumbnail_0.jpg
 image_medium_0: 790837498_medium_0.jpg
 image_full_0: 790837498_full_0.jpg

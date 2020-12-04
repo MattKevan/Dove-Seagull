@@ -5,7 +5,7 @@ listing_id: 805208913
 etsy_url: https://www.etsy.com/listing/805208913/pear-vintage-botanical-fruit-print-wall?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 25544581
 price: 10.60
-tags: ["Poster", "Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Plant", "Watercolour", "Apple", "Fruit", "High quality print"]
+tags: ["Poster", "Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Plant", "Watercolour", "High quality print", "USDA Pomological", "Pear fruit"]
 image_thumbnail_0: 805208913_thumbnail_0.jpg
 image_medium_0: 805208913_medium_0.jpg
 image_full_0: 805208913_full_0.jpg

@@ -5,7 +5,7 @@ listing_id: 805244427
 etsy_url: https://www.etsy.com/listing/805244427/apple-vintage-botanical-fruit-print-wall?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 25544581
 price: 10.60
-tags: ["Poster", "Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Plant", "Watercolour", "Fruit", "High quality print", "Apple"]
+tags: ["Poster", "Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Watercolour", "Fruit", "High quality print", "Apple", "USDA Pomological"]
 image_thumbnail_0: 805244427_thumbnail_0.jpg
 image_medium_0: 805244427_medium_0.jpg
 image_full_0: 805244427_full_0.jpg

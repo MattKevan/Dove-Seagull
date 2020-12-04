@@ -5,7 +5,7 @@ listing_id: 292066179
 etsy_url: https://www.etsy.com/listing/292066179/detail-of-an-apple-vintage-botanical?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 25544581
 price: 10.60
-tags: ["Poster", "Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Plant", "Watercolour", "Apple", "Fruit", "High quality print"]
+tags: ["Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Plant", "Watercolour", "Apple", "Fruit", "High quality print", "USDA Pomological"]
 image_thumbnail_0: 292066179_thumbnail_0.jpg
 image_medium_0: 292066179_medium_0.jpg
 image_full_0: 292066179_full_0.jpg

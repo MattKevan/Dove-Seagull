@@ -5,7 +5,7 @@ listing_id: 661984324
 etsy_url: https://www.etsy.com/listing/661984324/courgettes-marrows-squashes-kitchen?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 25544581
 price: 10.60
-tags: ["Botanical art", "Wall art", "Photograph", "Vintage", "Art poster", "Kitchen wall art", "Vegetables print", "Vegetables poster", "Home decor", "Kitchen print", "Antique botanical", "Gardening print", "Gardening wall art"]
+tags: ["Botanical art", "Wall art", "Vintage", "Art poster", "Kitchen wall art", "Vegetables print", "Vegetables poster", "Home decor", "Kitchen print", "Antique botanical", "Gardening print", "Gardening wall art", "Album Benary"]
 image_thumbnail_0: 661984324_thumbnail_0.jpg
 image_medium_0: 661984324_medium_0.jpg
 image_full_0: 661984324_full_0.jpg

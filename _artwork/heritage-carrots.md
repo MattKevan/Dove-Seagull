@@ -5,7 +5,7 @@ listing_id: 675826833
 etsy_url: https://www.etsy.com/listing/675826833/heritage-carrots-kitchen-vegetables?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 25544581
 price: 10.60
-tags: ["Poster", "Botanical", "Botanical art", "Wall art", "Photograph", "Vintage", "Art poster", "Kitchen wall art", "Vegetables print", "Vegetables poster", "Home decor", "Kitchen print", "Antique botanical"]
+tags: ["Poster", "Botanical", "Botanical art", "Wall art", "Vintage", "Art poster", "Kitchen wall art", "Vegetables print", "Vegetables poster", "Home decor", "Kitchen print", "Antique botanical", "Album Benary"]
 image_thumbnail_0: 675826833_thumbnail_0.jpg
 image_medium_0: 675826833_medium_0.jpg
 image_full_0: 675826833_full_0.jpg

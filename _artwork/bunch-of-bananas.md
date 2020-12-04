@@ -5,7 +5,7 @@ listing_id: 791348506
 etsy_url: https://www.etsy.com/listing/791348506/bunch-of-bananas-vintage-botanical-fruit?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 25544581
 price: 10.60
-tags: ["Poster", "Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Plant", "Watercolour", "Fruit", "High quality print", "Grapefruit"]
+tags: ["Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Plant", "Watercolour", "Fruit", "High quality print", "Grapefruit", "USDA Pomological"]
 image_thumbnail_0: 791348506_thumbnail_0.jpg
 image_medium_0: 791348506_medium_0.jpg
 image_full_0: 791348506_full_0.jpg

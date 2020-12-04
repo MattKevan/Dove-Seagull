@@ -5,7 +5,7 @@ listing_id: 791358984
 etsy_url: https://www.etsy.com/listing/791358984/mango-vintage-botanical-fruit-print-wall?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 25544581
 price: 10.60
-tags: ["Poster", "Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Plant", "Watercolour", "Fruit", "High quality print"]
+tags: ["Poster", "Poster print", "Botanical", "Botanical art", "Botanical poster", "Photograph", "Watercolour", "Fruit", "High quality print", "USDA Pomological", "Vintage plant print", "Kitchen wall art", "Food art"]
 image_thumbnail_0: 791358984_thumbnail_0.jpg
 image_medium_0: 791358984_medium_0.jpg
 image_full_0: 791358984_full_0.jpg

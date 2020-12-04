@@ -5,7 +5,7 @@ listing_id: 280459134
 etsy_url: https://www.etsy.com/listing/280459134/cherries-fruit-botanical-print-botanical?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 25544581
 price: 10.60
-tags: ["Poster", "Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Vintage", "Plant", "Watercolour", "Fruit", "Vintage print", "Cherries"]
+tags: ["Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Vintage", "Plant", "Watercolour", "Fruit", "Vintage print", "Cherries", "USDA Pomological"]
 image_thumbnail_0: 280459134_thumbnail_0.jpg
 image_medium_0: 280459134_medium_0.jpg
 image_full_0: 280459134_full_0.jpg

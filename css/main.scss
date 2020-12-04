@@ -39,12 +39,16 @@ h2,h3,h4 {
     padding: 40px 0;
 }
 
-
+.snipcart-cart-header,
 .navbar.bg-light {
     background-color: #fff !important;
     box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.1);
 }
-
+.snipcart-cart-header {
+	width: 100%;
+	font-size: 16px;
+	padding: 20px;
+}
 .nav-item.snipcart-checkout:hover {
 	cursor: pointer;
 	color: rgba(0, 0, 0, 0.7);
@@ -297,6 +301,12 @@ h2,h3,h4 {
 
 .snipcart__box {
 	border-radius: 16px;
+}
+.snipcart-cart-button--secondary {
+	color: #fff;
+}
+.snipcart-cart-button--secondary .snipcart__icon path {
+	fill: #fff;
 }
 .snipcart-cart-button {
 	background-image: none;

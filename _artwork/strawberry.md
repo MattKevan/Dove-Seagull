@@ -5,7 +5,7 @@ listing_id: 805223919
 etsy_url: https://www.etsy.com/listing/805223919/strawberry-vintage-botanical-fruit-print?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 25544581
 price: 10.60
-tags: ["Poster", "Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Plant", "Watercolour", "Fruit", "High quality print", "Strawberry fruit"]
+tags: ["Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Plant", "Watercolour", "Fruit", "High quality print", "Strawberry fruit", "USDA Pomological"]
 image_thumbnail_0: 805223919_thumbnail_0.jpg
 image_medium_0: 805223919_medium_0.jpg
 image_full_0: 805223919_full_0.jpg

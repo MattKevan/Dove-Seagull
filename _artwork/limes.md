@@ -5,7 +5,7 @@ listing_id: 805263877
 etsy_url: https://www.etsy.com/listing/805263877/limes-vintage-botanical-fruit-print-wall?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 25544581
 price: 10.60
-tags: ["Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Plant", "Watercolour", "Fruit", "High quality print", "Lime", "Citrus"]
+tags: ["Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Plant", "Watercolour", "High quality print", "Lime", "Citrus fruit", "USDA Pomological"]
 image_thumbnail_0: 805263877_thumbnail_0.jpg
 image_medium_0: 805263877_medium_0.jpg
 image_full_0: 805263877_full_0.jpg

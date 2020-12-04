@@ -5,7 +5,7 @@ listing_id: 805236569
 etsy_url: https://www.etsy.com/listing/805236569/pineapple-vintage-botanical-fruit-print?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 25544581
 price: 10.60
-tags: ["Poster", "Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Plant", "Watercolour", "Fruit", "High quality print", "Pineapple"]
+tags: ["Poster", "Poster print", "Botanical art", "Botanical poster", "Photograph", "Vintage", "Plant", "Watercolour", "High quality print", "USDA Pomological", "Pineapple fruit", "Kitchen wall art", "Food print"]
 image_thumbnail_0: 805236569_thumbnail_0.jpg
 image_medium_0: 805236569_medium_0.jpg
 image_full_0: 805236569_full_0.jpg

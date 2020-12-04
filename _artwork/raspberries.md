@@ -5,7 +5,7 @@ listing_id: 293973195
 etsy_url: https://www.etsy.com/listing/293973195/raspberries-botanical-prints-wall-art?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 25544581
 price: 10.60
-tags: ["Poster", "Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Vintage", "Plant", "Watercolour", "Fruit", "Vintage print", "High quality print"]
+tags: ["Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Vintage", "Plant", "Watercolour", "Fruit", "Vintage print", "High quality print", "USDA Pomological"]
 image_thumbnail_0: 293973195_thumbnail_0.jpg
 image_medium_0: 293973195_medium_0.jpg
 image_full_0: 293973195_full_0.jpg

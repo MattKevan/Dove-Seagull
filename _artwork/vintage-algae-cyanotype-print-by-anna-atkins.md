@@ -1,17 +1,17 @@
 ---
 title: 'Vintage Algae Cyanotype Print by Anna Atkins '
 full-title: 'Vintage Algae Cyanotype Print by Anna Atkins | Classic photographic botanical art print for nature lovers'
-listing_id: 826660755
-etsy_url: https://www.etsy.com/listing/826660755/vintage-algae-cyanotype-print-by-anna?utm_source=site&utm_medium=api&utm_campaign=api
+listing_id: 812760852
+etsy_url: https://www.etsy.com/listing/812760852/vintage-algae-cyanotype-print-by-anna?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 19036676
 price: 10.60
 tags: ["Poster", "Wall decor", "Nature", "Botanical print", "Plant lovers gift", "Plant illustration", "Cottage decor", "Flower art print", "Cottage", "Anna Atkins", "Algae", "Cyanotype", "Vintage photography"]
-image_thumbnail_0: 826660755_thumbnail_0.jpg
-image_medium_0: 826660755_medium_0.jpg
-image_full_0: 826660755_full_0.jpg
-image_thumbnail_1: 826660755_thumbnail_1.jpg
-image_medium_1: 826660755_medium_1.jpg
-image_full_1: 826660755_full_1.jpg
+image_thumbnail_0: 812760852_thumbnail_0.jpg
+image_medium_0: 812760852_medium_0.jpg
+image_full_0: 812760852_full_0.jpg
+image_thumbnail_1: 812760852_thumbnail_1.jpg
+image_medium_1: 812760852_medium_1.jpg
+image_full_1: 812760852_full_1.jpg
 ---
 &quot;The difficulty of making accurate drawings of objects as minute as many of the Algae and Confera, has induced me to avail myself of Sir John Herschel&#39;s beautiful process of Cyanotype, to obtain impressions of the plants themselves,&quot;
 

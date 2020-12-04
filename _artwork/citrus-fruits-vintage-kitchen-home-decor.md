@@ -5,7 +5,7 @@ listing_id: 805624965
 etsy_url: https://www.etsy.com/listing/805624965/citrus-fruits-vintage-kitchen-home-decor?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 25544581
 price: 25.44
-tags: ["Poster print", "Botanical art", "Wall art", "Photograph", "Plant", "Watercolour", "High quality print", "Citrus", "Botanical print set", "Fruit kitchen print", "Vintage botanical"]
+tags: ["Poster print", "Botanical art", "Wall art", "Photograph", "Watercolour", "High quality print", "Citrus", "Botanical print set", "Fruit kitchen print", "Vintage botanical", "USDA Pomological"]
 image_thumbnail_0: 805624965_thumbnail_0.jpg
 image_medium_0: 805624965_medium_0.jpg
 image_full_0: 805624965_full_0.jpg

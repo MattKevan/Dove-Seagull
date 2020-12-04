@@ -5,7 +5,7 @@ listing_id: 384886728
 etsy_url: https://www.etsy.com/listing/384886728/papillons-by-ea-seguy-plate-4-nature?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 19013728
 price: 10.60
-tags: ["Poster", "Poster print", "Wall art", "Vintage", "Watercolour", "Nature", "Botanical art", "Wildlife", "Nature print", "Butterfly print", "Butterfly art", "Butterfly poster", "High quality print"]
+tags: ["Poster", "Poster print", "Wall art", "Vintage", "Watercolour", "Nature", "Botanical art", "Wildlife", "Nature print", "Butterfly print", "Butterfly art", "Butterfly poster", "High quality print", "Papillons"]
 image_thumbnail_0: 384886728_thumbnail_0.jpg
 image_medium_0: 384886728_medium_0.jpg
 image_full_0: 384886728_full_0.jpg

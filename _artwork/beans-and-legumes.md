@@ -5,7 +5,7 @@ listing_id: 675827833
 etsy_url: https://www.etsy.com/listing/675827833/beans-and-legumes-kitchen-vegetables?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 25544581
 price: 10.60
-tags: ["Botanical art", "Wall art", "Photograph", "Vintage", "Art poster", "Kitchen wall art", "Vegetables print", "Vegetables poster", "Home decor", "Kitchen print", "Antique botanical", "Gardening print", "Gardening wall art"]
+tags: ["Botanical art", "Wall art", "Vintage", "Art poster", "Kitchen wall art", "Vegetables print", "Vegetables poster", "Home decor", "Kitchen print", "Antique botanical", "Gardening print", "Gardening wall art", "Album Benary"]
 image_thumbnail_0: 675827833_thumbnail_0.jpg
 image_medium_0: 675827833_medium_0.jpg
 image_full_0: 675827833_full_0.jpg

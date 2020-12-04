@@ -5,7 +5,7 @@ listing_id: 791385756
 etsy_url: https://www.etsy.com/listing/791385756/lemons-vintage-botanical-fruit-print?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 25544581
 price: 10.60
-tags: ["Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Plant", "Watercolour", "Fruit", "High quality print", "Citrus", "Lemon"]
+tags: ["Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Plant", "Watercolour", "High quality print", "Lemon", "USDA Pomological", "Citrus fruit"]
 image_thumbnail_0: 791385756_thumbnail_0.jpg
 image_medium_0: 791385756_medium_0.jpg
 image_full_0: 791385756_full_0.jpg

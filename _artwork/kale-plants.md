@@ -5,7 +5,7 @@ listing_id: 661982692
 etsy_url: https://www.etsy.com/listing/661982692/kale-plants-kitchen-vegetables-antique?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 25544581
 price: 10.60
-tags: ["Poster", "Botanical", "Botanical art", "Wall art", "Photograph", "Vintage", "Art poster", "Kitchen wall art", "Vegetables print", "Vegetables poster", "Home decor", "Kitchen print", "Antique botanical"]
+tags: ["Poster", "Botanical", "Botanical art", "Wall art", "Vintage", "Art poster", "Kitchen wall art", "Vegetables print", "Vegetables poster", "Home decor", "Kitchen print", "Antique botanical", "Album Benary"]
 image_thumbnail_0: 661982692_thumbnail_0.jpg
 image_medium_0: 661982692_medium_0.jpg
 image_full_0: 661982692_full_0.jpg

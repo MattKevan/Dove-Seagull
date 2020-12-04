@@ -5,7 +5,7 @@ listing_id: 791359478
 etsy_url: https://www.etsy.com/listing/791359478/orange-vintage-botanical-fruit-print?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 25544581
 price: 10.60
-tags: ["Poster", "Poster print", "Botanical", "Botanical art", "Wall art", "Botanical poster", "Photograph", "Vintage", "Plant", "Watercolour", "Fruit", "High quality print", "Strawberry"]
+tags: ["Poster", "Poster print", "Botanical", "Botanical art", "Botanical poster", "Photograph", "Vintage", "Watercolour", "High quality print", "USDA Pomological", "Orange fruit", "Kitchen wall art", "Food lovers"]
 image_thumbnail_0: 791359478_thumbnail_0.jpg
 image_medium_0: 791359478_medium_0.jpg
 image_full_0: 791359478_full_0.jpg
