@@ -12,5 +12,52 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
   <link rel="shortcut icon" type="image/png" href="{{ "/images/site/favicon.png" | prepend: site.baseurl }}" >
-  {% seo %}
+   {% if page.layout != 'artwork' %} {% seo %} {% endif %}
+
+  {% if page.layout == 'artwork' %}
+
+<script type="application/ld+json">
+    {
+      "@context": "https://schema.org/",
+      "@type": "Product",
+      "name": "{{ page.title }}",
+      "image": [
+        "{{ site.url }}/images/artwork/{{ page.image_full_0 }}",
+        "{{ site.url }}/images/artwork/{{ page.image_full_1 }}",
+        "{{ site.url }}/images/artwork/{{ page.image_full_2 }}",
+        "{{ site.url }}/images/artwork/{{ page.image_full_3 }}"
+       ],
+      "description": "{{ page.excerpt }}",
+      "sku": "{{ page.title | slugify }}"
+      },
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Fred Benson"
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "reviewCount": "10"
+      },
+      "offers": {
+        "@type": "Offer",
+        "url": "{{ page.url }}",
+        "priceCurrency": "GBP",
+        "price": {{ page.price}},
+        
+        "itemCondition": "https://schema.org/NewCondition",
+        "availability": "https://schema.org/InStock"
+      }
+    }
+    </script>
+
+  {% endif %}
 </head>
