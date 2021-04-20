@@ -12,6 +12,12 @@ image_full_0: 811335402_full_0.jpg
 image_thumbnail_1: 811335402_thumbnail_1.jpg
 image_medium_1: 811335402_medium_1.jpg
 image_full_1: 811335402_full_1.jpg
+image_thumbnail_2: 811335402_thumbnail_2.jpg
+image_medium_2: 811335402_medium_2.jpg
+image_full_2: 811335402_full_2.jpg
+image_thumbnail_3: 811335402_thumbnail_3.jpg
+image_medium_3: 811335402_medium_3.jpg
+image_full_3: 811335402_full_3.jpg
 ---
 Pierre-Joseph Redouté (1759–1840), was a Flemish artist and botanist renowned for his exquisite watercolour paintings of lilies, roses, and other native plant species. Called the &#39;Raphael of Flowers&#39;, he was one of the finest and most famous botanical illustrators of all time. 
 

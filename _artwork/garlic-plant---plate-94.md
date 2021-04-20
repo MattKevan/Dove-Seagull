@@ -9,6 +9,12 @@ tags: ["Poster print", "Botanical", "Botanical art", "Wall art", "Botanical post
 image_thumbnail_0: 466790902_thumbnail_0.jpg
 image_medium_0: 466790902_medium_0.jpg
 image_full_0: 466790902_full_0.jpg
+image_thumbnail_1: 466790902_thumbnail_1.jpg
+image_medium_1: 466790902_medium_1.jpg
+image_full_1: 466790902_full_1.jpg
+image_thumbnail_2: 466790902_thumbnail_2.jpg
+image_medium_2: 466790902_medium_2.jpg
+image_full_2: 466790902_full_2.jpg
 ---
 Allium Ostrowskianum. Umbel of a Garlic-plant enlarged 6 times.
 

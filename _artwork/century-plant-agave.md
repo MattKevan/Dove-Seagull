@@ -9,6 +9,12 @@ tags: ["Botanical Print", "Leaf", "Leaves", "Vintage botanical", "Nature", "Bota
 image_thumbnail_0: 762771264_thumbnail_0.jpg
 image_medium_0: 762771264_medium_0.jpg
 image_full_0: 762771264_full_0.jpg
+image_thumbnail_1: 762771264_thumbnail_1.jpg
+image_medium_1: 762771264_medium_1.jpg
+image_full_1: 762771264_full_1.jpg
+image_thumbnail_2: 762771264_thumbnail_2.jpg
+image_medium_2: 762771264_medium_2.jpg
+image_full_2: 762771264_full_2.jpg
 ---
 Century Plant (Agave) leaf illustration by Benjamin Fawcett, a renowned woodblock printer considered to be one of the finest in the 19th century.
 ---

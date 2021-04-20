@@ -9,6 +9,12 @@ tags: ["Poster print", "Botanical", "Botanical art", "Wall art", "Botanical post
 image_thumbnail_0: 293344921_thumbnail_0.jpg
 image_medium_0: 293344921_medium_0.jpg
 image_full_0: 293344921_full_0.jpg
+image_thumbnail_1: 293344921_thumbnail_1.jpg
+image_medium_1: 293344921_medium_1.jpg
+image_full_1: 293344921_full_1.jpg
+image_thumbnail_2: 293344921_thumbnail_2.jpg
+image_medium_2: 293344921_medium_2.jpg
+image_full_2: 293344921_full_2.jpg
 ---
 Mexican Ivy (Cobea scandens). Calix enlarged four times. Plate 74.
 

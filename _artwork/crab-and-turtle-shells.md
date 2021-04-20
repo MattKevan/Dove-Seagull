@@ -12,6 +12,15 @@ image_full_0: 292191581_full_0.jpg
 image_thumbnail_1: 292191581_thumbnail_1.jpg
 image_medium_1: 292191581_medium_1.jpg
 image_full_1: 292191581_full_1.jpg
+image_thumbnail_2: 292191581_thumbnail_2.jpg
+image_medium_2: 292191581_medium_2.jpg
+image_full_2: 292191581_full_2.jpg
+image_thumbnail_3: 292191581_thumbnail_3.jpg
+image_medium_3: 292191581_medium_3.jpg
+image_full_3: 292191581_full_3.jpg
+image_thumbnail_4: 292191581_thumbnail_4.jpg
+image_medium_4: 292191581_medium_4.jpg
+image_full_4: 292191581_full_4.jpg
 ---
 This is a stunning 18th century watercolour study of a crab and turtle shells by Johann Gustav Hoch.
 

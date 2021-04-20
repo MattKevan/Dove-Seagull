@@ -9,11 +9,11 @@
 }
 
 @font-face {
-    font-family: 'Calendas Plus Italic';
+    font-family: 'Calendas Plus';
     src: url('fonts/calendas-plus-italic/calendas_plus_italic-webfont.woff2') format('woff2'),
          url('fonts/calendas-plus-italic/calendas_plus_italic-webfont.woff') format('woff');
     font-weight: normal;
-    font-style: normal;
+    font-style: italic;
 }
 
 @font-face {
@@ -31,7 +31,7 @@
     font-weight: bold;
     font-style: normal;
 }
-
+$font-size-base:              1.1rem !default; // Assumes the browser default, typically `16px`
 $font-family-sans-serif:	'HK Grotesk', Helvetica, Arial, sans-serif;
 $headings-font-family:      'Calendas Plus', serif;
 

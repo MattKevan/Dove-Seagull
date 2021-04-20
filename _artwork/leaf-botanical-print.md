@@ -12,6 +12,12 @@ image_full_0: 275929650_full_0.jpg
 image_thumbnail_1: 275929650_thumbnail_1.jpg
 image_medium_1: 275929650_medium_1.jpg
 image_full_1: 275929650_full_1.jpg
+image_thumbnail_2: 275929650_thumbnail_2.jpg
+image_medium_2: 275929650_medium_2.jpg
+image_full_2: 275929650_full_2.jpg
+image_thumbnail_3: 275929650_thumbnail_3.jpg
+image_medium_3: 275929650_medium_3.jpg
+image_full_3: 275929650_full_3.jpg
 ---
 Compass Plant (Silphium Laciniatum). Leaves enlarged six times.
 

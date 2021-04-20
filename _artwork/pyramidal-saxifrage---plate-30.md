@@ -15,6 +15,12 @@ image_full_1: 278319866_full_1.jpg
 image_thumbnail_2: 278319866_thumbnail_2.jpg
 image_medium_2: 278319866_medium_2.jpg
 image_full_2: 278319866_full_2.jpg
+image_thumbnail_3: 278319866_thumbnail_3.jpg
+image_medium_3: 278319866_medium_3.jpg
+image_full_3: 278319866_full_3.jpg
+image_thumbnail_4: 278319866_thumbnail_4.jpg
+image_medium_4: 278319866_medium_4.jpg
+image_full_4: 278319866_full_4.jpg
 ---
 Margined Pyramidal Saxifrage (Saxifraga Aizoon). Leaf enlarged eight times. Plate 30.
 

@@ -12,6 +12,12 @@ image_full_0: 467471986_full_0.jpg
 image_thumbnail_1: 467471986_thumbnail_1.jpg
 image_medium_1: 467471986_medium_1.jpg
 image_full_1: 467471986_full_1.jpg
+image_thumbnail_2: 467471986_thumbnail_2.jpg
+image_medium_2: 467471986_medium_2.jpg
+image_full_2: 467471986_full_2.jpg
+image_thumbnail_3: 467471986_thumbnail_3.jpg
+image_medium_3: 467471986_medium_3.jpg
+image_full_3: 467471986_full_3.jpg
 ---
 Scolopendrium Vulgare. Hart&#39;s-Tongue Fern. Young rolled-up fronds enlarged 6 times.
 

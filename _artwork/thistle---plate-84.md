@@ -9,6 +9,12 @@ tags: ["Poster print", "Botanical", "Botanical art", "Wall art", "Botanical post
 image_thumbnail_0: 278319816_thumbnail_0.jpg
 image_medium_0: 278319816_medium_0.jpg
 image_full_0: 278319816_full_0.jpg
+image_thumbnail_1: 278319816_thumbnail_1.jpg
+image_medium_1: 278319816_medium_1.jpg
+image_full_1: 278319816_full_1.jpg
+image_thumbnail_2: 278319816_thumbnail_2.jpg
+image_medium_2: 278319816_medium_2.jpg
+image_full_2: 278319816_full_2.jpg
 ---
 Thistle (Cirsium canum). Flower head enlarged 12 times. Plate 84.
 

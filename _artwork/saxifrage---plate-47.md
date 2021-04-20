@@ -9,6 +9,12 @@ tags: ["Poster print", "Botanical", "Botanical art", "Wall art", "Botanical post
 image_thumbnail_0: 293345049_thumbnail_0.jpg
 image_medium_0: 293345049_medium_0.jpg
 image_full_0: 293345049_full_0.jpg
+image_thumbnail_1: 293345049_thumbnail_1.jpg
+image_medium_1: 293345049_medium_1.jpg
+image_full_1: 293345049_full_1.jpg
+image_thumbnail_2: 293345049_thumbnail_2.jpg
+image_medium_2: 293345049_medium_2.jpg
+image_full_2: 293345049_full_2.jpg
 ---
 Willkomm&#39;s Saxifrage (Saxifraga Willkommniana). Leaf enlarged eight times. Plate 47.
 

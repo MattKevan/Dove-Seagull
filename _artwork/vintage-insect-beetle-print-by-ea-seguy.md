@@ -12,6 +12,12 @@ image_full_0: 872729246_full_0.jpg
 image_thumbnail_1: 872729246_thumbnail_1.jpg
 image_medium_1: 872729246_medium_1.jpg
 image_full_1: 872729246_full_1.jpg
+image_thumbnail_2: 872729246_thumbnail_2.jpg
+image_medium_2: 872729246_medium_2.jpg
+image_full_2: 872729246_full_2.jpg
+image_thumbnail_3: 872729246_thumbnail_3.jpg
+image_medium_3: 872729246_medium_3.jpg
+image_full_3: 872729246_full_3.jpg
 ---
 This is the first plate from a collection of stunning insect prints by EA Seguy.
 

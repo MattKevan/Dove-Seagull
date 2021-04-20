@@ -9,6 +9,12 @@ tags: ["Poster print", "Botanical", "Botanical art", "Wall art", "Botanical post
 image_thumbnail_0: 466791024_thumbnail_0.jpg
 image_medium_0: 466791024_medium_0.jpg
 image_full_0: 466791024_full_0.jpg
+image_thumbnail_1: 466791024_thumbnail_1.jpg
+image_medium_1: 466791024_medium_1.jpg
+image_full_1: 466791024_full_1.jpg
+image_thumbnail_2: 466791024_thumbnail_2.jpg
+image_medium_2: 466791024_medium_2.jpg
+image_full_2: 466791024_full_2.jpg
 ---
 Delphinium Larkspur. Part of a dried leaf enlarged 6 times.
 

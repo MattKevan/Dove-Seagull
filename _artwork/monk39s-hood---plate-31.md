@@ -12,6 +12,12 @@ image_full_0: 480963525_full_0.jpg
 image_thumbnail_1: 480963525_thumbnail_1.jpg
 image_medium_1: 480963525_medium_1.jpg
 image_full_1: 480963525_full_1.jpg
+image_thumbnail_2: 480963525_thumbnail_2.jpg
+image_medium_2: 480963525_medium_2.jpg
+image_full_2: 480963525_full_2.jpg
+image_thumbnail_3: 480963525_thumbnail_3.jpg
+image_medium_3: 480963525_medium_3.jpg
+image_full_3: 480963525_full_3.jpg
 ---
 Aconitum Anthora. Jacquin&#39;s Yellow-flowered Monk&#39;s-hood. Leaf enlarged 3 times.
 

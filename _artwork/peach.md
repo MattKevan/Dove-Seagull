@@ -12,6 +12,9 @@ image_full_0: 280459406_full_0.jpg
 image_thumbnail_1: 280459406_thumbnail_1.jpg
 image_medium_1: 280459406_medium_1.jpg
 image_full_1: 280459406_full_1.jpg
+image_thumbnail_2: 280459406_thumbnail_2.jpg
+image_medium_2: 280459406_medium_2.jpg
+image_full_2: 280459406_full_2.jpg
 ---
 Peach botanical watercolour print. This image is from a series of scientific studies detailing new species of fruit and nuts introduced to the USA during the late 19th and early 20th centuries.
 

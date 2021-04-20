@@ -12,6 +12,12 @@ image_full_0: 466537340_full_0.jpg
 image_thumbnail_1: 466537340_thumbnail_1.jpg
 image_medium_1: 466537340_medium_1.jpg
 image_full_1: 466537340_full_1.jpg
+image_thumbnail_2: 466537340_thumbnail_2.jpg
+image_medium_2: 466537340_medium_2.jpg
+image_full_2: 466537340_full_2.jpg
+image_thumbnail_3: 466537340_thumbnail_3.jpg
+image_medium_3: 466537340_medium_3.jpg
+image_full_3: 466537340_full_3.jpg
 ---
 Equisetum Hiemale. Winter Horsetail: enlarged 12 times.
 Equisetum Maximum. Fox-tailed Asparagus: enlarged 4 times.

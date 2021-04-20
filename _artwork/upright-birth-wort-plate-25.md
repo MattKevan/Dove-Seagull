@@ -12,6 +12,12 @@ image_full_0: 467254022_full_0.jpg
 image_thumbnail_1: 467254022_thumbnail_1.jpg
 image_medium_1: 467254022_medium_1.jpg
 image_full_1: 467254022_full_1.jpg
+image_thumbnail_2: 467254022_thumbnail_2.jpg
+image_medium_2: 467254022_medium_2.jpg
+image_full_2: 467254022_full_2.jpg
+image_thumbnail_3: 467254022_thumbnail_3.jpg
+image_medium_3: 467254022_medium_3.jpg
+image_full_3: 467254022_full_3.jpg
 ---
 Aristolochia clematitis. Upright Birth-wort. Flowers enlarged 7 times.
 

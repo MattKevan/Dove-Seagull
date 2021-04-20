@@ -12,6 +12,12 @@ image_full_0: 812760852_full_0.jpg
 image_thumbnail_1: 812760852_thumbnail_1.jpg
 image_medium_1: 812760852_medium_1.jpg
 image_full_1: 812760852_full_1.jpg
+image_thumbnail_2: 812760852_thumbnail_2.jpg
+image_medium_2: 812760852_medium_2.jpg
+image_full_2: 812760852_full_2.jpg
+image_thumbnail_3: 812760852_thumbnail_3.jpg
+image_medium_3: 812760852_medium_3.jpg
+image_full_3: 812760852_full_3.jpg
 ---
 &quot;The difficulty of making accurate drawings of objects as minute as many of the Algae and Confera, has induced me to avail myself of Sir John Herschel&#39;s beautiful process of Cyanotype, to obtain impressions of the plants themselves,&quot;
 

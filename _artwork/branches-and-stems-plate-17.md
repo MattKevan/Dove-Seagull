@@ -12,6 +12,12 @@ image_full_0: 466791222_full_0.jpg
 image_thumbnail_1: 466791222_thumbnail_1.jpg
 image_medium_1: 466791222_medium_1.jpg
 image_full_1: 466791222_full_1.jpg
+image_thumbnail_2: 466791222_thumbnail_2.jpg
+image_medium_2: 466791222_medium_2.jpg
+image_full_2: 466791222_full_2.jpg
+image_thumbnail_3: 466791222_thumbnail_3.jpg
+image_medium_3: 466791222_medium_3.jpg
+image_full_3: 466791222_full_3.jpg
 ---
 Cornus Nuttallii. Dogwood. End of a branch enlarged 6 times. 
 Cornus florida. Box-wood of N. America, Flowering Dogwood. End of branch enlarged 6 times. 

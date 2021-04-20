@@ -12,6 +12,12 @@ image_full_0: 480029115_full_0.jpg
 image_thumbnail_1: 480029115_thumbnail_1.jpg
 image_medium_1: 480029115_medium_1.jpg
 image_full_1: 480029115_full_1.jpg
+image_thumbnail_2: 480029115_thumbnail_2.jpg
+image_medium_2: 480029115_medium_2.jpg
+image_full_2: 480029115_full_2.jpg
+image_thumbnail_3: 480029115_thumbnail_3.jpg
+image_medium_3: 480029115_medium_3.jpg
+image_full_3: 480029115_full_3.jpg
 ---
 Callicarpa dichotoma: enlarged 7 times. 
 Fraxinus ornus. Flowering Ash: enlarged 6 times. 

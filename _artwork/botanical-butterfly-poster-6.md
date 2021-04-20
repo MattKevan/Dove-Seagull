@@ -12,6 +12,12 @@ image_full_0: 280459848_full_0.jpg
 image_thumbnail_1: 280459848_thumbnail_1.jpg
 image_medium_1: 280459848_medium_1.jpg
 image_full_1: 280459848_full_1.jpg
+image_thumbnail_2: 280459848_thumbnail_2.jpg
+image_medium_2: 280459848_medium_2.jpg
+image_full_2: 280459848_full_2.jpg
+image_thumbnail_3: 280459848_thumbnail_3.jpg
+image_medium_3: 280459848_medium_3.jpg
+image_full_3: 280459848_full_3.jpg
 ---
 This is a new print of butterflies adapted from an vintage botanical book. These fantastic prints would liven up any kitchen or other room in your house. 
 

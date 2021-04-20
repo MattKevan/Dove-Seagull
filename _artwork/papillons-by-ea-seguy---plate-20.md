@@ -5,10 +5,16 @@ listing_id: 398776091
 etsy_url: https://www.etsy.com/listing/398776091/papillons-by-ea-seguy-plate-20-nature?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 19013728
 price: 10.60
-tags: ["Poster", "Poster print", "Giclee print", "Wall art", "Vintage", "Watercolour", "Nature", "Botanical art", "Wildlife", "Nature print", "Butterfly print", "Butterfly art", "Butterfly poster", "Papillons"]
+tags: ["Poster print", "Giclee print", "Wall art", "Vintage", "Watercolour", "Nature", "Botanical art", "Wildlife", "Nature print", "Butterfly print", "Butterfly art", "Butterfly poster", "Papillons"]
 image_thumbnail_0: 398776091_thumbnail_0.jpg
 image_medium_0: 398776091_medium_0.jpg
 image_full_0: 398776091_full_0.jpg
+image_thumbnail_1: 398776091_thumbnail_1.jpg
+image_medium_1: 398776091_medium_1.jpg
+image_full_1: 398776091_full_1.jpg
+image_thumbnail_2: 398776091_thumbnail_2.jpg
+image_medium_2: 398776091_medium_2.jpg
+image_full_2: 398776091_full_2.jpg
 ---
 This is the last plate from a collection of 20 stunning butterfly prints by E A Seguy.
 

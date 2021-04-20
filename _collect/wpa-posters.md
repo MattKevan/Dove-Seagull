@@ -8,7 +8,7 @@ description: From 1935 to 1936, as part of the New Deal Works Progress Administr
 section_id: 19058808
 tag: 'WPA'
 thumb: ''
-image: "collections/wpa2.jpg"
+image: "wpa.jpg"
 artist: 'WPA'
 
 ---

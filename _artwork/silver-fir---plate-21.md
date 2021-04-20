@@ -12,6 +12,12 @@ image_full_0: 467253482_full_0.jpg
 image_thumbnail_1: 467253482_thumbnail_1.jpg
 image_medium_1: 467253482_medium_1.jpg
 image_full_1: 467253482_full_1.jpg
+image_thumbnail_2: 467253482_thumbnail_2.jpg
+image_medium_2: 467253482_medium_2.jpg
+image_full_2: 467253482_full_2.jpg
+image_thumbnail_3: 467253482_thumbnail_3.jpg
+image_medium_3: 467253482_medium_3.jpg
+image_full_3: 467253482_full_3.jpg
 ---
 Picea excelsa. Silver Fir, or red variety. Young shoots, with the needles removed, enlarged 10 times.
 

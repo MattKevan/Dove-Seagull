@@ -9,6 +9,12 @@ tags: ["Botanical Print", "Leaf", "Leaves", "Vintage botanical", "Nature", "Bota
 image_thumbnail_0: 775572867_thumbnail_0.jpg
 image_medium_0: 775572867_medium_0.jpg
 image_full_0: 775572867_full_0.jpg
+image_thumbnail_1: 775572867_thumbnail_1.jpg
+image_medium_1: 775572867_medium_1.jpg
+image_full_1: 775572867_full_1.jpg
+image_thumbnail_2: 775572867_thumbnail_2.jpg
+image_medium_2: 775572867_medium_2.jpg
+image_full_2: 775572867_full_2.jpg
 ---
 Begonia leaf illustration by Benjamin Fawcett, a renowned woodblock printer considered to be one of the finest in the 19th century.
 

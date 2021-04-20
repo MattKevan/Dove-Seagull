@@ -9,6 +9,12 @@ tags: ["Poster print", "Botanical", "Botanical art", "Wall art", "Botanical post
 image_thumbnail_0: 280459438_thumbnail_0.jpg
 image_medium_0: 280459438_medium_0.jpg
 image_full_0: 280459438_full_0.jpg
+image_thumbnail_1: 280459438_thumbnail_1.jpg
+image_medium_1: 280459438_medium_1.jpg
+image_full_1: 280459438_full_1.jpg
+image_thumbnail_2: 280459438_thumbnail_2.jpg
+image_medium_2: 280459438_medium_2.jpg
+image_full_2: 280459438_full_2.jpg
 ---
 Peach botanical watercolour print. This image is from a series of scientific studies detailing new species of fruit and nuts introduced to the USA during the late 19th and early 20th centuries.
 

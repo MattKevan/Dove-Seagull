@@ -12,6 +12,12 @@ image_full_0: 790837498_full_0.jpg
 image_thumbnail_1: 790837498_thumbnail_1.jpg
 image_medium_1: 790837498_medium_1.jpg
 image_full_1: 790837498_full_1.jpg
+image_thumbnail_2: 790837498_thumbnail_2.jpg
+image_medium_2: 790837498_medium_2.jpg
+image_full_2: 790837498_full_2.jpg
+image_thumbnail_3: 790837498_thumbnail_3.jpg
+image_medium_3: 790837498_medium_3.jpg
+image_full_3: 790837498_full_3.jpg
 ---
 This vintage illustration has been digitally enhanced and printed using high quality inks on heavyweight enhanced matt art paper. A fantastic gift or a fabulous addition to your home!
  

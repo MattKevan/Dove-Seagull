@@ -12,6 +12,12 @@ image_full_0: 278319798_full_0.jpg
 image_thumbnail_1: 278319798_thumbnail_1.jpg
 image_medium_1: 278319798_medium_1.jpg
 image_full_1: 278319798_full_1.jpg
+image_thumbnail_2: 278319798_thumbnail_2.jpg
+image_medium_2: 278319798_medium_2.jpg
+image_full_2: 278319798_full_2.jpg
+image_thumbnail_3: 278319798_thumbnail_3.jpg
+image_medium_3: 278319798_medium_3.jpg
+image_full_3: 278319798_full_3.jpg
 ---
 Prickly Shield-fern (Polystichum munitum). Leaf enlarged six times. Plate 38.
 

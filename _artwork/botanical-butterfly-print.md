@@ -12,6 +12,12 @@ image_full_0: 293646753_full_0.jpg
 image_thumbnail_1: 293646753_thumbnail_1.jpg
 image_medium_1: 293646753_medium_1.jpg
 image_full_1: 293646753_full_1.jpg
+image_thumbnail_2: 293646753_thumbnail_2.jpg
+image_medium_2: 293646753_medium_2.jpg
+image_full_2: 293646753_full_2.jpg
+image_thumbnail_3: 293646753_thumbnail_3.jpg
+image_medium_3: 293646753_medium_3.jpg
+image_full_3: 293646753_full_3.jpg
 ---
 This is a new print of butterflies adapted from an vintage botanical book.
 

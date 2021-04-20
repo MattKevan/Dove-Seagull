@@ -9,6 +9,12 @@ tags: ["Botanical Print", "Leaf", "Leaves", "Vintage botanical", "Nature", "Bota
 image_thumbnail_0: 776648365_thumbnail_0.jpg
 image_medium_0: 776648365_medium_0.jpg
 image_full_0: 776648365_full_0.jpg
+image_thumbnail_1: 776648365_thumbnail_1.jpg
+image_medium_1: 776648365_medium_1.jpg
+image_full_1: 776648365_full_1.jpg
+image_thumbnail_2: 776648365_thumbnail_2.jpg
+image_medium_2: 776648365_medium_2.jpg
+image_full_2: 776648365_full_2.jpg
 ---
 Joseph’s Coat plant (Teleanthera) illustration by Benjamin Fawcett, a renowned woodblock printer considered to be one of the finest in the 19th century.
 ---

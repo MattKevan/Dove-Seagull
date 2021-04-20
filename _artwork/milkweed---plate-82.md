@@ -9,6 +9,12 @@ tags: ["Poster print", "Botanical", "Botanical art", "Wall art", "Botanical post
 image_thumbnail_0: 480282347_thumbnail_0.jpg
 image_medium_0: 480282347_medium_0.jpg
 image_full_0: 480282347_full_0.jpg
+image_thumbnail_1: 480282347_thumbnail_1.jpg
+image_medium_1: 480282347_medium_1.jpg
+image_full_1: 480282347_full_1.jpg
+image_thumbnail_2: 480282347_thumbnail_2.jpg
+image_medium_2: 480282347_medium_2.jpg
+image_full_2: 480282347_full_2.jpg
 ---
 Asclepias Syriaca - Cornuti. Milkweed, Swallow-wort. Flower enlarged 18 times.
 

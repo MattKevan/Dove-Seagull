@@ -9,6 +9,12 @@ tags: ["Botanical Print", "Leaf", "Leaves", "Vintage botanical", "Nature", "Bota
 image_thumbnail_0: 761814816_thumbnail_0.jpg
 image_medium_0: 761814816_medium_0.jpg
 image_full_0: 761814816_full_0.jpg
+image_thumbnail_1: 761814816_thumbnail_1.jpg
+image_medium_1: 761814816_medium_1.jpg
+image_full_1: 761814816_full_1.jpg
+image_thumbnail_2: 761814816_thumbnail_2.jpg
+image_medium_2: 761814816_medium_2.jpg
+image_full_2: 761814816_full_2.jpg
 ---
 Hibiscus plant leaf illustration by Benjamin Fawcett, a renowned woodblock printer considered to be one of the finest in the 19th century.
 ---

@@ -12,6 +12,12 @@ image_full_0: 278195460_full_0.jpg
 image_thumbnail_1: 278195460_thumbnail_1.jpg
 image_medium_1: 278195460_medium_1.jpg
 image_full_1: 278195460_full_1.jpg
+image_thumbnail_2: 278195460_thumbnail_2.jpg
+image_medium_2: 278195460_medium_2.jpg
+image_full_2: 278195460_full_2.jpg
+image_thumbnail_3: 278195460_thumbnail_3.jpg
+image_medium_3: 278195460_medium_3.jpg
+image_full_3: 278195460_full_3.jpg
 ---
 Bourgati&#39;s Eryngo (Eryngium Bourgatii). Leaf enlarged five times.
 

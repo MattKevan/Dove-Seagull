@@ -12,6 +12,12 @@ image_full_0: 467253746_full_0.jpg
 image_thumbnail_1: 467253746_thumbnail_1.jpg
 image_medium_1: 467253746_medium_1.jpg
 image_full_1: 467253746_full_1.jpg
+image_thumbnail_2: 467253746_thumbnail_2.jpg
+image_medium_2: 467253746_medium_2.jpg
+image_full_2: 467253746_full_2.jpg
+image_thumbnail_3: 467253746_thumbnail_3.jpg
+image_medium_3: 467253746_medium_3.jpg
+image_full_3: 467253746_full_3.jpg
 ---
 Primula Japonica. Japanese Primrose. Fruit enlarged 6 times.
 

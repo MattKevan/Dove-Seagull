@@ -5,13 +5,19 @@ listing_id: 384886950
 etsy_url: https://www.etsy.com/listing/384886950/papillons-by-ea-seguy-plate-9-nature?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 19013728
 price: 10.60
-tags: ["Poster", "Poster print", "Wall art", "Vintage", "Watercolour", "Nature", "Botanical art", "Wildlife", "Nature print", "Butterfly print", "Butterfly art", "Butterfly poster", "High quality print", "Papillons"]
+tags: ["Poster", "Poster print", "Wall art", "Vintage", "Watercolour", "Nature", "Botanical art", "Wildlife", "Nature print", "Butterfly print", "Butterfly art", "Butterfly poster", "Papillons"]
 image_thumbnail_0: 384886950_thumbnail_0.jpg
 image_medium_0: 384886950_medium_0.jpg
 image_full_0: 384886950_full_0.jpg
 image_thumbnail_1: 384886950_thumbnail_1.jpg
 image_medium_1: 384886950_medium_1.jpg
 image_full_1: 384886950_full_1.jpg
+image_thumbnail_2: 384886950_thumbnail_2.jpg
+image_medium_2: 384886950_medium_2.jpg
+image_full_2: 384886950_full_2.jpg
+image_thumbnail_3: 384886950_thumbnail_3.jpg
+image_medium_3: 384886950_medium_3.jpg
+image_full_3: 384886950_full_3.jpg
 ---
 This is the ninth plate from a collection of 20 stunning butterfly prints by E A Seguy.
 

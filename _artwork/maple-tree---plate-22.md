@@ -12,6 +12,12 @@ image_full_0: 467253598_full_0.jpg
 image_thumbnail_1: 467253598_thumbnail_1.jpg
 image_medium_1: 467253598_medium_1.jpg
 image_full_1: 467253598_full_1.jpg
+image_thumbnail_2: 467253598_thumbnail_2.jpg
+image_medium_2: 467253598_medium_2.jpg
+image_full_2: 467253598_full_2.jpg
+image_thumbnail_3: 467253598_thumbnail_3.jpg
+image_medium_3: 467253598_medium_3.jpg
+image_full_3: 467253598_full_3.jpg
 ---
 Acer Rufinerve. Maple Tree. Shoots enlarged 10 times.
 

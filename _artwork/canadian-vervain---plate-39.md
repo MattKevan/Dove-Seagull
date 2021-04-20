@@ -12,6 +12,12 @@ image_full_0: 279831000_full_0.jpg
 image_thumbnail_1: 279831000_thumbnail_1.jpg
 image_medium_1: 279831000_medium_1.jpg
 image_full_1: 279831000_full_1.jpg
+image_thumbnail_2: 279831000_thumbnail_2.jpg
+image_medium_2: 279831000_medium_2.jpg
+image_full_2: 279831000_full_2.jpg
+image_thumbnail_3: 279831000_thumbnail_3.jpg
+image_medium_3: 279831000_medium_3.jpg
+image_full_3: 279831000_full_3.jpg
 ---
 Canadian Vervain (Verbena canadensis). Leaf enlarged 10 times. Plate 39.
 

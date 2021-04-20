@@ -9,6 +9,12 @@ tags: ["Poster print", "Botanical", "Botanical art", "Wall art", "Botanical post
 image_thumbnail_0: 278195488_thumbnail_0.jpg
 image_medium_0: 278195488_medium_0.jpg
 image_full_0: 278195488_full_0.jpg
+image_thumbnail_1: 278195488_thumbnail_1.jpg
+image_medium_1: 278195488_medium_1.jpg
+image_full_1: 278195488_full_1.jpg
+image_thumbnail_2: 278195488_thumbnail_2.jpg
+image_medium_2: 278195488_medium_2.jpg
+image_full_2: 278195488_full_2.jpg
 ---
 Delphinium. Larkspur. Leaves enlarged six times. Plate 45.
 

@@ -12,6 +12,12 @@ image_full_0: 466790768_full_0.jpg
 image_thumbnail_1: 466790768_thumbnail_1.jpg
 image_medium_1: 466790768_medium_1.jpg
 image_full_1: 466790768_full_1.jpg
+image_thumbnail_2: 466790768_thumbnail_2.jpg
+image_medium_2: 466790768_medium_2.jpg
+image_full_2: 466790768_full_2.jpg
+image_thumbnail_3: 466790768_thumbnail_3.jpg
+image_medium_3: 466790768_medium_3.jpg
+image_full_3: 466790768_full_3.jpg
 ---
 Geum rivale. Drooping Avens. Flower-bud, with the sepals removed, enlarged 25 times.
 

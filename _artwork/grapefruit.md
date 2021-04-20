@@ -12,6 +12,12 @@ image_full_0: 805224719_full_0.jpg
 image_thumbnail_1: 805224719_thumbnail_1.jpg
 image_medium_1: 805224719_medium_1.jpg
 image_full_1: 805224719_full_1.jpg
+image_thumbnail_2: 805224719_thumbnail_2.jpg
+image_medium_2: 805224719_medium_2.jpg
+image_full_2: 805224719_full_2.jpg
+image_thumbnail_3: 805224719_thumbnail_3.jpg
+image_medium_3: 805224719_medium_3.jpg
+image_full_3: 805224719_full_3.jpg
 ---
 This stunning botanical watercolour study is from a series of watercolours painted in the early 1900s.
 

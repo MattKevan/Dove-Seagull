@@ -7,7 +7,7 @@ description: Anna Atkins (1799-1871) was an amateur botanist especially interest
 section_id: 19058808
 tag: 'Anna Atkins'
 thumb: ''
-image: "collections/atkins2.jpg"
+image: "atkins.jpg"
 
 ---
 

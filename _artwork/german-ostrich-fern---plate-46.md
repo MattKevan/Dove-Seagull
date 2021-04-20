@@ -9,6 +9,12 @@ tags: ["Poster print", "Botanical", "Botanical art", "Wall art", "Botanical post
 image_thumbnail_0: 279830964_thumbnail_0.jpg
 image_medium_0: 279830964_medium_0.jpg
 image_full_0: 279830964_full_0.jpg
+image_thumbnail_1: 279830964_thumbnail_1.jpg
+image_medium_1: 279830964_medium_1.jpg
+image_full_1: 279830964_full_1.jpg
+image_thumbnail_2: 279830964_thumbnail_2.jpg
+image_medium_2: 279830964_medium_2.jpg
+image_full_2: 279830964_full_2.jpg
 ---
 German Ostrich Fern (Struthiopteris Germanica). Frond enlarged eight times. Plate 46.
 

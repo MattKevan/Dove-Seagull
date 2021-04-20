@@ -9,6 +9,12 @@ tags: ["Poster print", "Botanical", "Botanical art", "Wall art", "Botanical post
 image_thumbnail_0: 467254084_thumbnail_0.jpg
 image_medium_0: 467254084_medium_0.jpg
 image_full_0: 467254084_full_0.jpg
+image_thumbnail_1: 467254084_thumbnail_1.jpg
+image_medium_1: 467254084_medium_1.jpg
+image_full_1: 467254084_full_1.jpg
+image_thumbnail_2: 467254084_thumbnail_2.jpg
+image_medium_2: 467254084_medium_2.jpg
+image_full_2: 467254084_full_2.jpg
 ---
 Cucurbita. Stems of a Pumpkin enlarged 3 times.
 

@@ -12,6 +12,12 @@ image_full_0: 480029161_full_0.jpg
 image_thumbnail_1: 480029161_thumbnail_1.jpg
 image_medium_1: 480029161_medium_1.jpg
 image_full_1: 480029161_full_1.jpg
+image_thumbnail_2: 480029161_thumbnail_2.jpg
+image_medium_2: 480029161_medium_2.jpg
+image_full_2: 480029161_full_2.jpg
+image_thumbnail_3: 480029161_thumbnail_3.jpg
+image_medium_3: 480029161_medium_3.jpg
+image_full_3: 480029161_full_3.jpg
 ---
 Cornus brachypoda. Dogwood. Shoot enlarged 12 times.
 Cornus pubescens. Dogwood. Leaf-bud enlarged 15 times. 

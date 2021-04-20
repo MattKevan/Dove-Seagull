@@ -9,6 +9,12 @@ tags: ["Poster print", "Botanical", "Botanical art", "Wall art", "Botanical post
 image_thumbnail_0: 466537452_thumbnail_0.jpg
 image_medium_0: 466537452_medium_0.jpg
 image_full_0: 466537452_full_0.jpg
+image_thumbnail_1: 466537452_thumbnail_1.jpg
+image_medium_1: 466537452_medium_1.jpg
+image_full_1: 466537452_full_1.jpg
+image_thumbnail_2: 466537452_thumbnail_2.jpg
+image_medium_2: 466537452_medium_2.jpg
+image_full_2: 466537452_full_2.jpg
 ---
 Scabiosa Columbaria. Small or Lilac-flowered Scabious. Enlarged 10 times.
 

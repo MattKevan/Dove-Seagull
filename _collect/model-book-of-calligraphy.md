@@ -7,7 +7,7 @@ description: "The remarkable 'Mira Calligraphiae Monumenta' (The Model Book of C
 section_id: 19058808
 tag: 'Joris Hoefnagel'
 thumb: ''
-image: "collections/calligraphy.jpg"
+image: "calligraphy.jpg"
 
 ---
 

@@ -9,6 +9,12 @@ tags: ["Botanical Print", "Leaf", "Leaves", "Vintage botanical", "Nature", "Bota
 image_thumbnail_0: 762111052_thumbnail_0.jpg
 image_medium_0: 762111052_medium_0.jpg
 image_full_0: 762111052_full_0.jpg
+image_thumbnail_1: 762111052_thumbnail_1.jpg
+image_medium_1: 762111052_medium_1.jpg
+image_full_1: 762111052_full_1.jpg
+image_thumbnail_2: 762111052_thumbnail_2.jpg
+image_medium_2: 762111052_medium_2.jpg
+image_full_2: 762111052_full_2.jpg
 ---
 Honeysuckle (Lonicera) plant illustration by Benjamin Fawcett, a renowned woodblock printer considered to be one of the finest in the 19th century.
 ---

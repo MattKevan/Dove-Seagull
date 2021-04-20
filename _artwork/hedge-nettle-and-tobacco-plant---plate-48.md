@@ -9,6 +9,12 @@ tags: ["Poster print", "Botanical", "Botanical art", "Wall art", "Botanical post
 image_thumbnail_0: 480282161_thumbnail_0.jpg
 image_medium_0: 480282161_medium_0.jpg
 image_full_0: 480282161_full_0.jpg
+image_thumbnail_1: 480282161_thumbnail_1.jpg
+image_medium_1: 480282161_medium_1.jpg
+image_full_1: 480282161_full_1.jpg
+image_thumbnail_2: 480282161_thumbnail_2.jpg
+image_medium_2: 480282161_medium_2.jpg
+image_full_2: 480282161_full_2.jpg
 ---
 This is a print from Karl Blossfeldt&#39;s groundbreaking work &#39;Urformen der Kunst&#39;, first published in 1928. An English edition was published in 1929 as &#39;Art Forms in Nature&#39;. The complete work contains 120 rotary gravure plates, prefaced with an introductory text and list of subjects.
 

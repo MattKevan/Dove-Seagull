@@ -15,6 +15,12 @@ image_full_1: 278195606_full_1.jpg
 image_thumbnail_2: 278195606_thumbnail_2.jpg
 image_medium_2: 278195606_medium_2.jpg
 image_full_2: 278195606_full_2.jpg
+image_thumbnail_3: 278195606_thumbnail_3.jpg
+image_medium_3: 278195606_medium_3.jpg
+image_full_3: 278195606_full_3.jpg
+image_thumbnail_4: 278195606_thumbnail_4.jpg
+image_medium_4: 278195606_medium_4.jpg
+image_full_4: 278195606_full_4.jpg
 ---
 Shield Fern (Aspidium Filix Mas). Fronds enlarged four times. Plate 56.
 

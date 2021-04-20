@@ -12,6 +12,12 @@ image_full_0: 480282887_full_0.jpg
 image_thumbnail_1: 480282887_thumbnail_1.jpg
 image_medium_1: 480282887_medium_1.jpg
 image_full_1: 480282887_full_1.jpg
+image_thumbnail_2: 480282887_thumbnail_2.jpg
+image_medium_2: 480282887_medium_2.jpg
+image_full_2: 480282887_full_2.jpg
+image_thumbnail_3: 480282887_thumbnail_3.jpg
+image_medium_3: 480282887_medium_3.jpg
+image_full_3: 480282887_full_3.jpg
 ---
 Impatiens glanduligera. Hardy Indian Balsam. Stem with ramifications: natural size.
 

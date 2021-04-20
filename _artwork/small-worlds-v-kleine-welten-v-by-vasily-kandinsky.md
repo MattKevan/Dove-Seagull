@@ -5,18 +5,26 @@ listing_id: 528045179
 etsy_url: https://www.etsy.com/listing/528045179/small-worlds-v-kleine-welten-v-by-vasily?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 19099181
 price: 18.60
-tags: ["Kandinsky", "Abstract", "Modern art", "Abstract art", "Colourful", "Bauhaus", "Art print", "Wall art", "Modernism"]
+tags: ["Kandinsky", "Abstract", "Modern art", "Abstract art", "Bauhaus", "Art print", "Wall art", "Modernism", "Fine art print", "Expressionism", "Expressionist art", "Mid century modern", "Wassily Kandinsky"]
 image_thumbnail_0: 528045179_thumbnail_0.jpg
 image_medium_0: 528045179_medium_0.jpg
 image_full_0: 528045179_full_0.jpg
+image_thumbnail_1: 528045179_thumbnail_1.jpg
+image_medium_1: 528045179_medium_1.jpg
+image_full_1: 528045179_full_1.jpg
+image_thumbnail_2: 528045179_thumbnail_2.jpg
+image_medium_2: 528045179_medium_2.jpg
+image_full_2: 528045179_full_2.jpg
 ---
 This is the fifth in the &#39;Kleine Welten (Small Worlds)&#39; series of 12 prints, published in 1922, shortly after Kandinsky started teaching at the Bauhaus. It comprises of four woodcut prints, four etchings and four lithographs, each piece tailored to the medium&#39;s unique characteristics.
 
 Born in 1866, Vasily Kandinsky taught at the Bauhaus and is credited with creating one of the first abstract artworks.
 
+---
+
 ### Printing
 
-Prints are available in 8x10&quot; and 11x14&quot; sizes, with a white border around the edges to allow for easy framing. If you have a specific size requirement, get in touch – we&#39;re always happy to help.
+Prints are available in a range of sizes, with a white border around the edges to allow for easy framing. If you have a specific size requirement, get in touch – we&#39;re always happy to help.
 
 We use 200gsm enhanced matt art paper, an extremely high quality paper with a lovely texture, which looks fantastic and brings out the best in your artwork. With care, your print will look fantastic for many years!
 

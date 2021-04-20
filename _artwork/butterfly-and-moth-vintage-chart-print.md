@@ -4,7 +4,7 @@ full-title: 'Butterfly and moth vintage chart print'
 listing_id: 292739509
 etsy_url: https://www.etsy.com/listing/292739509/butterfly-and-moth-vintage-chart-print?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 19013728
-price: 10.60
+price: 9.99
 tags: ["Poster", "Poster print", "Wall art", "Vintage", "Watercolour", "Nature", "Botanical art", "Wildlife", "Butterfly", "Nature print", "Butterfly print", "Butterfly art", "High quality print"]
 image_thumbnail_0: 292739509_thumbnail_0.jpg
 image_medium_0: 292739509_medium_0.jpg
@@ -12,6 +12,15 @@ image_full_0: 292739509_full_0.jpg
 image_thumbnail_1: 292739509_thumbnail_1.jpg
 image_medium_1: 292739509_medium_1.jpg
 image_full_1: 292739509_full_1.jpg
+image_thumbnail_2: 292739509_thumbnail_2.jpg
+image_medium_2: 292739509_medium_2.jpg
+image_full_2: 292739509_full_2.jpg
+image_thumbnail_3: 292739509_thumbnail_3.jpg
+image_medium_3: 292739509_medium_3.jpg
+image_full_3: 292739509_full_3.jpg
+image_thumbnail_4: 292739509_thumbnail_4.jpg
+image_medium_4: 292739509_medium_4.jpg
+image_full_4: 292739509_full_4.jpg
 ---
 This is a new print of butterflies and moths adapted from an 18th century Dutch book.
 

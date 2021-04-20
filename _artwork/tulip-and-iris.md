@@ -12,6 +12,12 @@ image_full_0: 293371003_full_0.jpg
 image_thumbnail_1: 293371003_thumbnail_1.jpg
 image_medium_1: 293371003_medium_1.jpg
 image_full_1: 293371003_full_1.jpg
+image_thumbnail_2: 293371003_thumbnail_2.jpg
+image_medium_2: 293371003_medium_2.jpg
+image_full_2: 293371003_full_2.jpg
+image_thumbnail_3: 293371003_thumbnail_3.jpg
+image_medium_3: 293371003_medium_3.jpg
+image_full_3: 293371003_full_3.jpg
 ---
 This is a high quality print of a 19th century etching by Willem van Leen.
 

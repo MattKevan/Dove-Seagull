@@ -12,6 +12,9 @@ image_full_0: 805108045_full_0.jpg
 image_thumbnail_1: 805108045_thumbnail_1.jpg
 image_medium_1: 805108045_medium_1.jpg
 image_full_1: 805108045_full_1.jpg
+image_thumbnail_2: 805108045_thumbnail_2.jpg
+image_medium_2: 805108045_medium_2.jpg
+image_full_2: 805108045_full_2.jpg
 ---
 This is a new giclee print of butterflies adapted from an vintage botanical book. These fantastic prints would liven up any kitchen or other room in your house. 
 

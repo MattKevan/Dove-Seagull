@@ -12,6 +12,12 @@ image_full_0: 292066443_full_0.jpg
 image_thumbnail_1: 292066443_thumbnail_1.jpg
 image_medium_1: 292066443_medium_1.jpg
 image_full_1: 292066443_full_1.jpg
+image_thumbnail_2: 292066443_thumbnail_2.jpg
+image_medium_2: 292066443_medium_2.jpg
+image_full_2: 292066443_full_2.jpg
+image_thumbnail_3: 292066443_thumbnail_3.jpg
+image_medium_3: 292066443_medium_3.jpg
+image_full_3: 292066443_full_3.jpg
 ---
 This is a stunning botanical watercolour study of a pear cactus in bloom by Herman Saftleven in 1683.
 ---

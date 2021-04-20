@@ -9,6 +9,12 @@ tags: ["Poster print", "Botanical", "Botanical art", "Wall art", "Botanical post
 image_thumbnail_0: 480028779_thumbnail_0.jpg
 image_medium_0: 480028779_medium_0.jpg
 image_full_0: 480028779_full_0.jpg
+image_thumbnail_1: 480028779_thumbnail_1.jpg
+image_medium_1: 480028779_medium_1.jpg
+image_full_1: 480028779_full_1.jpg
+image_thumbnail_2: 480028779_thumbnail_2.jpg
+image_medium_2: 480028779_medium_2.jpg
+image_full_2: 480028779_full_2.jpg
 ---
 Acanthus Mollis, Common or Soft-Leaved Bears Breech, enlarged 5 times.
 

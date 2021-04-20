@@ -9,6 +9,12 @@ tags: ["Poster print", "Botanical", "Botanical art", "Wall art", "Botanical post
 image_thumbnail_0: 279830734_thumbnail_0.jpg
 image_medium_0: 279830734_medium_0.jpg
 image_full_0: 279830734_full_0.jpg
+image_thumbnail_1: 279830734_thumbnail_1.jpg
+image_medium_1: 279830734_medium_1.jpg
+image_full_1: 279830734_full_1.jpg
+image_thumbnail_2: 279830734_thumbnail_2.jpg
+image_medium_2: 279830734_medium_2.jpg
+image_full_2: 279830734_full_2.jpg
 ---
 Small Teasel (Cephalaria). Enlarged 10 times. Plate 77.
 

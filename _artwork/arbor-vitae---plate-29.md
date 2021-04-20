@@ -9,6 +9,12 @@ tags: ["Poster print", "Botanical", "Botanical art", "Wall art", "Botanical post
 image_thumbnail_0: 480746979_thumbnail_0.jpg
 image_medium_0: 480746979_medium_0.jpg
 image_full_0: 480746979_full_0.jpg
+image_thumbnail_1: 480746979_thumbnail_1.jpg
+image_medium_1: 480746979_medium_1.jpg
+image_full_1: 480746979_full_1.jpg
+image_thumbnail_2: 480746979_thumbnail_2.jpg
+image_medium_2: 480746979_medium_2.jpg
+image_full_2: 480746979_full_2.jpg
 ---
 Thujopsis Dolabrata. Hatchet-Leaved Arbor Vitae. Ends of a branch enlarged 10 times.
 

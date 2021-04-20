@@ -8,6 +8,6 @@ lead: The U.S. Department of Agriculture's Pomological Watercolor Collection is 
   1886 and 1942 by around five dozen artists.
 tag: 'Album Benary'
 thumb: ''
-image: "collections/benary.jpg"
+image: "benary.jpg"
 
 ---

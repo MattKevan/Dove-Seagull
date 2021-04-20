@@ -5,13 +5,19 @@ listing_id: 398433483
 etsy_url: https://www.etsy.com/listing/398433483/papillons-by-ea-seguy-plate-13-nature?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 19013728
 price: 10.60
-tags: ["Poster", "Poster print", "Wall art", "Vintage", "Watercolour", "Nature", "Botanical art", "Wildlife", "Nature print", "Butterfly print", "Butterfly art", "Butterfly poster", "High quality print", "Papillons"]
+tags: ["Poster", "Poster print", "Wall art", "Vintage", "Watercolour", "Nature", "Botanical art", "Wildlife", "Nature print", "Butterfly print", "Butterfly art", "Butterfly poster", "Papillons"]
 image_thumbnail_0: 398433483_thumbnail_0.jpg
 image_medium_0: 398433483_medium_0.jpg
 image_full_0: 398433483_full_0.jpg
 image_thumbnail_1: 398433483_thumbnail_1.jpg
 image_medium_1: 398433483_medium_1.jpg
 image_full_1: 398433483_full_1.jpg
+image_thumbnail_2: 398433483_thumbnail_2.jpg
+image_medium_2: 398433483_medium_2.jpg
+image_full_2: 398433483_full_2.jpg
+image_thumbnail_3: 398433483_thumbnail_3.jpg
+image_medium_3: 398433483_medium_3.jpg
+image_full_3: 398433483_full_3.jpg
 ---
 This is the thirteenth plate from a collection of 20 stunning butterfly prints by E A Seguy.
 

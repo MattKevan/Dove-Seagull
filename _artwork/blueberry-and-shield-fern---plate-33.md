@@ -12,6 +12,12 @@ image_full_0: 467471672_full_0.jpg
 image_thumbnail_1: 467471672_thumbnail_1.jpg
 image_medium_1: 467471672_medium_1.jpg
 image_full_1: 467471672_full_1.jpg
+image_thumbnail_2: 467471672_thumbnail_2.jpg
+image_medium_2: 467471672_medium_2.jpg
+image_full_2: 467471672_full_2.jpg
+image_thumbnail_3: 467471672_thumbnail_3.jpg
+image_medium_3: 467471672_medium_3.jpg
+image_full_3: 467471672_full_3.jpg
 ---
 Polypodiaceae Aspidieae. Polypody. Rolled-up frond enlarged 4 times. 
 Vaccinium Corymbosum. Common or Swamp Blueberry. Bunch of fruit enlarged 8 times. Polystichum Falcatum. Prickly Shield-fern. Young rolled-up frond enlarged 5 times.

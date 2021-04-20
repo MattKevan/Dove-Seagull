@@ -5,13 +5,19 @@ listing_id: 384886884
 etsy_url: https://www.etsy.com/listing/384886884/butterfly-print-papillons-by-a-e-seguy?utm_source=site&utm_medium=api&utm_campaign=api
 section_id: 19013728
 price: 10.60
-tags: ["Poster", "Poster print", "Wall art", "Vintage", "Watercolour", "Nature", "Botanical art", "Wildlife", "Nature print", "Butterfly print", "Butterfly art", "Butterfly poster", "E A Seguy"]
+tags: ["Poster print", "Wall art", "Vintage", "Watercolour", "Nature", "Botanical art", "Wildlife", "Nature print", "Butterfly print", "Butterfly art", "Butterfly poster", "E A Seguy", "Papillons"]
 image_thumbnail_0: 384886884_thumbnail_0.jpg
 image_medium_0: 384886884_medium_0.jpg
 image_full_0: 384886884_full_0.jpg
 image_thumbnail_1: 384886884_thumbnail_1.jpg
 image_medium_1: 384886884_medium_1.jpg
 image_full_1: 384886884_full_1.jpg
+image_thumbnail_2: 384886884_thumbnail_2.jpg
+image_medium_2: 384886884_medium_2.jpg
+image_full_2: 384886884_full_2.jpg
+image_thumbnail_3: 384886884_thumbnail_3.jpg
+image_medium_3: 384886884_medium_3.jpg
+image_full_3: 384886884_full_3.jpg
 ---
 This is the eighth plate from a collection of 20 stunning butterfly prints by E A Seguy.
 

@@ -12,6 +12,12 @@ image_full_0: 280459312_full_0.jpg
 image_thumbnail_1: 280459312_thumbnail_1.jpg
 image_medium_1: 280459312_medium_1.jpg
 image_full_1: 280459312_full_1.jpg
+image_thumbnail_2: 280459312_thumbnail_2.jpg
+image_medium_2: 280459312_medium_2.jpg
+image_full_2: 280459312_full_2.jpg
+image_thumbnail_3: 280459312_thumbnail_3.jpg
+image_medium_3: 280459312_medium_3.jpg
+image_full_3: 280459312_full_3.jpg
 ---
 Grapes botanical watercolour print. This image is from a series of scientific studies detailing new species of fruit and nuts introduced to the USA during the late 19th and early 20th centuries.
 

@@ -9,6 +9,12 @@ tags: ["Poster print", "Botanical", "Botanical art", "Wall art", "Botanical post
 image_thumbnail_0: 480028515_thumbnail_0.jpg
 image_medium_0: 480028515_medium_0.jpg
 image_full_0: 480028515_full_0.jpg
+image_thumbnail_1: 480028515_thumbnail_1.jpg
+image_medium_1: 480028515_medium_1.jpg
+image_full_1: 480028515_full_1.jpg
+image_thumbnail_2: 480028515_thumbnail_2.jpg
+image_medium_2: 480028515_medium_2.jpg
+image_full_2: 480028515_full_2.jpg
 ---
 Centaurea Macrocephala, flower enlarged 5 times.
 

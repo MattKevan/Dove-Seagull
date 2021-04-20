@@ -12,6 +12,12 @@ image_full_0: 480282981_full_0.jpg
 image_thumbnail_1: 480282981_thumbnail_1.jpg
 image_medium_1: 480282981_medium_1.jpg
 image_full_1: 480282981_full_1.jpg
+image_thumbnail_2: 480282981_thumbnail_2.jpg
+image_medium_2: 480282981_medium_2.jpg
+image_full_2: 480282981_full_2.jpg
+image_thumbnail_3: 480282981_thumbnail_3.jpg
+image_medium_3: 480282981_medium_3.jpg
+image_full_3: 480282981_full_3.jpg
 ---
 Cornus Nuttallii. Dogwood. Young shoot enlarged 5 times. 
 Cornus Officinalis. Common Dogwood. Ramifications enlarged 8 times.

@@ -12,6 +12,12 @@ image_full_0: 293345013_full_0.jpg
 image_thumbnail_1: 293345013_thumbnail_1.jpg
 image_medium_1: 293345013_medium_1.jpg
 image_full_1: 293345013_full_1.jpg
+image_thumbnail_2: 293345013_thumbnail_2.jpg
+image_medium_2: 293345013_medium_2.jpg
+image_full_2: 293345013_full_2.jpg
+image_thumbnail_3: 293345013_thumbnail_3.jpg
+image_medium_3: 293345013_medium_3.jpg
+image_full_3: 293345013_full_3.jpg
 ---
 Plate 50 - Feverfew chrysanthemum (Chrysanthemum parthenium). Leaf enlarged five times.
 

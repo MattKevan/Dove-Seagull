@@ -2,7 +2,7 @@
 artist: ''
 title: Vintage butterflies
 lead: ''
-image: "collections/butterflies2.jpg"
+image: "butterflies.jpg"
 categories: []
 tags: []
 thumb: ''

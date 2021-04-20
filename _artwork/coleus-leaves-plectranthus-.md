@@ -9,6 +9,12 @@ tags: ["Botanical Print", "Leaf", "Leaves", "Vintage botanical", "Nature", "Bota
 image_thumbnail_0: 779861009_thumbnail_0.jpg
 image_medium_0: 779861009_medium_0.jpg
 image_full_0: 779861009_full_0.jpg
+image_thumbnail_1: 779861009_thumbnail_1.jpg
+image_medium_1: 779861009_medium_1.jpg
+image_full_1: 779861009_full_1.jpg
+image_thumbnail_2: 779861009_thumbnail_2.jpg
+image_medium_2: 779861009_medium_2.jpg
+image_full_2: 779861009_full_2.jpg
 ---
 Coleus (Plectranthus ) illustration by Benjamin Fawcett, a renowned woodblock printer considered to be one of the finest in the 19th century.
 ---

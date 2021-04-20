@@ -12,6 +12,12 @@ image_full_0: 467253908_full_0.jpg
 image_thumbnail_1: 467253908_thumbnail_1.jpg
 image_medium_1: 467253908_medium_1.jpg
 image_full_1: 467253908_full_1.jpg
+image_thumbnail_2: 467253908_thumbnail_2.jpg
+image_medium_2: 467253908_medium_2.jpg
+image_full_2: 467253908_full_2.jpg
+image_thumbnail_3: 467253908_thumbnail_3.jpg
+image_medium_3: 467253908_medium_3.jpg
+image_full_3: 467253908_full_3.jpg
 ---
 Physostegia Virginiana. Virginian False Dragon-head. Stem, with leaves, enlarged 15 times
 

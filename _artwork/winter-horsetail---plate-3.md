@@ -12,6 +12,12 @@ image_full_0: 480028659_full_0.jpg
 image_thumbnail_1: 480028659_thumbnail_1.jpg
 image_medium_1: 480028659_medium_1.jpg
 image_full_1: 480028659_full_1.jpg
+image_thumbnail_2: 480028659_thumbnail_2.jpg
+image_medium_2: 480028659_medium_2.jpg
+image_full_2: 480028659_full_2.jpg
+image_thumbnail_3: 480028659_thumbnail_3.jpg
+image_medium_3: 480028659_medium_3.jpg
+image_full_3: 480028659_full_3.jpg
 ---
 Equisetum hiemale. Winter Horsetail: enlarged 12 times.
 

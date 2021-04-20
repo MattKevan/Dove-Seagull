@@ -12,6 +12,12 @@ image_full_0: 293363367_full_0.jpg
 image_thumbnail_1: 293363367_thumbnail_1.jpg
 image_medium_1: 293363367_medium_1.jpg
 image_full_1: 293363367_full_1.jpg
+image_thumbnail_2: 293363367_thumbnail_2.jpg
+image_medium_2: 293363367_medium_2.jpg
+image_full_2: 293363367_full_2.jpg
+image_thumbnail_3: 293363367_thumbnail_3.jpg
+image_medium_3: 293363367_medium_3.jpg
+image_full_3: 293363367_full_3.jpg
 ---
 &#39;Tulip, two Branches of Myrtle and two Shells&#39;, painted in 1700 by Maria Sibylla Merian
 

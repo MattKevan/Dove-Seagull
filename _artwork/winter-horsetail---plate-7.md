@@ -12,6 +12,12 @@ image_full_0: 466537682_full_0.jpg
 image_thumbnail_1: 466537682_thumbnail_1.jpg
 image_medium_1: 466537682_medium_1.jpg
 image_full_1: 466537682_full_1.jpg
+image_thumbnail_2: 466537682_thumbnail_2.jpg
+image_medium_2: 466537682_medium_2.jpg
+image_full_2: 466537682_full_2.jpg
+image_thumbnail_3: 466537682_thumbnail_3.jpg
+image_medium_3: 466537682_medium_3.jpg
+image_full_3: 466537682_full_3.jpg
 ---
 Equisetum hiemale. Winter Horsetail: enlarged 12 times.
 Hosta japonica. Savannah-wood: enlarged 4 times.

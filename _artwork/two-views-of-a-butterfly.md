@@ -12,6 +12,9 @@ image_full_0: 278678458_full_0.jpg
 image_thumbnail_1: 278678458_thumbnail_1.jpg
 image_medium_1: 278678458_medium_1.jpg
 image_full_1: 278678458_full_1.jpg
+image_thumbnail_2: 278678458_thumbnail_2.jpg
+image_medium_2: 278678458_medium_2.jpg
+image_full_2: 278678458_full_2.jpg
 ---
 This is a stunning 18th century watercolour study of a butterfly by Georgius Jacobus Johannes van Os.
 

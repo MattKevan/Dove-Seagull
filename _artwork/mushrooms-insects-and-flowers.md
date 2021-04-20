@@ -12,6 +12,12 @@ image_full_0: 854135132_full_0.jpg
 image_thumbnail_1: 854135132_thumbnail_1.jpg
 image_medium_1: 854135132_medium_1.jpg
 image_full_1: 854135132_full_1.jpg
+image_thumbnail_2: 854135132_thumbnail_2.jpg
+image_medium_2: 854135132_medium_2.jpg
+image_full_2: 854135132_full_2.jpg
+image_thumbnail_3: 854135132_thumbnail_3.jpg
+image_medium_3: 854135132_medium_3.jpg
+image_full_3: 854135132_full_3.jpg
 ---
 This is a page from from the remarkable &#39;Mira Calligraphiae Monumenta&#39; (The Model Book of Calligraphy), the result of a collaboration across many decades between a master scribe, the Croatian-born Georg Bocskay, and Flemish artist Joris Hoefnagel. 
 

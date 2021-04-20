@@ -9,6 +9,12 @@ tags: ["Poster print", "Giclee print", "Botanical", "Botanical art", "Wall art",
 image_thumbnail_0: 291707577_thumbnail_0.jpg
 image_medium_0: 291707577_medium_0.jpg
 image_full_0: 291707577_full_0.jpg
+image_thumbnail_1: 291707577_thumbnail_1.jpg
+image_medium_1: 291707577_medium_1.jpg
+image_full_1: 291707577_full_1.jpg
+image_thumbnail_2: 291707577_thumbnail_2.jpg
+image_medium_2: 291707577_medium_2.jpg
+image_full_2: 291707577_full_2.jpg
 ---
 American Maiden-Hair Fern (Adiantum Pedatum). Young fronds enlarged eight times. Plate 55.
 

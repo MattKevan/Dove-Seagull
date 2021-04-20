@@ -12,6 +12,12 @@ image_full_0: 293973471_full_0.jpg
 image_thumbnail_1: 293973471_thumbnail_1.jpg
 image_medium_1: 293973471_medium_1.jpg
 image_full_1: 293973471_full_1.jpg
+image_thumbnail_2: 293973471_thumbnail_2.jpg
+image_medium_2: 293973471_medium_2.jpg
+image_full_2: 293973471_full_2.jpg
+image_thumbnail_3: 293973471_thumbnail_3.jpg
+image_medium_3: 293973471_medium_3.jpg
+image_full_3: 293973471_full_3.jpg
 ---
 Adapted from a vintage botanical book, these fantastic prints would liven up any kitchen or other room in your house. 
 

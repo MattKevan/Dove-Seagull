@@ -2,7 +2,7 @@
 artist: 'Shirley Hibberd'
 title: Beautiful-Leaved Plants
 lead: ''
-image: "collections/leaves2.jpg"
+image: "leaves.jpg"
 categories: []
 tag: 'Leaf print'
 thumb: ''

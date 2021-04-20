@@ -12,6 +12,12 @@ image_full_0: 279224572_full_0.jpg
 image_thumbnail_1: 279224572_thumbnail_1.jpg
 image_medium_1: 279224572_medium_1.jpg
 image_full_1: 279224572_full_1.jpg
+image_thumbnail_2: 279224572_thumbnail_2.jpg
+image_medium_2: 279224572_medium_2.jpg
+image_full_2: 279224572_full_2.jpg
+image_thumbnail_3: 279224572_thumbnail_3.jpg
+image_medium_3: 279224572_medium_3.jpg
+image_full_3: 279224572_full_3.jpg
 ---
 This lovely tulip botanical watercolour study was painted in the 1600s. I love the the depth the paper texture brings to the image.
 

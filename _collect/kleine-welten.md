@@ -4,8 +4,8 @@ artist: Wassily Kandinsky
 description: "Published in 1922, shortly after Vasily Kandinsky began teaching at the Bauhaus."
 tag: Kandinsky
 tags: []
-image: collections/kandinsky2.jpg
-cover: kandinsky-cover.jpg
+image: kandinsky.jpg
+cover: kandinsky.jpg
 ---
 
 As the artist explains in the portfolio's introduction, each technique was chosen for its unique character: etching is characterized by its precision and appropriateness to the study of lines; woodcut is marked by the interplay of foreground and background, and the richness of textures; lithography combines a range of markings and colors to produce an image that most closely approximates a painting. 

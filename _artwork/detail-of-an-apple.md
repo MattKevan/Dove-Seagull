@@ -12,6 +12,12 @@ image_full_0: 292066179_full_0.jpg
 image_thumbnail_1: 292066179_thumbnail_1.jpg
 image_medium_1: 292066179_medium_1.jpg
 image_full_1: 292066179_full_1.jpg
+image_thumbnail_2: 292066179_thumbnail_2.jpg
+image_medium_2: 292066179_medium_2.jpg
+image_full_2: 292066179_full_2.jpg
+image_thumbnail_3: 292066179_thumbnail_3.jpg
+image_medium_3: 292066179_medium_3.jpg
+image_full_3: 292066179_full_3.jpg
 ---
 This stunning apple botanical watercolour study is from a series of watercolours painted in the early 1900s.
 

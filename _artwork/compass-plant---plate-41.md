@@ -12,6 +12,12 @@ image_full_0: 480963937_full_0.jpg
 image_thumbnail_1: 480963937_thumbnail_1.jpg
 image_medium_1: 480963937_medium_1.jpg
 image_full_1: 480963937_full_1.jpg
+image_thumbnail_2: 480963937_thumbnail_2.jpg
+image_medium_2: 480963937_medium_2.jpg
+image_full_2: 480963937_full_2.jpg
+image_thumbnail_3: 480963937_thumbnail_3.jpg
+image_medium_3: 480963937_medium_3.jpg
+image_full_3: 480963937_full_3.jpg
 ---
 Silphium Laciniatum. Compass Plant. Leaf dried on the stem enlarged 5 times.
 

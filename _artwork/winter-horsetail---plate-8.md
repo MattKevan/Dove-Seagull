@@ -9,6 +9,12 @@ tags: ["Poster print", "Botanical", "Botanical art", "Wall art", "Botanical post
 image_thumbnail_0: 480029043_thumbnail_0.jpg
 image_medium_0: 480029043_medium_0.jpg
 image_full_0: 480029043_full_0.jpg
+image_thumbnail_1: 480029043_thumbnail_1.jpg
+image_medium_1: 480029043_medium_1.jpg
+image_full_1: 480029043_full_1.jpg
+image_thumbnail_2: 480029043_thumbnail_2.jpg
+image_medium_2: 480029043_medium_2.jpg
+image_full_2: 480029043_full_2.jpg
 ---
 Equisetum Hiemale. Winter Horsetail: enlarged 10 times.
 Rhamnus Purshiana. Californian Bear-berry: enlarged 25 times.

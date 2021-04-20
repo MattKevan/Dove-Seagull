@@ -12,6 +12,12 @@ image_full_0: 467254292_full_0.jpg
 image_thumbnail_1: 467254292_thumbnail_1.jpg
 image_medium_1: 467254292_medium_1.jpg
 image_full_1: 467254292_full_1.jpg
+image_thumbnail_2: 467254292_thumbnail_2.jpg
+image_medium_2: 467254292_medium_2.jpg
+image_full_2: 467254292_full_2.jpg
+image_thumbnail_3: 467254292_thumbnail_3.jpg
+image_medium_3: 467254292_medium_3.jpg
+image_full_3: 467254292_full_3.jpg
 ---
 Cassiope tetragona. A variety of heather enlarged 12 times. 
 Chrysanthemum leucanthemum. Ox-eye Daisy. Flower-bud enlarged 16 times.

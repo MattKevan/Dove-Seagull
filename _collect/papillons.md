@@ -4,8 +4,7 @@ artist: EA Séguy
 layout: collection
 description: Emile-Allain Séguy was one of the leading French designers at the beginning
   of the 20th century, working in both the Art Deco and Art Nouveau styles.
-thumb: "/images/papillons-thumb.jpg"
-image: "collections/papillons2.jpg"
+image: "papillons.jpg"
 categories: []
 tag: 'Papillons'
 

@@ -12,6 +12,12 @@ image_full_0: 480963851_full_0.jpg
 image_thumbnail_1: 480963851_thumbnail_1.jpg
 image_medium_1: 480963851_medium_1.jpg
 image_full_1: 480963851_full_1.jpg
+image_thumbnail_2: 480963851_thumbnail_2.jpg
+image_medium_2: 480963851_medium_2.jpg
+image_full_2: 480963851_full_2.jpg
+image_thumbnail_3: 480963851_thumbnail_3.jpg
+image_medium_3: 480963851_medium_3.jpg
+image_full_3: 480963851_full_3.jpg
 ---
 Polypodium Vulgare. Common Polypody, Adder&#39;s Fern. Young frond enlarged 7 times.
 Ribes Nigrum. Common Blackcurrant. Enlarged 5 times.
