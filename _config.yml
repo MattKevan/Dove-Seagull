@@ -11,20 +11,13 @@ email: m@kevan.tv
 description: High quality retro & vintage inspired art poster prints
 baseurl: "" # the subpath of your site, e.g. /blog
 
-url: "https://www.thedoveandtheseagull.com" # the base hostname & protocol for your sites
+url: "https://dev.thedoveandtheseagull.com" # the base hostname & protocol for your sites
 
 # Build settings
 markdown: kramdown
 sass:
   sass_dir: _sass
 
-cloudinary_url: https://res.cloudinary.com/dl4abuxel/image/upload
-thumbnail: c_scale,w_400
-a4_frame_large: c_scale,q_auto,w_800/c_mpad,g_center,h_1212,w_880/g_center,l_A_frame
-a4_frame_small: c_scale,q_auto,w_800/c_mpad,g_center,h_1212,w_880/g_center,l_A_frame/c_scale,w_400
-8x10_frame_large: c_scale,q_auto,w_800/c_mpad,g_center,h_1080,w_880/g_center,l_8x10_frame
-8x10_frame_small: c_scale,q_auto,w_800/c_mpad,g_center,h_1080,w_880/g_center,l_8x10_frame/c_scale,w_400
-thumbnail_square: c_scale,w_400/c_crop,g_face:center,h_400,w_400
 excerpt_separator: ---
 
 collections:
