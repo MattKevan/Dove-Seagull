@@ -8,8 +8,7 @@ description: 'Karl Blossfeldt was a German teacher, sculptor and photographer ce
   by early modernists and the Surrealists for his pioneering close-up photography
   of plants and flora. '
 tag: Urformen der Kunst
-thumb: ''
 image: "blossfeldt.jpg"
-
+cover: "blossfeldt.jpg"
 ---
 Using a homemade camera and lens, he was able to magnify a subject 30 times, capturing the fine detail of his specimens.

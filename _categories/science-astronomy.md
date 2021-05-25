@@ -2,6 +2,6 @@
 title: Science & astronomy
 description: 
 section: 32925048
-cover: science.jpg
+cover: trouvelot.jpg
 image: science.jpg
 ---

@@ -7,8 +7,7 @@ description: From 1935 to 1936, as part of the New Deal Works Progress Administr
   and health and educational programs.
 section_id: 19058808
 tag: 'WPA'
-thumb: ''
 image: "wpa.jpg"
 artist: 'WPA'
-
+cover: wpa.jpg
 ---

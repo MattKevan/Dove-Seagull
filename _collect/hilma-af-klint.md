@@ -4,7 +4,6 @@ categories: []
 layout: collection
 description: Hilma af Klint was a Swedish artist and mystic whose paintings were the first known Western abstract art.
 tag: 'Hilma af Klint'
-thumb: ''
 image: "klint.jpg"
 artist: 'Hilma af Klint'
 cover:  klint.jpg

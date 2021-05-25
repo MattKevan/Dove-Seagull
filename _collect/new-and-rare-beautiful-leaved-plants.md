@@ -5,6 +5,5 @@ lead: ''
 image: "leaves.jpg"
 categories: []
 tag: 'Leaf print'
-thumb: ''
-
+cover: "leaves.jpg"
 ---

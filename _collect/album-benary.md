@@ -9,5 +9,5 @@ lead: The U.S. Department of Agriculture's Pomological Watercolor Collection is 
 tag: 'Album Benary'
 thumb: ''
 image: "benary.jpg"
-
+cover: benary.jpg
 ---

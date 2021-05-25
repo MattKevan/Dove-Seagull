@@ -6,9 +6,8 @@ layout: collection
 description: "The remarkable 'Mira Calligraphiae Monumenta' (The Model Book of Calligraphy), was the result of a collaboration across many decades between a master scribe, the Croatian-born Georg Bocskay, and Flemish artist Joris Hoefnagel."
 section_id: 19058808
 tag: 'Joris Hoefnagel'
-thumb: ''
 image: "calligraphy.jpg"
-
+cover: "calligraphy.jpg"
 ---
 
 In the early 1560s, while secretary to the Holy Roman Emperor Ferdinand I, Bocksay produced his Model Book of Calligraphy, showing off the wonderful range of writing style in his repertoire. 

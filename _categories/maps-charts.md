@@ -2,6 +2,6 @@
 title: Maps & charts
 description: 
 section: 32474878
-cover: see-america.jpg
+cover: yaggy.jpg
 image: charts.jpg
 ---
